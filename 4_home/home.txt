@@ -1,0 +1,13 @@
+Title: About
+
+----
+
+Date: 2022-02-02
+
+----
+
+Text:
+
+[Design and machine learning: automation in power?](https://www.hesge.ch/head/projet/design-et-machine-learning-lautomatisation-au-pouvoir) is a research project of [IRAD](https://www.hesge.ch/head/formations-recherche/recherche), [HEAD – Genève](https://www.hesge.ch/head).
+
+We are currently building an experimental tool to explore the subjects explored in this research project.

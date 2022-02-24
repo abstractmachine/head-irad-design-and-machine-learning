@@ -1,0 +1,7 @@
+Title: Interviews
+
+----
+
+Text: 
+
+We have conducted a series of Interviews with various designers and engineers to better understand the current state of the art and the problems associated with integrating artificial intelligence into a graphic design workflow.
