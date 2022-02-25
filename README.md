@@ -1,10 +1,14 @@
- Design And Machine Learning
+Design And Machine Learning
+
+## Blog Content
+This is the blog contents folder for the [Design and machine learning](https://www.hesge.ch/head/projet/design-et-machine-learning-lautomatisation-au-pouvoir) project. It 
+
 ## Research Project
 
-[Design and machine learning: automation in power?](https://www.hesge.ch/head/projet/design-et-machine-learning-lautomatisation-au-pouvoir) is a research project of [IRAD](https://www.hesge.ch/head/formations-recherche/recherche), [HEAD – Genève](https://www.hesge.ch/head).
+[Design and Machine Learning: Automation Takes Command?](https://www.hesge.ch/head/projet/design-et-machine-learning-lautomatisation-au-pouvoir) is a research project of [IRAD](https://www.hesge.ch/head/formations-recherche/recherche), [HEAD – Genève](https://www.hesge.ch/head).
 
 - November 2021 to June 2022
-- Leading institution: HEAD – Genève
+- Leading institution: Leading institution: HEAD – Genève, [HES-SO](http://hes-so.ch)
 - Applicant and project leader: [Anthony Masure](https://www.anthonymasure.com)
 - Project team: [Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu), [Douglas Edric Stanley](https://abstractmachine.net/en/biography)
 - Project partner: Yaniv Benhamou, UNIGE
