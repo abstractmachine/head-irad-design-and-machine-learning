@@ -1,0 +1,175 @@
+Title: Meredith Thomas
+
+----
+
+Date: 2022-02-23
+
+----
+
+Audio: head-irad-dml-interview-meredith-thomas.m4a
+
+----
+
+Interviewee:
+
+[Meredith Thomas](https://merediththomas.co.uk)
+
+----
+
+Interviewer:
+
+[Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+
+----
+
+Text:
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript:
+
+**Alexia:** Hi, thank you so much for taking the time this morning to talk about our research projects. And I think as a introduction question, it will be great. If you could tell us about your practice and what are your main interests first. And then we could diving into the most specific question.
+
+**Meredith:** , it is a little hard, cause I'm a sort of a unconvetionnal case. My undergraduate background is in biomedical engineering. And I sort of moved through a master's in science communication. And some other sort of sidetracks and international development to where I am now.
+
+But I just think, I think always I've had this interest in sort of combining creative and technical disciplines. Even while I was as a graduate engineer, I was running art societies and trying to gout science collaborations off the ground and I think universities also wearing counselors machine learning, artificial intelligence.
+
+First time. I was just sort of fascinated by it. So technically and conceptually yeah, and the last five or six years, it's just sort of been developing this practice. I was kind of mostly described myself as a creative technologist professionally or a creative developer. So I'm sort of self-taught programmer and sort of also sort of, self-taught mostly in the machine learning space as well.
+
+And yeah, I sort of mostly make a living, I guess he's just sort of selling my services to other art projects or studios or now increasingly I work in kind of performance. So theatrical production. And then try as much as possible to keep my in practice going along sides. Just in terms of kind of creative coding yeah.
+
+I think because I have a bit of an academic background as well. I spent a lot of time going to the original research and machine learning, really trying to keep up to date as possible, and then just always have an eye out for things that could be used or misused or or used in a creative domain somehow.
+
+**Alexia:** What type of tool do using machine learning? Do you usually try in your, in your practice or is usually more that you create your own tools?
+
+**Meredith:** I actually see lots of roles and spaces for machine learning, creative projects. And I think there's lots of different ways you can kind of conceptualize them and think about directly applying them. And I guess, because I work on a lot of different projects, I've kind of seen all of these approaches.
+
+So sometimes it is just Yeah. I mean, sometimes it is just this tool, right? I think, you know, and kind of now spending a lot of time with performers and, you know, they're very interested in new pose detection, sort of mainstream tracking this kind of thing, but it's really quite functional, you know, they want to, they want to use that to just make possible some kind of, stage magic.
+
+I think there's a right at the other end of the spectrum, more conceptual artists who just have this instinctive attraction to the idea of working with artificial intelligence. They just kind of, they just have this desire to have non-human agents acting in their work.
+
+And yeah. And we'll often just come to you and be , I want AI of this piece kind of thing. But I'm also seeing opens up it's , as soon as you're using artificial intelligence that carries all these sort of signifiers with it to an audience, which means you can start to talk about kind of non human agency and really poetic way is it just needs this.
+
+, I think it always does need this kind of authentic attempt and the sensor, if it's to actually implement something. Yeah. And then in the middle, there's kind of this, this, I think this really interesting space, which is, I think the space that I'm more interested in, personally, which is , just thinking how machine learning can change the way we fundamentally do creative work.
+
+And sometimes that's just because it has some kind of affordance, the generative capabilities of artificial intelligence are going to just open up a new potentials and the way people do creative practice
+
+I think incidentally as the same in programming I think the analogy there is maybe easier to make because. Just , increasingly thinking about differentiable programming and, and the fact that you can kind of get behaviors from computers without specifically encoding them.
+
+Really just by collecting your datasets . I think people are beginning to realize that that, that opens up a completely new way of doing programming. Right. It's where instead of prescribing rules, you're kind of prescribing tasks and then providing data and I think, yeah, the creative realm has. Transformation to undergo somehow it's just possibly a little harder to settle more abstract. 
+
+**Alexia:** If we stay in that space know would you mind sharing with us a project that you've done with that, or just to give us an idea of your process? , how do you usually go about. Creating your own dataset 
+
+**Meredith:** I'll tell you about a personal question. Because it's a good example of this. I have now been working on, I think for about five or six years or something. I kind of conceptualized right when I was at the beginning of this journey somehow. I used to do a lot of drawing a lot of sketching, I've always thought that drawing is actually a way of thinking about how you interact with the machine, because it's so intimate so direct directs it's almost the only constant throughout the entirety of our history is everybody has pen to paper and and try to represent what they see or what they imagined. Yeah. And I think when I started on machine learning, I immediately thought it's , okay, this is , it's quite simple data, right?
+
+Data, let's try and train some kind of predictive agents and then make some kind of drawing application where you can really. Focus in on this, what happens when you do draw, really specifically with a machine? What kind of dynamics could you experiment? Is it, do you want to have it as something that makes suggestions to you?
+
+If you want to have this, something that just intervenes occasionally without you being able to prevent. So I said about trying to tackle this problem, and then it becomes this enormous exercise, right? Where do I get the data to train this? ? Okay, well, I have a bunch of old drawings.
+
+Can I digitize them? So I sort of tried this and obviously not because that doesn't contain the, you know, I digitized 500 drawings, but it doesn't show you anything about where the actual lions are. Right? Even if I vectorized in a way. So I need to kind of collect my own data.
+
+How do I do that? Well, I can't use any existing drawing application. So then you have to go it, go and start building an application. And then I think I started this right when I was, again, a young creative coder it's a hard job.
+
+I was trying to build it from Movale , eventually it kind of petered out and they ran out of time. So that was attempt two at this project. I'm finally, actually, It's a couple of weeks I'm coming back to this now, have an application that I'm really happy with that is usable as a tool that stores, all of this data.
+
+And now I have this probably spend a year just doing sketches every week. And then I can maybe start the process of training a model. And it just becomes these enormously long, pipelines somehow. But I think that's yeah, that is I think the best way to work. Really generating your own data and working from yourself.
+
+**Alexia:** That's a great example I have a question regarding the, the usability of this tool. , let's say if you were give it to someone else, would they be.
+
+Able to use it because the question I'm trying also to get at is how can we make those tools more approachable for designers? I'm thinking tools such as runway, for example, which are really specific for one thing, of course, or even you know, Google collab are also a good way to get into machine learning.
+
+So how did you go into thinking of them accessibility of this tool that you create? Is it only for you or do you imagine sharing with other people? 
+
+**Meredith:** Yeah. And this is interesting, right? I would love to be able to share this application. Of course I would love for other people to use it. That's definitely one of the intentions of it. I'm investing time actually in trying to make it at least somewhat usable by other people and to have some slightly wider applications than just drawing because no one's going to use that.
+
+But, yeah. And then there's also a question if I have some kind of model trained, , and then it's kind of built into this application, , do I want other people's data in that? , is this a relationship I want with the single agent myself? Or, we want to open this up to be something that is trained, but everybody stays. So it will actually, is that something interesting you want, so then have some ability to configure open questions in my head, 
+
+**Alexia:** What's your experience of using tools that are available right now? On the web? 
+
+**Meredith:** I have to say, cause I'm a programmer I tend to really load using other tools. And I think even when I'm teaching, I really stay away from them actually. I mean, I have a lot of respect for runway. I think it's an amazing project, but I don't using it myself.
+
+And that's just kind of a problem, I think with creative coding in general, right? I began to sense actually that this is not a technology that is going to be very easy to just hand over to people in an easy interface. It's required that people who are going to be using it certainly in the short term. Have a good as good, an understanding of possible of what a neural network actually is doing, how it is being trained, how the architecture is.
+
+These neural networks are structured. Because otherwise it's just a confusion surprise and confusion engine. Really wants to encourage us as creative to , Very strongly with the with the actual, how the technology works, because I think that's where the fruitful discoveries are going to come from at the moment.
+
+As soon as it's kind of hidden away behind this interface you know, any of these online tools or something, people just kind of use it and sort of bang something out and get results. There's no incentive to really actually innovate. , I would say the exception to this is there's definitely a role for people.
+
+Just kind of intuitively navigating through latent spaces. And , this is where all this GaN art comes from, I guess, as people who, who had just very good generative artists who had just handed a system and try and extract something from it. But I think that's a real limitation to.
+
+Well, that will get you. And then maybe further in the future we have conversational interfaces with these things and you have much richer ways of navigating latent spaces and models. And then possibly at that point, maybe they could be handed over, but in the short term for me, I think , realistically people need to be quite engaged.
+
+The only other, the only other point I was going to make is , does it, there's another big problem. I think with some tools runway, which is that they still charge, you know, it's not really disincentive experimentation, for years and years, I couldn't afford my and GPU.
+
+And I was the spending half of the money. I you know, Paperspace remotes or remote machines. And you feel really guilty, you know, every time. Spin it up your you know, you're costing yourself money, which you probably do think of as a young artist. And I could really disincentivize experimentation and I've had to just invest in my own hardware, as a super high priorityjust to enable me to have
+
+I have the freedom to play. So I think that's also a bit of an issue with some of these tools. 
+
+**Alexia:** Do you do you usually use machine learning as an end in itself, or sometime you going to use it in another stage of your process? 
+
+**Meredith:** For me, the attraction is always going to be in , creating something which shows evidence of intelligence. That's where I want the surprise to come from video against. I could use it just needs to show that in the results or, or through the process of explanation, but Yeah, I think for me, it is very much about that. And also just the showing off of it.
+
+**Alexia:** Could you tell me more about what do you mean by showing evidence of intelligence? 
+
+**Meredith:** I sort of came into this from generative art, which is sort of an adjacent field, right.
+
+And if you're a a connoisseur of generative art, you realize that often what you're responding to in a piece of artists, it always hovers on this site between this on this boundary of chaos and structure, right?
+
+Your brain is kind of subconsciously seeing the structure in it, which has been encoded in the algorithm, the generator dead. And I think what machine learning offers is a start. This is also an opportunity to start doing that kind of mixollogy of, generative coding, but within a little bit, a much richer ability to have representation.
+
+So instead of just having abstract blobs kind of move around in a complex and interesting organic way, you could have , you can create dynamics within the space of representation, actual images, say of things or 3d constructions of things that appear real and transition between each other. So I think this is the ability to kind of combine , real and representative generative, visuals with complex design systems in interesting ways 
+
+**Alexia:** What was your experience mixing machine learning and 3D because that's, I feel that that's something pretty unique that we starting to see more and more with those meta human, generic in human with GANs. And could you share maybe a bit about that because that's really unique about, your work 
+
+**Meredith:** yeah, it's interesting. I will say just yeah, I just taught a class on volumetric AI and reacts a few months ago. It was , they were really, really pushing the topic side because I'm not even sure it's a field yet properly, but you're right. It's definitely kind of emerging and it was, it was interesting trying to put together a class, a workshop on that.
+
+Helen, I think the sculpture piece you're referring to there's obviously affected people in that way. I'm still pretty unimpressed in general by what we can do in this 3d space. Okay. I can see us that the, we are really rapidly improving things. I don't know if you followed two minute papers. Very interesting. His interests kind of combine kind of these graphics, rendering simulation stuff with with machine learning. And there is a lot of research, which , I dunno, I think it comes from this very, X-rated SIGGRAPH world of super high end 3d graphics and special effects stuff where they're increasing any thoughts, things that have completely differential render pipelines and, and getting a lot better at generating training 3d Giant shift models.
+
+And it's pretty hard to see how that isn't going to have , just an enormous impacts on, on artist's ability to just evoke images, that's the potential of it. In some ways you know, some ways Hele looks terrible, right? , I guess I'd say compared to what we're getting out of image Gans at the moment. 
+
+**Alexia:** You said that you would not impress right now about what was going on. Why, is that? what are you missing right now? 
+
+**Meredith:** There are two things we may be responding to visually and one is this kind of mixed representation thing. So it's, it was crazy when you saw faces blend through the space of faces, right?
+
+It's blend through this completely continuous spaces of how faces can look. And then looking at 3d models do this as well as obviously incredible because it's this infinite pith of new and believable things. And there's also just kind of the neural aesthetic itself, which is much harder to characterize, but people keep using the led dream, right?
+
+The wet dream clock sounds great really quickly. Right. And it's this mix these continuous functions and N D space, 
+
+instrumental goals of intelligence when it comes to visual processing, right? We'll vision systems with neural networks kind of reinvent a lot of the stuff that the human eye has for edge detection, motion detection, this kind of thing, and say the way that those neural network
+
+see the world is kind of , we recognize also the way we perceive the world and when when a neural network dreams, it is quite a lot an LSD trip, right? We recognize that these things are perceiving the world in the same way as we perceive them. Or at least we see a kinship as somehow. And I think that's what we're really reacting visually and then will we see that in 3d? It's just another yeah, it's even more affecting, . 
+
+**Alexia:** I was curious to know if there's any type of machine learning application in the field of graphic design or design in general that you think are underused today, or that you'd be really curious to explore.
+
+**Meredith:** Within graphic design. That's quite interesting. Right. One thing you notice is that in machine learning, as people work a lot with pixels it's not so much with effects, right? Graphics or topography even. Those are probably two spaces where there's actually really been very little research at all. That could possibly have quite a big impact it starts to feel we're more in a tooling space, but yeah. Being able to kind of do automatic layouts being able to do kind of document generation more easily, you know, these things aren't trivial because the more they, you know, they're going to free up time and capabilities for designers to spend more time kind of tweaking and conceptualizing and doing the things that humans are good at.
+
+**Alexia:** Something that you mentioned to go back to your drawing project that you're doing. I spoke with a graphic designer and they were saying what they feel excited about when they work with machine learning tools is to find the balance between the materiality that you can get, you know, from drawings or writing.
+
+What's interesting is how we have to change the mindset right now. We have to be more in a predictive mindset when we engage with that. So how do you, how do you handle this ? 
+
+**Meredith:** There's a project I just finished, which of course it hasn't been released yet, but I'm relatively proud of.
+
+Based on , less well known kind of area of machine learning, which has really only come out last couple of years, I don't know if you came across these papers on, growing cellular or something that. And it's quite an interesting approach because, you know, cellular automata th game of life it's this model, a model for emergents as a phenomenon. And you have these grids of pixels and they obey simple rules. Have very limited perceptual fields. They can only see directly around them. And you can show very complicated behaviors. But there was some really interesting papers a couple of years ago, showing how you could kind of replace that rule with a little neural network.
+
+And then you could train the neural network for a given results. So, and that's a really weird way of working, right? Because you start with the result you want, and then you train a bunch of organisms, recreate it in an environment that can possibly show you a picture and it's a bit easier, but that was fascinating, right?
+
+Because, and then I sort of extended this to , not have these, these organisms learn to grow a specific image, but learns to reproduce a neural so that's really interesting, right? He can that we were almost working end to end so that they are where I would find a texture. I liked, I actually went out and took photographs in real nature, found things with colors and patterns in them.
+
+I liked gave that photograph to the thing, I trained the neural network with that image and the result wasn't even going to replicate the image, it was going to kind of replicate the style of the image. That was a really interesting way of working. That was really cool. And I, there are similar things as well now with differential rendering, for particle effects and things, I've seen some research about this, where again, you can kind of do the thing you could never do before, which is start with the results and then work out that kind of the intermediate steps to produce it.
+
+Within some kind of system with simulation and that is actually radically different from the way you normally work as with computers or isn't as a normal process. Right? 
+
+**Alexia:** does machine learning frightens you in, in any way? I mean, I know the word frightened can be a bit strong, but how, is there any, anything that sometime you feel scared about when using those tools?
+
+**Meredith:** What I mean, the criticisms of AI, a well-known, it's a bit of a punching bag with it and then the chattering classes. Yeah, I mean, I understand the concerns, obviously. I think everything has to do with privacy data. I think fortunately the whole kind of data bias problem has been very thoroughly highlighted at this point.
+
+And I wonder now whether we're even running a little scared, I get very, very annoyed when papers withholds the model they've trained. I'm extremely annoyed actually on the basis that they are kind of in some senses somehow protecting the public. It's terrible.
+
+You should always release an open source sets. Once it exists, it's out there. And I wonder whether we're too cautious on that now. And then I'm obviously personally afraid on how it changes the balance. Power between individuals and institutions and governments that have access to data.
+
+And , that is definitely a huge problem because it's a little bit about the technology and it been kept secret, but mostly our knowledge is shared on this, on the subjects of machine learning. , I don't think some laboratory is suddenly going to come out with, with Skynet without anyone noticing.
+
+And we're a very long way from artificial intelligence being a threat in that sense. But I do definitely worry about the fact that it's , the algorithm means nothing without a data sets. And those institutions that have availability of data have , I think an increasingly disproportionate power over everybody else actually. As I that's what scares me. 
+
+**Alexia:** Great. Thank you so much

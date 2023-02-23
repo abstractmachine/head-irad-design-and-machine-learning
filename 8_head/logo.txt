@@ -1,0 +1,11 @@
+Title: HEAD
+
+----
+
+Date: 2023-02-01
+
+----
+
+Text:
+
+(image:logotype-head-noir.svg link:https://www.hesge.ch/head/ class:logo)

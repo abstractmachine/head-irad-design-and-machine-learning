@@ -1,0 +1,105 @@
+Title: Boyd Rotgans
+
+----
+
+Date: 2022-03-01
+
+----
+
+Audio: head-irad-dml-interview-boyd-rotgans.m4a
+
+----
+
+Interviewer: [Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+
+----
+
+Interviewee: [Boyd Rotgans](https://rndr.studio/)
+
+----
+
+Text: 
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript: 
+
+**Alexia:** Hi. Thank you so much for being here with me today maybe as a first intro question, it will be great. If you could introduce yourself and also tell us more about what are your main interest in your studio, for example, what type of projects do you do?
+
+**Boyd Rotgans:** Yes. Thank you for inviting us. I'm happy to tell and share about our experience using machine learning. And, and we as a studio we are relatively small. We have a core team of four people but quite diverse. We have graphic designers. We have computer scientist, but as well interaction designers and we are quite regularly occupied with interns and preferred they are as international as possible. So we speak English all the time at the studio anyway. And our interns come from all over the world, let's say I think our client base is as well, quite diverse. We work for like sometimes corporations but as well for museums at the moment we are busy with a project for a library. The last year have worked a lot with filmmakers and architect bureau. So it's really nice to be kind of able to connect to all these different expertise in the field. And our interest. Yeah, I think to describe our studio, I think we are, our starting point is often data. And our goal is to make data accessible for an audience. And this audience can be. Like sometimes be already informed a bit about what the data is about, but sometimes it needs to be digestible for a bigger crowds as well. This is kind of the core. So often we, work from data and try to transform that in something tangible. And it can be especially during the pandemic, a lot of things became online. So I think the last two years we have been doing a lot more web projects, but are sort of, because interest is to make this also something that lives outside of the screen and can live in a space like an exhibition or. a theater or maybe even the lights sculpture. 
+
+**Alexia:** And if we diving with the subject of interest here could you maybe tell us what type of tools using machine learning do you already use in your creative process? And maybe if you could give us an example of a project where you use d such tools.
+
+**Boyd Rotgans:** Machine learning has been around for a long time, but especially the last let's say decade, there has been a lot of exponential growth and accessibility of those tools. Yeah, what's I think good to mention directly is that we in our studio develop our own framework.
+
+It's a framework for our creative coding and it's allows you to with simple lines of codes, draw something to the screen. , at the beginning of our studio, that's around almost five years ago, we As well open sourced this project with intention that people could as well participate in improving the framework. And at the same time, use it in their own profession because for us, it was created at the starting point for ourselves to help us build the products we need to make for our clients. Because sometimes it needs to be able to run over five years. So we need something solid or we want something that we can easily prototype with. So there were a lot of things we were missing. for ourselves to make our work better. 
+
+**Alexia:** Then do you, have you ever used machine learning in particular or do you usually create your own data set? I, can you take us through like your process? 
+
+**Boyd Rotgans:** Like what I didn't mention yet is that in this framework, we last year as well, implemented components to support machine learning and the machine learning Model state we are currently supporting are based on TensorFlow and TensorFlow is, is big project by Google that tries to to make those development accessible.
+
+And what's nice about TensorFlow that it's as well focused on being able to work on lightweight devices like mobile device. But as well allowed it to work on different Platforms as well as a windows, Linux Mac machines that really fit well in our framework. Your other question was where we used it, 
+
+**Alexia:** My question was like, how do you use this tool? And then I'm interested to know more about what was your consideration, when you build that tool and you added the machine learning component.
+
+**Boyd Rotgans:** A lot of our projects teams regarding machine learning come up also , from clients. So that's why we, maybe later I can tell a bit more about some examples of it. But in our tooling, it just really made sense to start to include this and extend our framework or I think it makes sense to work with them because they are very well already connecting with the existing mindset of, let's say creative coders and machine learning allows you to do this way quicker or a way more efficient, or allows you to find new insights that were before very hard to find and I have to say that in our studio there's also A good, a good critique against machine learning because often people come to us and say, I just do so machine learning. And it sounds like it's some kind of magic that solves everything and that's not it. It has definitely its limitations and although it's very promising, it also has very big flaws problems that also for us, the daily Workday it's normal, that, that we have to think about these things like what's It's machine learning, actually solving what we, what we're doing here. 
+
+**Alexia:** And then, so could you, could you tell more about what does this machine learning component do in, in a tool that you developing? Is it, is it trained on the specific dataset or can people tweak the data set, like in what could be the type of outcome that people could maybe hope to have 
+
+**Boyd Rotgans:** at the moment we support I think about eight different models and these models have all different like skills. And one of them for example, is to classify images. And other one is to do something like style transfer. There's one where it can tell you what's bring an image to text. So it's gonna allow you to connect it to something like kind of create new data from from an, an image archive. And we keep on adding more and more of those. This is currently as well with, depending on what TensorFlow is supporting. So as long as they develop, we are able to implement them. So let's say directly as well, limitation because training your own models is very intensive and requires a lot of first of all, data and data that as well, needs to be Brought in a certain condition to make it fit enough, to be able to do machine learning with it as it requires also a lot of computing power to then do the training.
+
+**Alexia:** And regarding what the usage of of this tool. Designers creating an expected things with it. Like what do you think so far about how design has been using your tool ? 
+
+**Boyd Rotgans:** To be honest, I don't know so well about how, if people already used it I I've seen people using it in trying it out context , but not really, I haven't seen an end product yet other than our own products. We just released this last year. So it's hard to say how that's going to be adopted. 
+
+**Alexia:** You were mentioning some examples of projects where you use machine learning. Could you maybe give us an example of one of those projects and, and when did you use machine learning in the process? Was it for the final outcome or was it more as like an inspiration at the beginning? 
+
+**Boyd Rotgans:** Yeah, I can tell a little bit about that project. It was a project where we were Asked by clients can a machine replace the role of a curator. So can in this case as was a exhibition for a photograph for and this whole collection of works were about to be presented in an exhibition and his work is already, very technical and very Like it was a lot about architecture and so it was a good match to see. Can the machine make a new idea about how to organize this in a presentable way for an audience and what we did, we feed it a machine with data and this data was created by the photographer. So for every picture that he took, we had to add text. And those texts would then be filled with the score. It was quite diverse. It could be something like being like loneliness could be a tech or also happiness or like emotions, but it could also be more literally about what's in the image. And then by scoring, he could give this a certain weight and this way it would then be used to try to map out kind of the clusters of images in his work.
+
+And what we eventually did was to have to train a model, to try to see if they can understand , his collection. And eventually we, what we did we used this information to A map and this map contains, always works. And then in installation, you could travel through the landscape of his is taggings, and these would be purely organized based on what the machine learns. So it was in a way very much a attempt, like it was a bit risky, what we did because the data set is relatively small. It was a set of only 240 images. And of course, For machine learning the more, the better. But still, yeah, you even then you already get data back that allows you to, to, to map those fields. Especially here, it was very important to have machine learning all parts of the process kind of think, especially in the beginning, because you really need to know what does this machine do? Like what are you working with? And I think more towards the end, it became less necessary than it was more about polishing the look and feel and how it's presented. I think mostly in the sort of prototyping phase, it was important and yeah, eventually you do a production stage and then the sort of final step is less about machine learning. 
+
+**Alexia:** Do you feel that's most of the case for all your projects where machine learning is more at the beginning of the process , or have you ever used more rough type of outcome for machine learning in one of your projects? Or maybe that's not interesting. It depends what the approach to having. 
+
+**Boyd Rotgans:** We haven't done a project yet where let's say during the exposition, the machine would keep on learning. That will be really, would be a really interesting one. But so far it hasn't been often. , that also requires a lot of thinking and how to make that feasible. We have done projects where like machine learning because. And this specific project, the machine learning is at some point done, and then you just presented results. But we are also doing projects where machine learning is still happening as in are you make use of the model constantly? So for example, we are at the moment working on a platform where We use machine learning to make new edits of never used video archives. And these archives are very much large. We have one that's over 60 hours and then. We would like to make the 60 hours accessible for an audience that can then transform those 60 hours into a small clip. And the user can kind of talk to the algorithm or to the machine and do a kind of a query. Like I want to have all the shots that contain this specific character. That's Has this color in this prominent color in the shot. So , you're kind of communicating with the machine and as we're in the machine, but it's not yet, the machine is learning again from that, 
+
+**Alexia:** but what do you mean by that?
+
+**Boyd Rotgans:** Like machine learning is a lot about of course that you, that the machine keeps on improving. It's like, and in this project about this film archive, we don't feed anything back into the model. You just use a pre-trained model. 
+
+**Alexia:** That sounds like a really interesting project. Is it released yet or you're working on it now?
+
+**Boyd Rotgans:** It's online, but it's not yet finished because at the moment, support is one archive and ideas to have many archives 
+
+
+
+**Alexia:** I have questions more related to. You know, helping designers use machine learning tools and in your mind, what do you think will be needed for these tools to be accessible to designers? Or maybe you have an example of a ML tool that you think is, you know, does a great job at that. 
+
+**Boyd Rotgans:** I think at the moment it still requires you to really do something new with machine learning, not doing the same trick all over again, it requires a lot of technical knowledge and that's challenging because A graphic designer, of course, is very excited to learn about those complex systems, but as well, it's not always their strengths or their biggest focus.
+
+**Alexia:** If you want to do new things that you don't stay in the loop of, like, let's say, use runaway all the time, you always have the same type of outcome. And there's definitely decided that designers almost need to learn how to do their own dataset, to be able to, you know, to use machine learning tools in a more creative way. But like, I was just interesting to know in your mind, what would need to happen. For designers to be able to use machine learning tools to be more accessible to them.
+
+**Boyd Rotgans:** In a small way, that's a little bit our attempt with our framework as well to make. Those models accessible and make it accessible in a way that you can see how it's implemented. So runway ML, I don't know if it's open source, but I think it's less important for them to tell you how they made it work for you. It's very much about plug and play. And I think what we try to do is also show. The codes, like how does TensorFlow integrate , in a creative coding framework and how can you like maybe you find somewhere else in another model, and then you can do make that your own . So for example, you could improve our framework as well by building new elements. Being open source and transparent about it, that's at least in our mindset, the best approach still, like, I think it's very exciting. Runway ML is doing because they make it super easy for a big crowd to work with it. And this there's also, and largest demands, which also is exactly what you are doing is that now there's this demand and it also pushes forward new questions.
+
+Like what else can we do with machine learning? How can we train our own models? That's, they are very much yet enabling that part. But then the step after that, like how do you get there? Yeah, I think just creating good examples. Good documentation is very important. That's that's I think for us also a big part, like how do we document it? This could be something that can be taught at schools and at the same time realized that it's not for everyone because it can be very technical and very, like, even for me a big part, I don't fully understand how does models work or that's still something for me also to learn or and then to create your own one that's, it's almost an impossible quest to do 
+
+**Alexia:** 
+
+Regarding the tool that you creating. Let's say I'm a graphic designer and I have basic knowledge of processing. For example, who would I be able to use your tool easily? , were you thinking of an audience that will have more knowledge in programming than that? 
+
+**Boyd Rotgans:** Our tool, fits very well with. People that kind of reach the limit of processing of P five and want to get to the next step? We are working on making it accessible for our starters. Currently, it's very suitable for the ones that already know a little bit of processing and know a little bit about this basic it's the, a lot of things are very similar. So you, if you would get processing, you would get open RNDR. 
+
+**Alexia:** And you mentioned that you chose eight models like you said, one is about like style transfer why did you choose these ones in particular?
+
+**Boyd Rotgans:** I think these ones were the ones that have always official aspects. So something that like can be easily integrated to visual program. And of course it's also dependent what we need in our studio, if we do a project we need, for example, face tracking, then we implement to the framework as well. And another part is that it's dependent on how well these modules are documented from TensorFlow's 
+
+**Alexia:** I have a question more, maybe it's more applied to the graphic design field, although I know your studio is more around interaction design, but I'd be curious to know what type of machine learning application in the field of graphic design do you think are not explored enough or that you'd be really curious to try
+
+**Boyd Rotgans:** It's really interesting to think of different aspects of user experience and machine learning is often very Exciting bit hard to explain. And I think graphic design has an important role in trying to explain this. So yeah, I think, and that can go hand in hand with what you're building. The UX UI part can be very exciting. And yeah, for me, at least work fields the last years. It's very exciting too, or I think it's, it's really challenging part to work with archive. So I think that's one of the aspects that I think are really great because we collect more and more data and a lot of archive. Alrighty last four years and they are super interesting, but so hard to explore by a person you still have this often, this super boring portal that you have to use to find something. But I think machine learning can also enable a new way of interacting with this heritage or this, data archive.
+
+**Alexia:** I just have one last question that we ask everyone to end the interview. Does machine learning frightens you in any way? Like you know, there's this big debate around, machine learning will, getting rid of graphic designers because now I have those tools. I create automatic layout, . What's your, what's your opinion about that?
+
+**Boyd Rotgans:** At the moment, what I see between boats, me and my colleagues and clients, and it's often, there's a sort of, and even to being like direct partners or It's sometimes hard to explain machine learning. Some people are very good in explaining technically, and, but there is also poetic part to it. Then it is really hard to sort of talk about. And I think that frightens me sometimes a bit as we don't, that everyone has sort of its own idea about what it is. It's a bit fake and And it's also, I think, yeah, really trying to, and it's also what we have in mind trying to get rid of this black box, because it's really like, so magic that happens there and you just say, yeah, sorry, but this is what the model tells us. So it has to be true. But that's as well and challenge that we have to, hopefully we can solve to be transparent about how a certain decision was made, or at least be able to tell what data went in and what, what results came out. So you can like almost as if you have a. If you buy so product in the supermarket, you also see what's inside how it was maybe produced that, that doesn't become too much like yeah, two big gap. If the gap becomes too big, I think that's a bit frightening. 
+
+**Alexia:** But in a way, you, you were trying to bring more transparency with your tool as well, because you mentioned that you trying to explain, and you have this open source approach really interesting. That's really unique in a way that you, that you do that. Great. Well, thank you so much.

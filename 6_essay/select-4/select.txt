@@ -1,0 +1,7 @@
+Input:
+La lecture psychanalytique de la cybernétique sera rapidement marginalisée par la montée en puissance des approches comportementalistes qui n’auront de cesse d’accroître leur emprise sur l’ensemble des activités humaines. En 1950, la même année que l’article de Turing sur les machines intelligentes, Wiener s’inquiétait du risque d’un progrès technique pouvant mener à un « usage inhumain des êtres humains » (Wiener, [1950-1954] 2014), qui se prolonge aujourd’hui dans la prolifération d’objets et de systèmes techniques dont la finalité est de fonctionner en continu, ce qui laisse donc l’individu en dehors du sens.
+
+----
+
+Output:
+Une lecture psychanalytique de la cybernétique met l'accent sur la relation entre la cybernétique et la psychologie humaine, en considérant comme ces outils et procédés sont susceptibles d'influencer l'humain et affecter les dynamiques psychologiques individuelles et collectives. Cette approche va à l'encontre des approches comportementales qui se focalisent sur l'étude de l'environnement et sur le contrôle de l'individu par des moyens externes.

@@ -1,0 +1,157 @@
+Title: Marta Revuelta
+
+----
+
+Date: 2022-02-23
+
+----
+
+Audio: head-irad-dml-interview-marta-revuelta.m4a
+
+----
+
+Interviewee:
+
+[Marta Revuelta](https://revuelta.ch)
+
+----
+
+Interviewer:
+
+[Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+
+----
+
+Text:
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript:
+
+**Alexia:** Bonjour Marta Revuelta, merci beaucoup de participer à notre projet de recherche pour commencer, je pense qu'il serait intéressant que tu nous parle des de tes principaux intérêts dans le domaine du design 
+
+**Marta:** merci Alexia! J'ai merci pour l'opportunité de faire partie de cette recherche qu'effectivement je trouve extrêmement intéressant. Je suis graphique designer comme tu le sais Mais j'ai aussi une formation de médias designer ma formation design d'interaction il m'a permis d'envisager pratique de graphic designer de complètement différent. mes dernières expériences comme un l'graphique designer. Je me suis trouvé à travailler sur des projets qui impliquaient l'intelligence artificielle autour de la pratique de graphic design. , c'est plutôt la disposition des outils qui permet à automatiser et performé tout ce que c'est les tâches et des productions que en graphique. Designer, il peut, il peut faire face j'ai trouvé plus son travail de mises en place des assistants de création plutôt par rapport à les départements des identités design lequel j'ai travaillé 
+
+**Alexia:** Est-ce que tu pourrais en dire plus par rapport à ce projet là , dans la mesure du possible c'est intéressant, c'est de connaître des limites. que tu as rencontrés dans la mise en place de ce assistant de creation 
+
+**Marta:** alors dans la pratique de la mise en place des gestions des projets sur lequel j'ai participé, des créer des outils pour performer, des tâches utilitaires au niveau de la production graphique.
+
+Je vais commencer par les pro. , au niveau des avantages, j'ai trouvé Il y a la question des facilités et éviter que les que les utilisateurs il se perd son temps dans des tâches répétitif qui peut être remplacé? par une machine. . Et qui peut à agiliser s'est les les au travail des plus un plus à la fin d'un certain longueur des utilisateurs.
+
+Après, je me suis trouvé avec les pros. C'était quelque chose des ce à part augmenter la performativité de la production. C'était quelque chose aussi intéressante dans ce point de vue des Il y a une attirance en général qui s'opère autour des ces questions de automatisation. , vu que les outils il va permettre bon déroulement des flots et éviter des tâches répétitives.
+
+Donc il y a un intérêt en général. Par contre dans le même sens. c'est un niveau de contrats. Je dirais que c'est des projets qui demande plusieurs compétences au niveau technique. Et du coup, , la gestion de mettre en place tous ces genres, des compétences et des experts autour du même projet. Ça prend du temps et c'est laborieux.
+
+Autant depuis le point de vue de l'utilisateur, je me dis Il faut dépasser un peu la première crainte des utilisateursqui ont très peur de la technique, ce n'est pas un savoir faire. , c'est juste une question de formation. Et aussi il faut amener les utilisateurs à un genre de formation. continue pour l'utilisation de ce genre d'outil. ça, c'est des habitudes pas très simple, a intégré dans son équipe de travail. 
+
+**Alexia:** C'est un outil que vous avez créé qui est sur mesure , qui répondait à un besoin en particulier et ses ou ou alors c'était dans l'optique de que ça devienne un outil qui puisse être aussi utiliser , en dehors de l'entreprise pour laquelle tu travailles. 
+
+**Marta:** On a développé plusieurs outils. sur le machine learning au sein des départements de création un des outils, effectivement, c'était la reconnaissance des formes au niveau des corporate identity and design , dans lesquels ils cohabitent, plusieurs identités. les autres ont intégré une nouvelle identité, son son plus établi. Ça dépend de l'échelle de, mais il y a beaucoup de départements qu'utilisent une identité obsolète. Dans ce cas, on essayait de mettre en place un outil des vérifications de bonne utilisation et l'identité de la marque. À ce moment là un des avantage qu'on a trouvé, c'était que on avait un département de l'intelligence artificielle. qui pourrait nous aider à mettre en place cette outil. Par contre, on fait un niveau de sécurité et au niveau de sa complexité technique des déploiements au sein de l'entreprise, il a fait que on a dû abandonner ce projet là. , c'était plus dans l'intégration et puis qu'on utilise des algorithmes très intrusif à ce moment là, l'outil devait analyser tous types de documents visuels, donc , autant la performativité de l'algorithme, était son avantage, et son desavantage en même temps car ça devenait très intrusifs au niveau des policies de confidentialités.
+
+Presque 
+
+**Alexia:** un outil 
+
+**Marta:** de surveillance exactement. Donc on a dû abandonner. Sinon après on a travaillé plus dans son processus des stockage d'archives et des intégration de server avec beaucoup de matériels. des photographies des matériels dans l'intégration d'un cloud avec Adobe Sensei et qui permet un référencement assez poussées dans l'analyse d'image. , ce qu'ils produisaient une énorme avantage des temp par rapport à la recherche, on en veut des images. Dans lequel il y a l'apparition de certaines personnes à certains contextes. Donc ça ça a été assez interressant a travaillé là-dessus 
+
+**Alexia:** Tu as tu as mentionee assistant de création qui aide à editer qu'il va classer des informations, des images si on va plus dans les outils pour la création. est-ce que par exemple il y a des choses Alors sans forcément parler de l'expérience que tu as eu en entreprise mais est-ce que toi, il y a des outils qui utilisent du machine learning que tu utilises aussi dans ta pratique ou dans ton processus de création 
+
+**Marta:** Alors actuellement je suis entrain de vraiment faire la recherche préliminaires. autour du concept des GAN. , c'est un algorithme qui permet quand même de la création de visuels, et actuellement ce que je suis très intéressé par rapport au GANs à la question des discriminator et generator comment on peut s'est éloigné de la donner d'origine, quand. On procède à la création de nouvelles visuels je suis très intéressée à la notion des bruits. Et je suis à la recherche des remplacer cette vos bruits qui en appelle que c'est toujours visuel à la recherche de remplacer cette donnée. passer de visuels à acoustique ce qui veut dire que le bruit devient une donnée son et c'est son je regarde et s'il va pouvoir deformer un peu ou modifier les visuels d'origine. Je suis plus dans cette recherche esthétique mais toujours lié avec des composants. d'origine que c'est la donnée d'integration d'intégration. qui a deux sens par rapport à ma recherche. d'interaction , 
+
+**Alexia:** On devient presque habitués à l'esthétique des GANs ce qui serait dommage, c'est que ces outils là impose aussi un nouveau type de esthétique tu as l'habitude de travailler avec des programmeurs et des ingénieurs . Mais est ce que tu pourrais nous partager avec nous? Comment tu mets ça en place? Est ce que tu crées t'es propre base de données qu'elles sont peut être plus les premières étapes? , quand tu met en place un projet comme ça 
+
+**Marta:** alors la première étape, c'est toujours la recherche, un niveau algorithmique, ça c'est essentiel. Parce que, , j'ai quand même l'habitude de travailler avec des développeurs dans lesquels eux, ils ne vont pas pouvoir savoir exactement. quel type des recherches avec laquelle j'ai envie de procéder. Donc , j'ai fait beaucoup de recherches au niveau des articles scientifiques les algorithme toute une espèce d'état de l'Art algorithmique par rapport à des algo de machine learning. Essayons de trouver exactement l'architecture qui peut associer a mon concept des interactions et des installations , ou des productions même. c'est une recherche très introspectif donc ça, c'est une première étape essentielle une fois que j'ai compris et qui sait trouver les architecture, les relations algorithmique par rapport à mon projet. Donc j'ai fait appel à à des développeurs. à ce moment là, il devient un travail très important, que c'est la visualisation. J'ai rencontré un peu de difficulté à représenter visuellementmes concepts de production, à quoi ça doit ressembler? Qu'est ce que le système doit faire? Donc à ce moment là, il y a beaucoup des créations de scénarios, des cartographies d'interaction. beaucoup de système, des diagrammes techniques, des schémas techniques à niveau d'interaction. C'est tout un près de travail qui va être modifiée, tout au long du process la collaboration parce que Il y a beaucoup de choses qui ne sont pas extrêmement bien compris et et aussi un autre travail. Parallèlement, ce que j'essaye de faire une recherche par rapport aux codes. , j'essaie de macher quand même le plus possible du travail aux développeurs pour trouver des codes open source des neural network Déjà entraîné pour qu'ils allaient mois de travail possibles , parce que c'est déjà énorme le travail qu'ils ont au niveau de développement et c'est J'essaie de travailler avec eux dans la mesure où je peux agir. donc à un niveau de développement, ça va, ça peut pas être des grands aide après la première, une des premières étapes, les processus il est établi, c'est la création des data set
+
+, je trouve très intéressant de s'est approprié les l'architecture des réseaux, les approprier, les détourner pour qu'il fasse du sens pour les projets. Conceptuellement, que j'ai une tête, donc c'est pas un peu de mal a m'adapter aux outils qui sont déjà proposés. J'ai plus besoin de mes appropriés les algorithmes des basses et créer mes propres outils. , c'est parce que c'est un travail quand même très introspectif aussi, vers ce système-là et après ça devient un travail extrêmement mon laborieux inintéressant mais qui est complètement nécessaire et ça va poser toute la base de tout projet. en machine learning je veux dire si on regarde avec un vous voulez créer tout le un outil qui compose des des affiches avec des emojis il va falloir faire toute une data set avec des emojis et des décomposition, donc pour apprendre la machine à faire après. ce que vous voulez faire donc? Et après, une fois que les développeurs, les machines, les scientifiques sont, ils ont compris un peu ce qu'on cherche.
+
+Il y a toute la question de suivi des projets. , ça doit être ou collaboration assez étroite. parce que c'est un moment donné. Il va falloir un peu comprendre un peu si vous connaît pas comprendre un peu la logique. des algorithmes. C'est essentiel pour avoir un flot un peu fluide
+
+**Alexia:** Ça m'amène du coup, à la question de la formation que tu tu tout à l'heure selon toi, quels seraient les compétences que les graphistes doivent acquérir aujourd'hui pour travailler à l'air de l'automatisation? 
+
+**Marta:** J'ai pris conscience que si on veut travailler avec des développeurs, il faut avoir tous les outils pour apprendre à faire un bon dossier, de user experience ça c'est essentiel.
+
+, comment cartographiervos interaction comment cartographie aussi toute la question technique algorithmique. Après il va falloir apprendre tout ce que ca documenté la representation visuelle c'est autant de la trois D qui est la création des scénarios et des questions autour de la mettre les idées en espace un visuel, c'est essentiel.
+
+Créer des scénarios d'usage tout ça, c'est un niveau collaboratif. Après, je pense que effectivement, même pour moi, formation continue je. des bases en Python . Si on travaille sur, s'ils sont, devient de plus en plus essentiel. c'est pour tous un peu par exemple, il y a beaucoup de code à disposition. en open source des choses déjà assez chouette qu'on peut à intégrer comme on assez rapidement pour faire des tests si ces algo et ces neural network qui sont intéressants pour exactement ce que vous voulez faire. 
+
+**Alexia:** Toi, de tous les outils de machine learning que tu as utilisé dans ta pratique à part Adobe Sensei ta utilisée c'est des outils qui sont que tu fais sur mesure en fonction de tes besoins. 
+
+**Marta:** Oui, j'ai fait une liste en préparant notre interview je me suis rendu compte des outils. purement outil utilisent des machine learning, mais déjà développée par enfin une boîte une entreprise. J'ai utilisé juste des outils de production qui s'appelle SuperResolution que c'était la question des d augmenter la taille en depixelisant l'image qui utilisent algo qui n qui s'appelle super solution justement et aussi j'ai utilisé un outil qui faisait des c'était plus pour la création de contenu editorial. De passer d'un talk parlé à une edition imprimée et donc des créations de texte. Sinon tous les restes, j'utilise directement les algo , c'est on accepte les gants que ça va venir. J'ai utilisé tout ce qui travaille sur la face à condition que ce type de algo que c'est léger. Donc , oui, j'utilise plus seul l'architecture 
+
+**Alexia:** Vas plus identifier. un besoin pour ses projets aller chercher l'algorithme l'architecture qui correspondrait à ce besoin là et puis ensuite créé est à base de données. Donc c'est vraiment comme ça que tu travailles et du coup je me je voulais quand même un peu avoir ton avis sur l'expérience que tu avec Super Resolution par exemple parce que je trouve intéressant avec ça, c'est aussi de l'extrapolation fait l'algorithme extrapole est-ce que toi, tu as vu des limites quant à utiliser cet outil et quel a été le résultat? Est ce que est ce que ça peut être aussi un outil qui va réutiliser dans ta pratique? 
+
+**Marta:** Bien sûr, mais c'est un outil de production pure. C'est avons-nous besoin d avoir par exemple d'ailleurs toutes les la création de contenus aussi. dans le cadre des gans par exemple, ou la création de la génération de nouveaux visuels ce n'était que ça fait pas très longtemps très limité au niveau des dimensions. de la taille des images, c'était ils seront des il générait des images des deux cents pixel par pixel, chose qu'on pourrait pas grand chose faire autre que
+
+laisse les imprimer une très petite taille les présenter devant mon écran la chose, c'était avec des outils comme un super resolution non seulement on peut, on peut agrandir à des autres échelles pour la pour la présentation dans un contexte des rues d'espaces publics, la présentation de Billboard au niveau neural , on peut agrandir. des images très petites donc , ça élargit un peu notre spectre de diffusion, on va dire et aussi la question des je trouve et c'est extrêmement pratique pour la nouvelle génération des images . On peut sortir des mille vingt mille vingt quatre parmi vingt quatre, ce qu'il fait qu'avec des outils extra qu'on rajoute à ces visuels là. Voilà, on peut faire des sorties des cinq mètres par cent mètres, donc ça la question de l'intégration dans un espace physique. Elle est toute remise en question. on a plus de possibilité de quoi faire avec des images digitales. C'est toujours le problème.
+
+J'ai remarqué que, au bout d'un certain temps d'utiliser le même à algo , parce que l algo réinterprète, il ne fait pas de l'interpellation comme c'était anciennement les algo un un peu classique, on va dire des agrandissements d'images.
+
+travailler pour une interpollation. , dans cette technique là, il y a une interprétation vraiment algorithmique et du coup au bout d'une limite on voit que l'algo il réinterprète vraiment et on voit cette rendue un peu qu'on associe a des neural networks, c'est un peu comme un Google dream des choses de cet ordre-là que c'est un peu nasty quoi.
+
+Donc oui on est on est quand même limité un certain niveau. 
+
+**Alexia:** mais du coup ça pourrait amener à un certain détournement aussi. Non? Est ce que toi tu as déjà joué avec des questions de détournement des algorithmes dans ton travail par exemple?
+
+**Marta:** Non, pas encore non. Pas encore parce que pour moi en tout cas dans mon état actuel, je suis encore très dans la recherche systémique. Je n'ai pas, j'ai pas poussé les recherches esthétiques c'est pas quelque chose qui est un principe, m'intéresse, mais je suis encore loin d'avoir cette d'être aussi à à l'aise. 
+
+**Alexia:** Quand tu veux être moins à l'aise, c'était pour des questions de parce que tu te sens limité à cause des connaissances techniques ou d'infrastructures aussi, parce qu'il faut aussi avoir les moyens de pouvoir entraîner des algorithmes à l'infini.
+
+**Marta:** Ma recherche est vraiment intégré dans la question des infrastructures, de trouver des infrastructures. de machine learning qui me permet de mettre en place des je suis moins intéressé par la limitation de la technique. . Et surtout, je suis très peu intéressés par par l'esthétique algorithmiques et ce que je suis plus intéressé par le système. Actuellement, je suis entrain de regarder une limitation pour la trois D. j'ai d'avant moi pour projet, je me suis dit Bon, j'ai deux options regarder s'il y a un algorithme de machines qui transfère des images deux D trois D engagés ou non engagé aux collaborateurs des designers trois D, il y a effectivement, je suis dans les deux démarches.
+
+Pareil au même niveau, parce que ça met une l'intrigue énormément aussi. Cette possibilité que on a un système de machine arrive à faire de la trois D un espace, de la donner. Et ça, c'est des questions . , ce qui m'intrigue beaucoup plus, parce que c'est quand même une technologie émergente et ça change énormément.
+
+Donc , il y a chaque jour. chaque année, il y a de nouvelles possibilités. Donc , je suis plus intéressé à explorer les possibilités que ça me donne à faire un test de limitation d'un type de algo, 
+
+**Alexia:** Je trouve aussi intéressant cette perspective de se focaliser plus sur l'infrastructure et trouver la bonne infrastructure pour exprimer ton concept.
+
+Je suis d'accord avec toi pour moi le Je suis très intriguée aussi par la le le deux D trois D et comment les algorithmes pour aider à faire ça. Et ça, c'est ça, C'est C'est vraiment un espace émergent pour le moment selon toi quel type d'application d'apprentissage automatique dans le domaine du graphisme sont sous utilisés? Ou alors pas explorer ce qu'il y a des choses que tu serais vraiment curieux d'essayer 
+
+**Marta:** Actuellement comment j'étais dit avant. j'ai vraiment envie d'explorer la génération de nouvelles formes à partir d'un GAN, mais nous ne travaillons plus avec.
+
+J'ai vu qu'il y avait un créatif pas gane, sinon Cannes. creative adversarial networks Les dernières recherches que j'ai j'ai vu, c'est normalement à des bruits qui rentrent dans le discriminator. Mais les GAN, ils essayent de reproduire à l'exacte la base de données de visual sur lequel ils sont alimentés.
+
+Donc toute la variation graphique, qu'il y a de ce genre, des productions générés par machine learning. Il se tient sur la question des discriminator se tient sur la question de cet GAN qui en adversarial recherche un niveau formel. J'ai trouvé la notion de CANN c'est pour se éloignés de la base de données, d'origine, sur laquelle on alimente cet apprentissage. On peut intervenir avec un autre élément. qui va encore à, comment dire, à déstabiliser le système , et qui va générer des visuals, beaucoup plus éloigné. celle-ci d'origine.
+
+Actuellement mes recherches vont là. , c'est quel type de données on va pouvoir intégrer ce que on donnait vie soit le il il on doit rester dans sa donner vie, soit l'on peut aller plus loin, c'est plus ce genre de question. ce qui m'intéresse à réfléchir là-dedans et à faire des tests bien sûr, et la question de la donner à la trois D, elle m'intrigue énormément.
+
+C'est quelque chose qui me fascine dans , qui me fascine, que j'aimerais assez tester rapidement et on compte que c'est toujours des projet extrêmement technique. qui demande ou assemblage des collaborations techniques et qui ne sont pas simples à mettre en place, même dans le niveau des prototypes âge.
+
+Donc , je suis je suis plus dans ces questions d'exploration. 
+
+**Alexia:** Et du coup, comme pour conclure le l'entretien. Alors est-ce que il y a toujours un peu ce cette peur ou je ne sais pas si on pourrait dire ni cette peur de de voilà les les machines arrive toutes ces tâches sont automatisées générer des faire des automatisé vers des compos automatisé Enfin qu'est ce que toi ton ou est ce que tu te situes par rapport à ce que toi l'automatisation?
+
+dans le design graphique, ça te fait peur, au contraire. Voilà, tu trouves que c'est pas une vraie question en soi 
+
+**Marta:** alors moi je suis pas du tout effrayé, voilà ça la basse! L'automatisation ne fait pas du tout por justement le contraire. Si on peut automatisée des tâches répétitif et sans aucun intérêt du design, c'est juste au niveau des productions.
+
+Parce que pour moi ça ça fluidifie. Toute la question des contenus, des concepts d'interaction des toute la les uns des autres questions que pour designer me semble beaucoup plus pertinent. Je vois quelques petites choses à laquelle je pense que on doit faire attention.
+
+que tu as mentionné antérieurement, c'est le homogénéisation de l'esthétique des esthétiques et on voit déjà extrêmement bien parce que, par exemple, il y a des outils, de colorimétrie et des lumières, des photo retouche déjà qu'on peut utiliser dans ce qui sont des machines dans lequel les algorithmes il s'applique dans un visuel, soit le un peu toutes les types des ambiances colorées métrique de lumière.
+
+Je pense que ça fonctionne parce qu'ils en ont entraîné avec eux. beaucoup des images, de instagram ou des réseaux sociaux , de manière générale, donc il y a si on rajoute des outils de cet ordre-là sur nos productions visuelle, ça risque que tout se ressemble et on a tous les mêmes types de lumière, toutes les mêmes types de formes,
+
+**Alexia:** 
+
+D'où l'importance de pouvoir créer ses propres bases de 
+
+**Marta:** données. , exactement. D'où l'importance déjà, de comprendre comment il fonctionne ce système, Oui, vraiment, pour moi, cette base théorique. mais de comprendre comment une algo fonctionne. , avec quoi il a été entraîné?
+
+Qu'est ce qu'il fait exactement? Comment les bases de données, quelles bases de données quelles bases de données ont été utilisé pour l'entraînement? Et après moi je me dis. je trouve assez marrant parce que j'utilise quand même pas mal des outils de cet ordre là.
+
+Du coup, je suis toujours intrigué de quelques propositions de machine learning ll va me donner. Je suis toujours un train de désactiver cet outil parce que je me dis une fois qu'on voit ce que c'est la
+
+la sensibilité mainstream on peut voir comment se distancer de ça donc il y a quelque chose des personnalisé , par rapport à cette tendance. , sortir un peu du lot,
+
+**Alexia:** oui donc pour toi voilà.
+
+les designer graphiques utilisent déjà d'une machine sans le savoir Donc , pour toi, ce que tu es en train de dire, c'est que c'est important qu'iels sachent? qu'ils utilisent du machine learning
+
+**Marta:** ces moi jamais dit de la même façon qu'on a eu comme graphic designers, des cours, de bases de Photoshop, des photographies je on a eu quand même des bases d'initiation. , la lecture de l'image, la force de l'image, l'image documentaire, vraiment les la question sémantique, les significa sémantique des symbolique de l'image.
+
+Je me dis à ce moment là les machines dans le système de machines, ils devraient quand même avoir une introduction aussi de cet ordre-là, parce que du coup, on est juste dans applicatifs et on risque de se reproduire. du stade des d'esthétique et tout ça sans être conscient de tout ce qui intègre vraiment cette technologie donc il me paraît quand même c'est au même titre que et la photo graphique et typographique donc c'est exactement au même titre que ça d'apprendre plus les basses.
+
+aussi. Non? 
+
+**Alexia:** Oui, complètement, je trouve que c'est intéressant. Tu t'appuies sur ce point-là? Ok voilà, on est à la fin de l'entretien. Merci beaucoup.

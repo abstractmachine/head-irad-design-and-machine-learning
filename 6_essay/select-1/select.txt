@@ -1,0 +1,7 @@
+Input:
+un débat sur la place des artistes et designers dans un monde où des machines seraient capables de créer.
+
+----
+
+Output:
+À l’ère de l’intelligence artificielle et de la simplification et de la numérisation des outils de conception, les designers et les artistes sont confrontés à une vision mouvante et à un défi de taille : comment rester créatifs et innovants dans un monde où des machines peuvent produire des résultats identiques ? Une possibilité qui s’offre à ces derniers est de se repositionner et de s’approprier un nouveau rôle au sein de ce monde en s’ouvrant à des pratiques plus immersives, intuitives et collaboratives. Loin de se morceler et de devenir une source de conflit et de tension, l’équation humains+machines pourrait

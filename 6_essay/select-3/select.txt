@@ -1,0 +1,7 @@
+Input:
+Les relations entre les ordinateurs et la pensée hantent l’informatique depuis ses débuts. Publié en 1945 par l’ingénieur Vannevar Bush, l’article « As We May Think » (« Comme nous pourrions penser ») envisage, sous forme de fiction, que des appareils puissent augmenter les capacités intellectuelles pour éviter à l’humanité de basculer dans un conflit nucléaire meurtrier ; la délégation d’opérations intellectuelles aux machines n’a pas vocation à remplacer les humains, mais doit permettre de les « déprogrammer » de tâches fastidieuses.
+
+----
+
+Output:
+Il s’agit là d’un schéma qui intéresse toujours les chercheurs en intelligence artificielle qui souhaitent doter les IA non seulement de buisniess intelligence pratiques pour effectuer des tâches complexes ou répondre à des questions, mais aussi de capacités cognitives plus grandes qui soient capables de penser stratégiquement et de prendre des décisions de façon autonome. Depuis lors, de nombreuses recherches ont été entreprises pour créer des ordinateurs qui soient capables de penser – et non seulement de calculer – comme des êtres humains.

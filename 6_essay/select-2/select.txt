@@ -1,0 +1,7 @@
+Input:
+et prenant la forme d’une œuvre « inédite » générée à partir de la modélisation du style de 346 tableaux de l’artiste du même nom (ING, 2020). Quelques années plus tard, des programmes comme DALL·E (2021) produisent des images (illustrations, etc.) à la demande, à partir
+
+----
+
+Output:
+de descriptions sous forme de phrase. Ces nouvelles technologies ouvrent la porte à de multiples applications telles que des outils d'aide à la créativité pour les artistes, des solutions artistiques basées sur l'intelligence artificielle (IA) et des collaborations entre l'homme et la machine pour aider le processus créatif. De plus, ils pourraient même être utilisés pour créer des œuvres entièrement générées par l'IA. Ainsi, on peut dire que l'IA et les générateurs d'images sont des technologies qui pourraient révolutionner le monde de l'art.

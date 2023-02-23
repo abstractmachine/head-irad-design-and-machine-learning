@@ -1,0 +1,7 @@
+Input:
+L’étude historique des intelligences artificielles, depuis leurs racines cybernétiques jusqu’à leur reformulation comportementaliste dans le deep learning, montre que ce dernier participe majoritairement d’une vision utilitariste du corps social. Bien qu’il se révèle très puissant pour traiter de larges jeux de données, le deep learning soulève plusieurs problèmes majeurs
+
+----
+
+Output:
+en matière d’accès et de traitement des informations, notamment par rapport à la collecte et à l’utilisation des données personnelles. Ainsi, une question se pose: comment le deep learning peut-il être réformé pour offrir une vision plus juste et plus humane du corps social ? Pour répondre à cette question, il est important de comprendre qu’une réforme du deep learning n’est pas une réponse définitive, mais une réponse à un ensemble de défis éthiques et pratiques.

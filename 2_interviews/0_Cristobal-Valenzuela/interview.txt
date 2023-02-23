@@ -1,0 +1,122 @@
+Title: Cristobal Valenzuela
+
+----
+
+Date: 2022-03-09
+
+----
+
+Audio: head-irad-dml-interview-cristobal-valenzuela.m4a
+
+----
+
+Interviewee:
+
+[Cristobal Valenzuela](https://runwayml.com)
+
+----
+
+Interviewer:
+
+[Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+[Douglas Edric Stanley](https://www.abstractmachine.net)
+
+----
+
+Text:
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript:
+
+**Alexia:** As an intro, it would be great. If you could just tell us a little bit about yourself, what you do, who you are, and then we'll dive into the questions. 
+
+**Cristobal:** Sure. So my name is Cristobal Valenzuela I'm originally from Chile. (select:1)I am the co-founder and the CEO runway runway is software that uses artificial intelligence and machine learning to help filmmakers artists, designers and creators created content and video with the help of machine learning.(deselect:) We're a small team around 20 people. The company has existed for three years. We are based in New York. But we have folks all over the world.
+
+**Alexia:** One of the first question we wanted to ask you something that you said that Runway ML was created to in a way. help creative use and make sense of machine learning, but also to help them create impossible things. And I thought that was interesting this idea of impossible things. What are impossible things to you? What do you mean by that? And what would you artists to do that are impossible?
+
+**Cristobal:** We're coming from is from a space of research and exploration . There's a lot of interesting things that have happened in the last couple of years around computer vision, deep learning. That for us are not just marginal improvements or some changes to the way we've been thinking about design creative on content in general, but are significantly leapfrogging, a whole kind of industry. And so by that, we mean , Thinking about how do you work or how do you use interfaces or systems that might be able to help you create content from words? Right? That wasn't possible a couple of years ago. It just, it didn't exist. Functionality that technology wasn't there yet. And so what we mean by impossible, that wasn't possible a couple of years ago. Now it's possible. How do you create with that? And that's kind of where, where motivates us, what intrigues us in terms of building tools and on systems is how do you take those new technologies and find creative and useful, intuitive ways for artists touse ml in their practice 
+
+**Alexia:** You mentioned that runway ml it feels it's focusing film, editing, and VFX. Could you tell us, , where do you see the rise of the synthetic media going? , how do you think you could impact the field of graphic design in some ways. 
+
+**Cristobal:** There's a lot happening here. I think we're just scratching the surface of what's possible in this kind of world of creative and AI video is the first kind of stop we taking. But it's also a combination of disciplines. It used to be the case that you had video as a one domain images or one other domain. And audio is another domain. What happens in general with new platforms specific around machine learning that those domains are getting. Combined in a way. And so you're able to generate videos with sound or tune and read images around audio, right. It combines different mediums and express them in very unique ways. Again, going back to the impossible part. And so what really it's I think we are starting with video as a first kind of first approach but slowly kind of going to other domains as well, and as well as collaborating or combining domains in their own way as well. 
+
+**Alexia:** From all the interviews we've been doing something that designers would be really curious to try is from 2d to 3d. What do you think about that? , do you think that we, another impossible thing that could be possible?
+
+
+
+**Cristobal:** That's kind of the domain kind of crossover that is happening, where you go from 2d to 3d, right. Designing 3d before require you to some sort of simulation of the physical world. You have to play up place objects on an environment then render or emulate the light, reflecting on those subjects. And it's, it's a very complex and expensive process to do. Right. And so, and it's, it's different levels of professionalism that you can kind of . With neuro rendering techniques, for example, you don't have to think about simulating a physical environment. You just , here's a bunch of images. Now here's a bunch of data just , help me figure out how to render this in 3d. So you go from 2d to 3d, a second. And so nerves for instance, are an interesting approach to this where you can. To the images and the generate 3d compositions of those without having to go through that simulation in giant. And so again, combining those crossovers of media functions is what what's really exciting about this discipline and these area research. 
+
+**Alexia:** You mentioned film editors, graphic designers that using runway ML, but do you see new unexpected creative field emerging that are using ML tools right now?
+
+**Cristobal:** Yeah, I think something that's been really interesting to see is that something that happens with with this technology is that it allows. People who've been in the industry for a long time, work better, faster, and different in ways that are beneficial for their own creative practice. But at the same time, it's opening the doors for a realm of creators or people who have never even thought of themselves as creative so then the word creative, you also loaded word when you think about somebody. Creative, things sitting in there, perfect art studio. I dunno, some sort of creative genius sometimes, creators are just working in other parts of the company or other disciplines, or you could be in finance. You could , you still think of yourself as a creative person. You just don't have the tools. I mean, never had the tools and you never had the chance to get exposed to tools that are gonna allow you to create in a more visual way. And so the moment you have things runway would, you can do things that only were. Kind of constrain or bounded to the folks who understood a craft very deeply. And now anyone can do it. Do you have to understand the crab? You have to spend 10 years learning how to use after effects. Do you create a video just loving runway and creativity in seconds, you're becoming a creative yourself. And so it's opening the doors for a wave of creative people to join into this, storytelling expressive kind of momentum without having to spend years. 
+
+**Douglas:** So Alexia maybe that leads to one of the questions that we had as well. Is, do you see from that, have you seen perhaps outside of runway or through runway, have you seen any new fields or type of people that , I really liked this idea of people that don't think of themselves as creative and that sort of fall into a creative approach. Are these people who didn't realize that they were video editors or these totally new fields that you're seeing. And do, do you have names for these or can you give us even some examples 
+
+**Cristobal:** There's one, we've been thinking a lot about a new field of design. I don't know if it's a thing which has been cutting this, the synthetic designer synthetic design in the sense that design was a field that requires. A huge amount of data inputs to be processed. And so you were surrounded by, you're still that's I guess how all the parties work, but you're taking inputs from your, the world, right? The references movies, posters, the day, this, whatever it is. . And just take that and embed that in your practice. The moment you can start building intelligence system that can also think and act that becomes interesting. And so you can feeding a bunch of data to an algorithm, have that algorithm, understand their futures, the patterns, the primitives in there, and suggest and work with you. And so it's an assistant. How have you things about currently things that perhaps you weren't thinking of? You're bonded to some area and the system is thinking about something else. That's really interesting. From a creative standpoint, I was , oh, that's I let's go into that direction. And, and, and the output of that, the ability of that system to generate. Realistic content, synthetic content has this real interesting capacity. And that's where we can put in late the synthetic designer.
+
+**Douglas:** I personally saw a lot of people come in through people that were. Looking massive data and then suddenly became visual designers because they were learning processing or other sort of frameworks that came after it. So I can understand it from that perspective. But I guess the question is, are there any sort of new, weird things that you weren't expecting? Are there, are there sort of new fields that. I guess it, it makes sense that someone who maybe is into statistics suddenly becomes a really interesting visual designer because that allows them to see the data that, makes sense to me coming from the creative coding world. Is there some weirder stuff that you see emerging or is that still stuff we need to spend time for it to emerge? 
+
+**Cristobal:** I don't know if there's a set of category I can think of for today. I think it's happening now. So it's hard to be, to kind of categorize it for me at least of , okay, this is a trigger of strange, unique aspects of aesthetics that are emerging from the field. I do think what's happening is that you have. The barriers of entry has getting lower. You don't have to have some kind of technical background to do some very good visuals or very good content. That means that people who were creating just, composing music can start now having some sort of visual element and so the output. Maybe unique, different, the aesthetics is just completely new because you were , those folks were never actually experimented with visuals before. I dunno, I don't have any yet, thought of, it's not as a scene because I think it's still pretty much happening as of today. Perhaps we'll we'll in hindsight, we'll , look in 10 years. 
+
+**Douglas:** My question. Wasn't very good. But I think maybe when you were talking about barriers of entry, Maybe there's some things that we would consider amateur uses of computers, people. There's probably a lot of interesting stuff that's going to emerge from there. And so I was wondering if you'd seen some stuff that's unexpected from people not necessarily knowing how to code , 
+
+**Cristobal:** I guess, comparison could be early. We're when processing was around area on openFrameworks, those frameworks, 10, 15 years ago, VAV of what you could be able to do I've that time was within their realm of what the creators themselves thought people wouldn't be able to do with it. And now what's possible today with the evolution of the frameworks 15 years after. I'm not sure anyone who was building those tools at the beginning, even thought these things are going to be possible. Right. And the. Programs, we're just teaching privy coding or , that just waltzing their heads. It's just, you can really predict that the whole sequence of events. I see, I see something similar here where you have a new technology opening the doors for a creative exploration and opening the doors for folks who have never consumed it as creatives to just jump in this second order effects of the sequencing of what happened and how that would trigger. I'm not, that's where I'm , I'm just looking to see what will happen. 
+
+**Douglas:** Yeah. That'll take time. Yeah, of course. Yeah. 
+
+**Alexia:** And, you know, something interesting that I noticed when we started to interview all them, the designers or engineers were, you know, they used to work with machine learning. They knew how to program, and they all said that they follow and check really closely academic papers, you know? And I mean, I know on runway, you also publish a selection of papers that you found. Interesting. And it's always great to check that, that list, but could you tell us more about what is your approach at runway when it comes to research in that area?
+
+**Cristobal:** We pay attention to research publications. We do publish a lot of the Knights UCB CBPR and other conferences that are kind of venues. But for us to research in general, it's applied research. We're going to see the research. Something that helps our audience and our users do something. I think there's, there's a lot of research. That's more exploratory or future thinking. It's 10 years from now. You could be able to do this. And here's a proof of concept how to use it using a thousand GPU's with a billion dollars in budget, which is great, amazing, super insightful and creative, but. The reality, is anyone going to be able to actually use this today or tomorrow? Or in six months? , it's more of a theoretical kind of idea for us research is applied. It's , okay, we have an idea. Let's make video easier for folks. What can we do today to do that? It could make that a reality. Right? So he's to be more pragmatic, the research that we do and the regards to different mindset. You're not, again your timeline is on 20 years from now. , I don't want something that will work in 20 years. I want something to kind of work on today. And so the constraints are different. You're much more bonded to reality, to constraints, very centered, simple stuff, hardware, great. You want to have someone use a neural network to create art or to make a video 99% of people don't have a GPU at their disposal. So you just go over it that very simple process, making it so people can actually use it. And those are the things we really care about when it comes to research 
+
+**Alexia:** I imagine you have hardcore data science people on the runway, or is everyone working their hybrid because it's interesting to see how this field is also asking designers to collaborate with data scientists or even engineers.
+
+**Cristobal:** Yeah. We do it. We do have a research team. They're domain specific in computer vision, or been doing a lot of publishing in that domain specifically. But in general, we becoming all that the team itself comes from a unique background and combination subscales. So we have PhD researchers in computer vision that have their own art practices and speak the language of design and can speak the language of engineering.
+
+You can understand, you can be a researcher and, and still understand art and design. And, and sometimes we might I mean suddenly surround ourselves and only think of first house. In, in one specific pocket or domain, but we actually can come speak in all.
+
+And we, something that we cultivate in the culture of runways that people can have cross domain and kind of different backgrounds and still work in different areas. And none of us really have to be an expert in those fields. 
+
+**Alexia:** And then we have few minutes left in the interview, but something that we also curious about is in which way do you think. Machine learning tools have the potential to change the creative process in the field of graphic design. 
+
+**Cristobal:** Sure. I, you, in a lot of very interesting ways just to name a few I would say that speed for sure. Giving it to iterate more, again, you're feeding as a designer elements from your world and decomposing those objectively and subjectively into your own work the moment you have an intelligence system that could do the same. You can go through not just 10 iterations a day, but a hundred a day and have some sort of a system that can help you do that. Right. So speed of iteration. That's definitely one. The second one is creative assistance where you can have it just go faster or different iterations.
+
+But I explore ideas that just were in your head where I think you off combined elements that were coming from different domains and expertises. As far as data and , just way more faster than humans can parse. And that's really interesting as well. The third one is lowering the barriers of entry, some creative tools and creative, common frameworks, democratize coding it was really hard to just get up and make a circling, in code you have to , know Java and how to deploy and how to compile and all this very complicated, things and just someone can make.
+
+Type the word ellipse. And they will draw an ellipse. That's fine to , know how to program in assembly to make a circle. And so something similar, I think is happening here where , sometimes design feels very daunting. You need all these rules and concepts and pre-made themes. And , he needs to understand the craft and almost make your own suffer to be an artist.
+
+And , it's not really , just you need a tool to express. It's a tool. It's the craft. I'm less concerned about the the tool and more about the outcome of the tool and the tool is just a tool. And so something that I think I, I was definitely helping them fill up the out in the field of designing is democratizing. Tool are. And what tool making is and how tools can really enable you to express something rather than focus too much on the tool itself. 
+
+**Alexia:** No, it's a totally. Yeah. And do less, do you have a final question that you'd to, 
+
+**Douglas:** to ask? I was wondering. Just running in the notes here or there. It's a good, it's a very open-ended question, but 
+
+**Cristobal:** it's, 
+
+**Douglas:** It's just sort of listening to you talk, it's , yeah.
+
+A lot of the things you were saying are things that. That we see, we believe in, and especially this idea of, yeah, I was there at those early days of processing and all this stuff before processing as well. And, and the idea that, yeah, you could just write the word ellipse and you get ellipse on the screen. That's , that's really exciting. And then , think of the stuff that you can do now that you can potentially do now. And I think it's still potential. I can see your enthusiasm and I have a similar enthusiasm, but I'm wondering if there is anything that you think AI can't solve or there's problems that are too hard that you don't know the role that AI could have, or their sort of traditional processes that. That should stay traditional for that sort of back and forth between the assistant and the, and the designer, 
+
+**Cristobal:** yeah. I think a common misconception sometimes comes from , the idea of aI and automation. Perhaps you've seen this a thousand times with different domains or disciplines, which is , will AI replace and just insert a job description.
+
+Right. And so th that feels more of a it's, it's kind of a bit clickbaiting in a way it's , people want to read that. It's interesting. It's automation, . But when it comes creativity design, it's a very human process and there's always a human in the loop component.
+
+Right. So anyone who claims that. that you can automate creativity automated design process too, a click of a button and you're done your, whatever, your logo, your film, your sound, whatever it is done. It's not really understanding how gritty foreclose work. It's just a misconception. I mean, So that's a thing, something that I think it will happen and we will have to , be able to solve. It's not a single problem with one single. 
+
+**Douglas:** Yeah. So we're talking about a circle where we want to keep the circle going. So once you've gotten past that first step of, okay, now I have this tool that can say. Hey, I want an image of hats and it's generating 200 hats and I'm , oh, okay. Wow. That's really fast making all this stuff for me. I'm wondering how runway thinks about , what's the step two after sort of the first thing that the bot does for you? What's the second tool that comes after that and then maybe the third and how that becomes a continuous process. 
+
+**Cristobal:** Yeah, I think a good way to think about it. It's designers. We'll be less concerned about the aspect of creating itself. I'm more of creating you're, you're a creator, you're an editor, right? So you're, you are creating, it's a lot about editing. It's about taking things. You make things and you need to take things and decide on directions. And so if you ever look at a Figma file or an art board, a mood board, it's hundreds of iterations and the directions they want to take and use select. They're really hard choice and they're going to, they're really impactful decisions are made when you choose something. Right. Okay, well, let's do this right. Why making this? Because there's a thought process behind it. And so these, I think something that will continue to happen is that designers will have that more of that role of curating and designing, deciding work to go, but also what to fit these algorithms, depending what you fit, you'll get different answers.
+
+And so you're also curating your own. Algorithms, what you put into the system to train will influence what you get out. Right. And so you're an editor at the beginning and your editor at the end. Right. But yeah, that's, that's I guess Great. 
+
+**Alexia:** Thank you 
+
+so much. I think so it was really good, but I really wanted to say we've been using, yeah.
+
+I don't know, metal kind of each year to give an intro to runway and machine learning. It has been a great tool for students to understand how to create they had to create. I said it's, it's a great intro tool. 
+
+So it's one way has been super helpful in education so far. So yeah, just want to say that. So thank you for this and thank you for your time. And I will, yeah, we'll keep you updated with the rest of the project 
+
+**Cristobal:** yeah, please. Happy to help in any way I can. And great to hear that you guys have used some runway. If there's anything you need help with or any feedback anything, let me know. We're actively building it. So we'll love to get any, any thoughts, but it's great to see that you're already having get a lot of value out of it. Cool. It's been great. Yeah. Amazing. Cool.

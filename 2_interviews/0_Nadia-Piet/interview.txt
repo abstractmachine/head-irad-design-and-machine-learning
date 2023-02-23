@@ -1,0 +1,127 @@
+Title: Nadia Piet
+
+----
+
+Date: 2022-03-22
+
+----
+
+Audio: head-irad-dml-interview-nadia-piet.m4a
+
+----
+
+Interviewee:
+
+[Nadia Piet](https://nadiapiet.com)
+
+----
+
+Interviewer:
+
+[Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+
+----
+
+Text:
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript:
+
+**Alexia:** Would you mind tell us what are your main interests? You know, who you are
+
+**Nadia:** absolutely. So I am Nadia Piet. I'm currently living in Amsterdam.
+
+I grew up with an evidence as well, moved a lot and thought yourself as well. And so that also, also very feeds into your practice, I think self-taught on most, most things because it was quite. I don't know, I didn't really have that environment around learn about these things early on.
+
+So I kind of learn by doing trial and error. So basically sort of accidentally started freelancing, very low key, locally just in my village and stuff, working with small companies there. I began doing web design.
+
+So just making sure that they're , you know, find-able on the internet. But then a lot of wouldn't her maybe logos or a branding kit, or very clear, business objective. So I learned a lot from that about UX and just design and even strategy and stuff. So did that for awhile and then shifted towards music industry I've had a record label for a while. And then I realized that there are limitations to what you can do via completely self-taught and just bringing a few things. So I did this course called business innovation, just kind of a mix between strategy, business and tech and design.
+
+That's all time on the side, doing educational stuff as well, workshop and speaking course development and then just freelancing and mostly UX and stuff. 
+
+I think AI is very interesting. I've been reading notes about it, but I didn't really know how it would relate to. My work other than just automating an efficiency return, I sort of set out with this question of , okay, how does UX design impacts AI. Then over the past year, since also gravitated the big boards where it's design research and more creativity And also learning to code.
+
+So I can not say. Talk and think about this stuff, but actually make things. I started this week at depth. So that's the only job that's head of creative tech with to also allow you to continue exploring a lot of these things. And then of course building the community. AIX design to sort of create a space for other people to explore these things 
+
+**Alexia:** What type of projects or tools right now that use machine learning that you've seen, or you've tried, you think are really innovative.
+
+**Nadia:** There's a few types of work that I think are interesting. One initiative that really kind of obvious one that is actually efficiency, which is a, so for example, my a friend of mine is a photographer and they spent so much time after a shoot just sorting through hundreds of pictures and.
+
+Not the most exciting task to be doing. So now there are tools with object detection and recognition can sort them based on what people are in it. If there's one person, two people, if they're holding a cup or holding, . So there's things that.
+
+Or for an example, generative design if you always make the same flyer or graphics for a certain event, and all you're really doing is changing. The unit, the title and an image. There could be much faster ways about that. I think that's interesting because a lot of it is just so pushing and most creatives are not, it's not there.
+
+And so making some of that, you know, less tedious, I think creates space for more creative exploration which is exciting. And there's this other. Stream, which is more around these sites. For example, now I'd to Dall.E you know, it's generative text to image. I think that's interesting 
+
+you can make cool AI art yourself, but I think it's also really interesting where it's a creative partner in your process, you know, instead of putting in the text and taking the image and that being the output kind of. Back and forth. And that output is again, input for your design process and you can sort of keep looping, you know, so if you're exploring a certain aesthetic or even the classic exemple an avocado chair, I'm not sure why you would want to make an avocado chair say you do want to make one, you know, it's interesting that you can put that in and it just generaties hundreds of little prototypes basically for you to then go off and build on. And so I think that's really interesting and I was , kind of expanding the search space of of a design aesthetic core solution.
+
+I'm quite excited about as well more research-based one. So there's so much that data online and just. Infinite content. Being uploaded on YouTube every second, you know, it's just the balance is completely off. And then there's just really old archives and loads of old footage.
+
+That's not being digitized. I think machine learning can be very interesting in that as well. Finding new ways to sift through information, to do. Explore these data sets basically and topics you know, we could never get just because of the manic scale 
+
+**Alexia:** What type of tools using machine learning have you already used in your creative process? And if yes. Could you maybe share with us, , what did you think were the limits, or maybe you find something was really interesting in particular. 
+
+**Nadia:** Quite a few different. So one this the actual quote just by using all these you know, pre-made trained models basically.
+
+And libraries. That's great and interesting because yeah, you very quickly run into limitations of it. They're really flawed at this point. And I think more interesting is well all the generative tools so I started with runway
+
+And there's also playform which is a similar one. But yeah, I've definitely switched to more code now. Something I think is interesting about these image generation is how it completely, it very much takes the focus to prompt engineering.
+
+That's kind of reverse engineering. So if you're designing Photoshop, you're sort of thinking of the image that it lives in your mind's . And then you try shape by shape layer by layer to somehow make that thing that lives already in your head.
+
+And I think that's quite interesting the text to image, which is what a lot of people are using now. And it's developing really quick is that you do this weird reverse thing where you're , what prompt do I have to give in order to sort of receive some sort of output that I want. So you actually start thinking and it's very computational way.
+
+And it becomes all about , Sort of hacking the system. And then people discovered that if you put unity or unreal engine unreal if you add that to your prom, your results, which just be much more high fidelity and just look much better because they would get this sort of sleek, 3d worlds aesthetic. They wouldn't really change what it makes. It would just change kind of how good the image would look. 
+
+**Alexia:** Designers have to do of learning how to describe, you know, learning words. Am I going to use anything? This idea where you tried to find the right words to describe something before you create, it's really interesting.
+
+**Nadia:** It Forces, you have to think in a very different way about the visuals you're trying to generate. The fact that this is becoming a whole thing now, prompt engineering and it's skill, that's, that's kind of funny and weird. And then reading how people are. They're , oh my God, I found that if you put this too, you get completely different results. But also. These tools as well, they show kind of a biais the data, obviously if you put you know, certain demographics, gender cetera which shows, just how much this bias is perfected in the data also visually.
+
+Another one that I did was. You can put artists names, it's sort of resembles their style a little bit. I noticed that if you put certain artists Dali or Frida Kahlo their persona have become bigger than any of their work. When you would put those facial features with the image.
+
+So for Dali you would get mustach this association peopl have, I'd certain words, but if you put Van Gogh even though he's also iconic, you would get the aesthetic style of his paintings. But if you would put that lead, you would just get mustache. 
+
+**Alexia:** . 
+
+Which state do you usually use machine learning tools? , is it more at the beginning of a project to get ideas or is it really for the outcome that you use it? 
+
+**Nadia:** It's definitely early. It's kind of mood boarding. 
+
+**Alexia:** Why is this way for you? 
+
+**Nadia:** Because one
+
+I don't have a crazy and. Chips to run high enough computation that they actually create new graphics from AI. So usually they're , what 200, pixel, which is very bad. And then obviously you can upscale, but then you have to do noise reduction and blah, blah, blah. It doesn't having ultimately to create good graphics.
+
+Well, this technical restriction of the pixels, but also ultimately you do want it a certain way. You want this exact shade of green or this exact curve, you know, and I think it's fine. We already designers, we can be, you know, that level of controlling over your facial outfit. So I think ultimately that's better.
+
+I think it's yeah, really interesting. Sort of ask these creative, input, more in the diverging and converging stage. More for research exploration rather than actual asset generation, I think maybe later as well. I know , yeah. Then it becomes, there's video editing stuff where it's a workflow tool.
+
+**Alexia:** Let's say right now, what type of. Machine learning application. Do you think that underused there or that you'd be really curious to explore?
+
+**Nadia:** For example, that this data one I really want someone to build a tool, which I have started, but I can't, because my coding skills, I have a very limited. It's still where you can sort of explore huge video archives through this lens of object recognition and so on.
+
+Then you can use this as a research tool to explore certain topics throughout time represented a moving image. But also you could create new. Video 
+
+and I would love to see some of these more accessible tools for I mean, you do have them, but just. Not in a really accessible way. So you would have to build a custom system. But I would love to see some of these, but , yeah, you can overlay you know, simple object recognition and some of these very, you know, regular things with groping image or other archives of, of visual assets.
+
+What, research purposes and I don't, I don't know if you find it, let me know, but I don't think that's there yet. So I do it in small ways myself, but I would love to see more, more tools that. 
+
+**Alexia:** How could this tools can be more accessible to designers
+
+**Nadia:** I think there's also the second question. Should they , does it matter? You know what I mean? It was , I don't care why the app works. It works. So I know also in Photoshop, you know, have a next action prediction, which tries to , make it best guess at what, what you might want to do next it's tries to anticipate, you know, the sort of .
+
+Routines of behaviors you do in the interface. And I think things that are super helpful. , and it's just more of a case of how can we let, I think also more a mind set thing, how can we look at AI as 
+
+creative material, basically, you said, as well, instead of something that's only good for optimization and saving money and, you know, and those kinds of business objectives it does, of course comes from a military corporate context. So I think it was just about , how can we look at what this actually does rather than the application.
+
+So taking a few steps back, sort of first principles. What is it? What, what can I do? And then having creative people just , think about that 
+
+there's a lot of misconceptions around it. A lot of unlearning to do about what the AI is as well. And then I think, sort of just spreading the word, what you're course is doing is incredible, you know, once we try to do with the community as well. And a lot of these tools that I see popping up and developing runway playform even co-lab 
+
+you don't have to become a program, but you also don't have to be scared because there's maybe a lot of code. Yeah, I think all of those will do. And I also don't think we should push for this, the adoption of AIML, let me know, the exploration of valuable you know, applications of it. So it's also fine if that's not everyone is not doing that 
+
+**Alexia:** yeah. Great. Well thank you so much.

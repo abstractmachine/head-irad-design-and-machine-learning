@@ -1,0 +1,17 @@
+Title: About
+
+----
+
+Date: 2022-02-02
+
+----
+
+Text:
+
+[Design and  Machine Learning: Automation Takes Command?](https://www.hesge.ch/head/projet/design-et-machine-learning-lautomatisation-au-pouvoir) is a research project of [IRAD](https://www.hesge.ch/head/formations-recherche/recherche), Geneva University of Art and Design ([HEAD – Genève](https://www.hesge.ch/head), [HES-SO](https://www.hes-so.ch/accueil)).
+
+- Project lead: [Anthony Masure](https://www.anthonymasure.com)
+- Interviews: [Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+- Design & Development: [Douglas Edric Stanley](https://abstractmachine.net)
+
+(select:1)We are currently building this experimental tool to explore the subjects explored in the research project.(deselect:)

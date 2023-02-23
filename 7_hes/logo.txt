@@ -1,0 +1,11 @@
+Title: HES-SO
+
+----
+
+Date: 2023-02-01
+
+----
+
+Text:
+
+(image:hes-so-ge-fr-nb.svg link:https://www.hes-so.ch/accueil class:logo)

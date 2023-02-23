@@ -1,0 +1,177 @@
+Title: Kévin Donnot & Élise Gay
+
+----
+
+Date: 2022-02-15
+
+----
+
+Audio: head-irad-dml-interview-kevin-donnot.m4a
+
+----
+
+Interviewee:
+
+[Kevin Donnot](http://)
+
+----
+
+Interviewer:
+
+[Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+
+----
+
+Text:
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript:
+
+**Alexia:** Bonjour Kévin. Merci beaucoup de nous retrouver pour cette interview pour notre projet de recherche qui qui cherche à comprendre comment les designers graphiques pourrait s'emparer du machine learning dans leur pratique
+
+ce qui serait je pense très intéressant, c'est que peut être tu présente les principaux intérêts , dans le domaine du graphique de ton studio, le type de média que vous utilisez peut-être même le le la taille de ton studio et les partenaires par exemple, que vous avez en général 
+
+**Kevin:** merci beaucoup pour l'invitation. Effectivement donc on est un studio de design graphique basé à Paris exactement à Pantin, on est deux associés et pas plus. Et ça c'est un choix. C'est un positionnement on a un mode de fonctionnement extrêmement autonome.
+
+donc , moi même en fait, on a commencé nos études ensemble, on a fait un parcours très long, on est ensemble à la vie et au travail. C'est quelque chose qui est extrêmement important en fait pour nous et donc à une entente très forte. Entre nous, qui ne permet pas l'inclusion d'autres personnes et en fait on veut garder cette échelle de travail. On travaille principalement pour les milieux culturels et institutionnels. et uniquement dans le champ éditorial. c'est-à-dire que on traite aussi bien de édition imprimée que d'édition numérique. Donc, on fait aussi bien des livres que des sites web, mais assez peu d'identité visuelle. Ce qui nous intéresse, c'est vraiment de de trouver des formes qui vont accompagner un contenu qui peut être long et qui peut être un contenu à lire un contenu iconographique, en tout cas quelque chose qui qui se déplient dans le temps que ce soit sur papier ou à l'écran, et on en fait le positionnement du studio, c'est vraiment de d'aborder un peu sans transition, le passage d'un médium à l'autre, , notamment par l'usage de techniques numériques, de techniques de programmation. Et donc voilà, on aborde les choses dans une forme de continuité, avec beaucoup de projets qui sont multisupports. Qui ou un médium va répondre à un autre et toujours où on va dire aussi avec un intérêt, une attention. forte portée à la technique et porté notamment la technique de réalisation à la programmation et aussi aux techniques de fabrication 
+
+**Alexia:** Tu as mentionné mentionné le passage entre les éditions imprimées, les éditions aussi numérique Du coup, ça m'amène à la question , par rapport à l'usage de vos outils et le rapport que vous avez dans votre studio, aux outils et aux technologies numériques. Est ce que pour vous c'est plutôt un moyen d'atteindre une fin dans vos travaux? au contraire, ça joue un rôle plus important dans votre processus. 
+
+**Kevin:** Le rôle des outils, c'est quelque chose qui est assez central dans notre pratique. C'est-à-dire que des moi dès la fin de mes études c'était quelque chose qui a été un questionnement? Mon mémoire s'appelait outils numériques et pratique du design graphique. Donc voilà la prégnance de l'objet manipulé pour produire une forme et les influences des dispositifs manipulés par les graphistes sur les formes qu'il produit. C'était vraiment des choses que j'ai traité de façon théorique pendant mon master ma production de diplômes constituait à concevoir des outils pour faire du graphisme des outils physique, des outils numériques, des programmes. Donc on va dire que c'est un questionnement qui est central on n'aborde pas les outils de façon comme uniquement comme des moyens matériels qui permettent de répondre à un besoin , et à un enjeu technique.
+
+Mais , on va requestionner le processus de production à chaque projet c'est-à-dire que chaque nouveau projet, chaque nouvelle nouvelle commande. C'est l'occasion pour nous de réfléchir à une méthode de production qui peut être différente. En tout cas, on va se questionner. On va pas se précipiter à ouvrir un logiciel comme Indesign et a commencé à déplacer des blocs, placer des couleurs.
+
+On va réfléchir à déjà Comment? Qu'est ce qui fait sens? Comment est ce qu'on peut travailler ? Quel est le processus de travail qui va faire sens avec ce projet? Donc dans des cas ça peut être un processus. Tout à fait. On va dire conventionnelle, on va utiliser des outils standards de la chaîne graphique des formats de fichier standard une technique d'impression standard et cetera.
+
+Dans d'autres cas, ça peut être la mise au point d'une chaîne de production complètement alternative, où on va en fait développer des programmes qui vont permettre des conversions de fichiers qui vont articuler des outils. Qu'on va détournées de leur utilisation principale.
+
+Ça arrive souvent dans nos projets qu'on utilise des outils qui sont plutôt des outils destinés à des ingénieurs qu'on va détourner de leur utilisation principale pour produire une forme qui pour nous fait sens et qui chercher à accompagner le contenu. Donc , en fait, le questionnement sur les outils, il est un peu perpétuelle.
+
+Il revient à chaque fois pour chaque projet, on se repose des questions. 
+
+**Alexia:** Est-ce que tu pourrais nous donner un exemple d'outils que tu as mentionné. Voilà des outils qui sont plus d'habitude utilisé par des ingénieurs. Est ce que tu es un exemple par exemple, à nous à nous donner plus précis? 
+
+**Kevin:** Je pense à des outils numériques par exemple ou par exemple. Oui, voilà un projet d'un d'un, d'une identité pour une exposition qui s'appelait le Design Ex Machina ou en fait plutôt que donc ça va parler. Je vais vous montrer plusieurs exemplaires, un outil physique, donc là en l'occurrence, plutôt que de faire des affiches en sérigraphie de façon industrielle, en offset, ce qu'on a fait, c'est que c'était une exposition sur le donc ça s'appelait une exposition présentée à la galerie Michel Journiac à Paris, La galerie de l'université.
+
+Paris I sur les présenter, des objets qui interrogeaient la façon de dont les designers se positionne avec les avec les façon de fabriquer. notamment qui présentait beaucoup d'objets qui était issu de fabrication, technologies de fabrication numerique donc l'impression trois D, E F A et cetera et donc nous ce qu'on a fait c'est qu'on a fait une série d'affiches qui était tracée et non pas imprimé mais qui était tracée avec un très grand Plotter sur lequel on est venu non pas mettre une broche de fraisage c'était une fraiseuse à commande numérique, mais un feutre, enfin, fait plusieurs feux de nature un petit peu différente, qui laissaient des empreintes différentes et avec ces différents feutres , on a. Alors ça je pourrai vous envoyer des images, mais aussi une vidéo qui montre ça et en fait on a cherché à révéler les un peu les failles de cet objet là.
+
+C'est-à-dire que que l'objet de fabrication, l'outil de production ne soit pas utilisée non plus pour, c'est uniquement pour ses performances techniques d'exécutions et de reproduction fidèle de ce que le designer a vu à son écran. dans un logiciel . Mais on a essayé de, de montrer les failles en fait, et donc ça se traduit par par exemple, il y a de la typo qui est tracé.
+
+On a demandé à à un logiciel de fabrication assistée par ordinateur de déterminer le parcours d'outils nécessaires pour remplir la surface de la typo qui est tracée par son contour. Et en fait, ce qu'on a fait, c'est qu'on a mis un outil, un feutre qui était en fait un peu moins large. ce qui fait qu'en fait ça fait des failles à l'intérieur de la typo et ça crée une matière qui est un peu différente. Ça révèle en fait le tracé, le parcours de l'outil, j'aime bien considéré. Quand on réalise un projet, on n'est pas dans une logique de reproduction. magique de l'objet quand on produit, mais plutôt qu'on co crée avec la machine. Et on va chercher à quelque part paramétrer la forme qu'on va lui demander de reproduire, de sorte à ce qu'elle puisse aussi apporter que la machine puisse aussi apporter son empreinte et puissent aussi révéler une certaine forme. Et cette question de l'aspérité, , notamment quand on utilise des technologies numériques pour nous, est hyper important c'est-à-dire. En fait, quand on travaille à des objets physiques, on a tout un tas de de moyens d'apporter de la matérialité aux objets papier, reliure, encre le format est des choses, souplesse de livres et cetera.
+
+Mais quand on travaille des objets numériques, en fait la question de la matérialité, elle passe ailleurs. En fait, elle passe par des par , animations, par des interactions particulière, par des formes qui vont être moins lisse. Et comment est ce qu'on trouve ses aspérités là-bas? C'est aussi en en essayant de décaler un peu les paramètres.
+
+et et donc voilà, ça peut passer par ce genre de choses. On utilise assez souvent des logiciels de fabrication assistée par ordinateur, de gestion de surface, d'optimisation de matière et cetera qui nous permettent d'obtenir des résultats qu'on ne pourrait pas obtenir ailleurs.
+
+**Alexia:** Cette question de co-création avec la machine. Et ça, c'est une question qui est central dans notre projet de recherche, parce qu'on aimerait faire souvent les designers graphiques, on commence à utiliser des outils avec du machine learning du mais peut être pas forcément conscience. Ou alors ils vont utiliser d'une manière plutôt. Je dirais comme un peu comme un assistant e comme ça. Est ce que vous avez déjà utilisées? Des outils justement qui utilisent du machine learning votre processus de création? 
+
+**Kevin:** On a fait un projet pour une exposition présentée au Centre Pompidou qui s'appelait Neurones les intelligences simuler. L'exposition réfléchissent à présenter une série d'objets et de pièces qui réfléchissent à la question d'intelligence artificielle, donc aborder de façon historique et avec des pièces contemporaines. Et en fait Le projet de catalogue est composé de façon très simple. L'idée de la mise en forme du catalogue, c'est qui est une autre voie en fait, qui soit une, une espèce d'altérité numérique, un autre, une autre intelligence qui est participer soit à la conception ou qui est à annoter ce livre. Et donc ce qu'on a fait, c'est qu'on a utilisé un un réseau de neurones qui a été développée par Alex Craves à l'université de Toronto, qui était en fait un réseau de neurones destinée à faire la synthèse d'écriture manuscrite. Il y avait eu je crois, à peu près deux cent cinquante personnes qui avaient recopier un texte avec un stylo particulier qui enregistre la séquence de tracer il a mis tout dans un réseau de neurones qui est assez particulier, qui est en fait un réseau de neurones qui s'appelle long short term memory le tracé et la position des points dépendent, des choses qui ont été tracées précédemment. Par exemple, vous écrivez Alexia, en fait, le elle le elle y vont dépendre du A. et donc en fait , ça crée une espèce de logique de tracer continue. Alors lui, il a fait pas nécessairement enfin pas forcé.
+
+En fait, la question de l'écriture manuscrite n'est pas forcément son en jeu à lui, mais c'était plutôt , pour faire aussi des choses qui soient basées sur des séries temporelles pour faire de la prédiction sur le trafic routier et cetera. Mais il a fait une première application sur le l'écriture manuscrite et en fait, nous, ça nous a intéressés.
+
+Il avait publié Les Sources GitHub et on a réinstallé le neurone, on a compilé, on a refait aussi l'apprentissage des données, ce qui nous a pris un petit, une petite semaine sur notre machine et on a utilisé En fait, en primant le réseau neurones avec différents paramètres et en le faisant tourner plein de fois, on a en fait générer l'ensemble des tracés de titrage qui sont figurés dans le livre. C'est comme si il y avait eu un algorithme qui avait annoté le livre. Ce qui ce qui nous a plu aussi, c'est qu'ils trahissaient cet algorithme c'est-à-dire on sent des petites ruptures c'est pas super belles courbes.
+
+Elle ressemble de loin à un vrai tracé, mais en fait, quand on regarde, c'est des segment Et ça en fait qu'on parlait de matérialité numérique. Voilà, là on y est et ça nous plaisait. 
+
+Le livre propose aussi un autre niveau qui a un niveau plus tôt. On va dire de la notation. En plus, on a utilisé des systèmes, alors c'est pas des systèmes de machine learning et ça participe du projet.
+
+C'est des systèmes d'analyse syntaxique d'analyse du langage naturel. On va dire plus , plutôt ordinaires qui vont comparer des champs lexicaux. On a fait une analyse de chacune des doubles pages. du livre et on a demandé les, les champs lexicaux les plus récurrents, les récurrences de termes et leur interconnexion.
+
+Et on a utilisé ces informations là pour donner une espèce de vue générale des enjeux de la double page, montrer les interconnexions entre les textes les plus récurrents, ce qui permet de donner une espèce de. Enfin, voilà une commune prévue de la double page et en même temps de d'avoir ce jeu sur un autre qui aurait lu une espèce de cette altérité, cette cette autre intelligence qui serait supposément là. Évidemment, avec le terme intelligence, on fait, on fait un peu ce qu'on veut mais mais voilà, la pour info le catalogue propose une série d'essais et puis une série de notices sur les différents artistes qui sont intervenus.
+
+Et nous, on a aussi notre notice sur le projet. Et ce qui est intéressant, c'est que on voit sur le titre. On a fait tourner plein de fois le réseau de neurones, évidemment pour générer plein d'itérations et en fait sur tout le livre. On a fait ça à chaque fois et il y a beaucoup de fois où le réseau par en fait les paramètres, s'emballe et les choses dérive.
+
+Et , et c'est ce qu'on a utilisé en couverture. pour révéler aussi les quelque part, les failles de cette supposée intelligence ultime et qui n'est qu'un algorithme. Ce qui est important pour nous, c'est de d'utiliser un outil qui fasse sens par rapport au contenu.
+
+Donc là on avait un contenu sur l'intelligence artificielle et pour nous à la fois sans être tautologique et rejouer de façon surfaite. On aime bien quand même essayer de se positionner dans une logique d'accompagnement du contenu .
+
+Après on a jamais utiliser d'autres outils de machine learning parce que peut être enfin déjà je pense qu'on en connaît très peu. , on connaît des outils qui sont plutôt , qui sont plutôt des choses. Enfin, dès que l'on cherche à s'éloigner, je pense Adobe Sensei. 
+
+On va regarder par curiosité et plutôt en fait plutôt avec notre autre casquette qui est notre casquette d' éditeur de la revue Back Office pour l'aborder d'une façon critique . En fait, qu'est ce que ça veut dire de proposer un outil qui a été entraîné avec la production d'autres graphistes et qui vise directement ou indirectement à rejouer des production graphique qui ont déjà été produit. En tant que studio, ça ne nous intéresse absolument pas parce que on cherche plutôt à réinventer des choses et on se dit qu'on essaye d'inventer des formes nouvelles à chaque fois. En tant qu'éditeur, c'est une problématique. qui est passionante à observer comme phénomène. Mais , mais voilà, mais on n'utilise pas en tant que graphiste ce qu'on utilise en tant que graphiste, c'est certainement les outils de retouche Photoshop qui intègre une partie de machines pour constituer des fonds. Mais en fait, pour moi, ça, c'est vraiment pas la partie intéressante.
+
+c'est-à-dire que effectivement c'est en fait il se trouve que c'est basé sur du machine learning mais ce n'est qu'un autre algorithmes. Et donc voilà, la partie apprentissage de la chose n'a strictement aucun impact. On discutait dans une conférence à Amiens jeudi dernier justement, c'est pregnance d'outils qui, par exemple, pourrait créer des drapeaux automatique pour la composition des textes. Moi, si ça existe, je serais très content de l'utiliser. Je ne vois aucune perspective créatrice à faire des drapeaux. Comme je ne vois aucune perspective créatif à faire une justification qui soit parfaite. Je suis très content qu'il y ait des algorithmes qui prennent en charge la justification pour moi dans inDesign que je puisse paramétrer. Parce que , si j'avais à placer et l'approche de chaque lettre comme on le faisait avec les caractères mobiles en fait ça me prendrait plus de temps, mais ça ne m'intéresse pas. 
+
+**Alexia:** Est-ce que toi. Il y a des types d'applications, d'apprentissage automatique dans le domaine du design graphique qui sont sous utilisés ou des choses que tu serais curieux de pouvoir expérimenter avec des choses qui sont pas du tout été explorées. Par exemple au-delà des drapeaux de la justification parfaite comme tu l'as, tu l'as mentionné,
+
+**Kevin:** je crois que je ne connais pas. En fait, je n'en connais pas et je serais curieux de découvrir. J'ai des étudiants qui ont plutôt dans une perspective artistique, qui cherchent à faire de la transcription de style . Et qui détourne comment? Comment on appelle ça déjà? quelque chose qui marche avec les avec des neurones adverse et qui permet en gros de faire de transcrire une image avec , l'esprit stylistique d'une autre ou de 
+
+chanson Oui, c'est un peu comme le projet, on projette 
+
+Dali ou le voilà. Voilà donc des choses, Voilà ça Je pense qu'il y a de belles perspectives à de réflexion critique à proposer pour, mais plutôt pour des artistes.
+
+Enfin, je sais pas. En tant que designer, ça me paraît compliqué en temps. Pour l'instant, je ne vois pas d'outils. Enfin, en tout cas, peut être que je ne connais pas assez. J'en ai pas assez cherché parce qu'on n'a pas eu le projet qui nous a permis de de chercher dans cette direction là.
+
+Mais je ne vois pas d'outils qui nous serait directement utiles ou intéressantes. Manipulée, je vois plus de choses, oui. mais peut être en amont pour faire émerger des données. N'est pas des choses qui permet de gérer directement des images. Je pense pas que pour l'instant enfin, peut-être tu tu tu?
+
+Je serais curieux d'en voir si tu peux m'en montrer tant connaître. Qui? 
+
+**Alexia:** Non mais je pense que c'est ce que tu dis est juste parce que quand, quand? Enfin moi, toutes les recherches que j'ai fait a par exemple des des outils comme Font Joy qui vont utiliser du machine learning pour faire des font pairing optimisé. Par exemple, il y a Sketch to code où tu peux convertir en par exemple après tu as Runway Ml qui est un outil vraiment intéressant pour éditer des vidéos, mais aussi pour générer des images. Et puis après tu as Teachable machine de Google. tu peux compter pas non plus encore très libre, mais tu peux encore faire quelque chose un peu plus, un peu plus expérimentale. Et pour moi, Runway c'est encore des outils qui est le plus? Enfin, on le on l'enseigne aussi dans le cadre du master et ça permet aux étudiants et étudiantes d'apprendre à faire du web scrapping a entraîné un algorithme. et l'interface est encore assez user friendly donc ça fait plus peur à des personnes qui n'ont pas un background en ingénierie par exemple. 
+
+**Kevin:** Là c'est encore c'est encore du quelque part du problème solving! C'est-à-dire en gros c c'est l'optimisation de détourage l'optimisation. Quelque part, il y a que Fontjoy effectivement mais ça, ça ne me viendrait pas du tout à l'idée d'utiliser enfin non, parce que oui, nous quand on associe des caractères, enfin, s'il y a une, c'est aussi pour leur leur existence historique. Le rapport qu'il peut y avoir entre voilà C oui non 
+
+**Alexia:** 
+
+Je pense que les outils qui existent maintenant aujourd'hui sont plus sur des questions d'optimisation, de gagner du temps, de pouvoir automatisée, des tâches. Et oui, c'est une partie du machine learning. Mais justement, si on est dans ces questions de co-création de matérialité du numérique comme tu l'as dit, il faut qu'on dépasse ça et c'est c'est. Mais du coup, quand moi j'ai trouvé ça intéressant, tu as dis que tu avais trouvé ce justement pour le projet le neurone. Comment a trouvé ça est-ce que toi, tu fais une espèce de veille de ces de ces choses là où c'était plus parce que le projet, vous a appelé à faire une recherche que tu as, que tu t'es mis dedans?
+
+**Kevin:** Ce processus de recherche et de d'identification de la façon de travailler pour arriver au projet, ça, c'est quelque chose qu'on fait à chaque fois. D'ailleurs, à chaque nouvelle commande, on réfléchit. pas devant un ordinateur, on réfléchit avec un bloc, on se positionne.
+
+On a un bureau, on a, on a, on a un canapé dans notre bureau et c'est un outil central pour nous de réflexion en fait, sur les projets, d'essayer d'identifier. Qu'est ce qu'on va raconter en fait, comment est-ce qu'on va accompagner? c'est plus ou moins présent suivant les projets, parce que des fois, la logique c'est de la meilleure façon d'accompagner.
+
+C'est aussi de de, de prendre, d'être à distance et de laisser les choses parler. Mais parfois, ça vaut le coup d'être plus ou moins. Enfin, voilà de de prendre part et d'être que notre présence puisse jourer avec le contenu, voir, l'amplifier, voire même le contredire parfois. Et ça en fait oui, c'est un processus qu'on réitère à chaque nouveau projet.
+
+Il se trouve qu'ici, moi, je cherchais des choses sur l'écriture manuscrite. Je cherchais à identifier des façons de tracer. Des recherches sur le net en bibliothèque, des recherches de formes historiques aussi. Enfin voilà pour un autre projet. Dans la même série on est reparti de qui était utilisé pour des machines outils à commande numérique des années quatre-vingts donc en fait c'est c'est vraiment variable. Et on utilise ce qu'on ce qu'on trouve mais c'est aussi beaucoup du détournement il faut penser que les graphismes sont capables de programmer un réseau de neurones de but en blanc, ça n'existe pas en fait, comme les graphismes sont pas capables de développer un logiciel de mise en page en autonomie, enfin voilà, ça demande des équipes et c'est et il est très différent de développer des petits script qui vont générer une forme particulière ou développer un site web. Enfin voilà, tout ça, c'est des langages qui sont accessibles aux graphistes. Par contre, développé un logiciel ou un réseau de neurones. Voilà, , un logiciel en C ++ un réseau de neurones, un python un peu hardcore je ne connais pas, les graphiques sont capables de faire ça.
+
+Donc , il faut aussi resituer où se situent les compétences de chacun et quelles sont les capacités de chacun et donc nous en fait, on vient surtout, essayer de, de réfléchir à rencontrer des objets techniques, des objets historiques, des objets culturels sont préexistants et de voir comment est-ce qu'on peut arriver à les détourner, à les associer d'une nouvelle façon.
+
+C'est presque un travail de commissaire d'essayer de réfléchir à comment est ce qu'on peut importer et détourner les choses et ce travail de commissariat. D'ailleurs, il se retrouve aussi dans la façon dont le travail je parlais, des différentes run qu'on a dû faire sur notre modèle de de enfin sur notre réseau de neurones pour générer plein de forme.
+
+On arrive très souvent que on se mette en place des systèmes. On va demander. Par exemple, on va identifier des range paramètres. et on va faire tourner le réseau. On va faire tourner l'algorithme sur différents paramètres qui puisse être aléatoire, qui vont explorer différentes valeurs de ces différents paramètres pour produire différentes formes.
+
+Et après nous, on va regarder les formes qui sortent et là on va avoir une opération de sélection, donc on n'intervient pas directement sur les formes. , on n'est pas en train de dessiner dans Illustrator ou de dessiner avec un feutre ou avec un pinceau sur un grand format. L'oeil intervient dans un second temps dans un processus d'itération où on va regarder ce qui a été produit et corriger et choisir et répété.
+
+et c'est Zach Libermann qui disait qu'il passe son temps à tweaker des paramètres dans son travail pour produire les formes auxquelles il veut arriver. Nous, on passe notre temps à faire ça, à choisir. 
+
+**Alexia:** Mais c'est C'est question de, de paramètres.
+
+Tu l'as dit, c'est parfois, c'est aléatoire ou est ce qu'au début c'est complètement aléatoire? Puis après, tu commences à comprendre les effets, les l'impact de tes choix. Et puis du coup, t'es plus conscients. des paramètres que tu bouges ou alors au contraire, c'est complètement aléatoire jusqu'au bout ça dépend de l'outil. Encore une 
+
+**Kevin:** Ça dépend des projets. Là, on est en train de travailler par exemple sur un vinyle pour un musicien d'électro. Le projet c'était de se dire OK, on va pas dessiné une forme sur le vinyle, on va générer un C'est en gros le projet, c'est une espèce de paysages abstraits en trois D temps réel. Il nous a commandé un vinyle. On l'a dit, on va pas faire un vinyle tout de suite, on va déjà te générer. Une animation interactive qui sera branchés sur des contrôleurs en live et en fonction des paramètres des contrôleurs. En fait, le paysage se déforme. Une espèce de paysages lunaires et le vinyle ne sera qu'une frame d'un moment. et donc là, par exemple, les différents paramètres. Généralement, ce qu'on fait, c'est qu'on se faisait des petits slider de debugg qu'on peut, sur lesquels on peut agir pour explorer déjà la gamme intéressant. et ensuite on peut effectivement venir avec des variables aléatoires pour avoir voilà une espèce de noise qui va se renouveler tout le temps.
+
+Donc ça dépend des projets pour ce projet là. Si on veut y revenir, si vous voulez illustrez là, il y a des variables, il y a des variables aléatoires. En fait, ce qu'on a fait, c'est pour primer le. Pour initialiser le réseau de neurones, il faut déjà lui donner un premier tracé.
+
+Et donc ce qu'on a fait, c'est qu'on a déjà commencé à faire donc il y avait deux cent cinquante six tracés. On a déjà testé le même phrase avec deux cent cinquante titres. Assez pour voir en fait quelles étaient les écritures qui nous intéressait le plus et quelles étaient les écritures que le réseau de neurones pouvaient utiliser comme initialisation pour ensuite imaginer ça enfin écrire la séquence.
+
+Et donc voilà, ça on fait un truc plutôt systématique au début. Ensuite on va isoler un jeu. privilégiée et ensuite, ce qu'on va faire, c'est que on va faire généré les écritures pour pour chacun des personnes qu'on a identifié, plus une variable aléatoire qui est, qui permet en fait de d'avoir de la variété.
+
+Donc pour chacune des écritures, on a fait, on a à peu près trois cents output et on choisit. on choisit, on, on se souvient des paramètres et ça, on automatise aussi. Automatismes c'est un script en bas, qui fait tourner le réseau du terminal. 
+
+**Alexia:** Tu l'as dit tout à l'heure. Oui, c'est important que chacun connaissait ses compétences et ses ses capacités, on est vers la fin de l'entretien est ce que tu penses que c'est important que les graphistes connaisse un peu plus les capacités du machine learning du ou au contraire. Pour toi, c'est plus important de créer des collaborations, d'identifier les bonnes personnes en fonction des projets. 
+
+**Kevin:** Tout dépend de quelle pratique on parle mais si on parle de la pratique générale des graphistes, moi je suis convaincu que c'est hyper important d'avoir un positionnement pas tellement technique mais plutôt critique.
+
+et réfléchir à en fait, mais ça c'est je pense que c'est valable un peu pour, pas uniquement pour les graphismes et de façon générale dans la société. Des technologies qui sont tellement ubiquitaire et qui vont devenir de plus en plus que pour moi ça devrait faire. C'est presque de l'éducation civique que de savoir en fait quelle est la prégnance des algorithmes dans toutes nos interactions avec des objets numériques.
+
+En fait, c'est partout. et donc évidemment pour le design graphique. Moi je pense que c'est extrêmement important que chaque graphiste sache en fait déjà comment ça marche dans le principe et ensuite où est ce que ça peut être utilisée? pour ou contre le design avec ou en réaction? Parce que évidemment que c'est des technologies enfin moi je je pense que plus on se singularise des tâches automatisables 
+
+euh les designers ont des jours heureux devant c'est-à-dire que tout ce qui est automatisable à tout ce qui est reproductible tous qui cherchent à faire correspondre un style par défaut. Tout ce qui cherche à à remplir des templates tout ce qui est des tâches techniques évidemment et plus ou moins en danger à à moyen ou long terme.
+
+Mais ça c'est valable partout dans l'industrie de toute façon donc donc voilà, il faut être conscient de ce qui est de ce que peut faire une machine à mon avis pour se positionner un peu en réaction. 
+
+**Alexia:** Est ce que l'apprentissage automatique t'effraie manière ou d'une autre? Et si oui ou sinon quel type de stratégie tu penses qu'on devrait employer justement pour éviter? Voilà des dérives ou peut être des effets qui serait qui serait pas du tout heureux et je pense que tu as commencé à y répondre mais ce serait intéressant de développer un peu plus 
+
+**Kevin:** Pour ma part, moi je suis pas du tout inquiet parce que je crois que enfin je pense qu'on a une pratique qui n'est pas automatisable et , qui ne peut pas être automatisé je pense.
+
+Et donc je voilà, je suis pas inquiet, je suis plutôt même enthousiaste en fait, parce que je trouve que c'est des outils. Encore une fois, tout dépend ce qu'on fait avec. c'est tout dépend du contexte mais ce n'est ce ne sont que des que des crayons en plus et que des que des nouvelles façons d'aborder des images, des données Donc c'est autant d'opportunités pour des détournements, donc ça s'est plutôt très enthousiasmant par contre effectivement, je pense que ce que ça change à l'échelle du métier ou de la discipline, c'est certainement la formation des designers. Par exemple le travail de photos composer a disparu, ça existe plus du fait des mutations technologiques qui ont automatisé leur travail en fait certainement que les formations qui sont extrêmement technique et qui peuvent être au moins partiellement automatisé à mon avis doit se reconfigurer et je pense que la la formation aussi des designers dans les écoles d'art doit interroger cette dimension-là de façon forte et et d'être moins dans une logique de positionnement d'exécutants technique ou de ou de voilà, même si c'est tout à fait respectable, mais plus dans une logique de auteur de avec une perspective critique.
+
+Et ça je pense que enfin voilà, moi je considère que la pratique de cet ordre là et , et je pense que c'est un peu une des meilleures façons d'échapper à à une pregnance trop forte des algorithmes et au contraire de les utiliser pour ce qu'ils sont. Le machine learning ce ne sont que des algorithmes qui utilisent des grands jeux de données pour ce paramètrer eux mêmes et donc il faut il faut aussi se dire que ce ne sont que des algorithmes et donc en fait , c'est pas si méchant que ça.
+
+Il faut pas non plus en avoir si peur que ça, c'est juste à la fois des opportunités et en même temps un effet inverse de de quelque part, à un moment où le métier doit se remettre en question c'est des algorithmes qui sont très forts pour reproduire des choses et donc tous les endroits du design où on est que dans une logique d'application, de codes, de reproduction, à mon avis, son quelque part interrogé par ses algorithmes, voilà Donc voilà, , quand c'est des besoins techniques, moi je trouve ça.
+
+Ça sera certainement formidable quand ces des enjeux, Des enjeux de création . Mais en même temps, est ce qu'on peut s'interroger et ce qu'il y avait vraiment création dans des enjeux, dans des endroits où on ne fait que reproduire des codes? 
+
+**Alexia:** Je pense que c'est une bonne façon de de clore l'entretien sur cette question là est en effet cette question de la formation.
+
+**Alexia:** Super merci beaucoup

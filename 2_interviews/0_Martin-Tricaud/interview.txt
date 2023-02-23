@@ -1,0 +1,189 @@
+Title: ​​Martin Tricaud
+
+----
+
+Date: 2022-03-21
+
+----
+
+Audio: head-irad-dml-interview-martin-tricau.m4a
+
+----
+
+Interviewee:
+
+[​​Martin Tricaud](https://www.theses.fr/s226723#)
+
+----
+
+Interviewer:
+
+[Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+
+----
+
+Text:
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript:
+
+**Alexia:** Pour commencer est-ce que est-ce que tu pourrais te présenter rapidement 
+
+**Martin:** J'ai développé dans le cadre de ma thèse un outil d'exploration. Donc dans l'absolu pourrait s'appliquer à pas mal de cas de figure. Je l'ai développé en tête avec la problématique d'exploration créative quand on a des possibilités avec énormément de paramètres configurable
+
+et il se trouve qu'en fait ça s'applique assez bien certaines problématiques qu'on a quand on travaille avec des outils de machine learning, donc c'est un peu, disons la dernière, d'exploration, c'est problématique, c'était c'était ça. Utiliser des outils dans le cas d'une d'une pratique artistique qui utilise du machine learning ça, c'est un peu compliqué comme question, quand on mixe, il y a des petits paramètres pour régler les règles et le le gain pour les aigus, les fréquences intermédiaires et les fréquences basses selon le logiciel que j'utilise ça se comportent pas pareil c'est-à-dire que il y a le logiciel que j'utilise. Il a l'air de comprendre que quand je coupe les aigus, je veux couper tout ce qui est en voie et mélodie alors que le logiciel à l'air beaucoup moins intelligent et quand je coupe les vraiment les aigus . Donc ça veut dire qu'il faut couper les sons de batterie aiguë. donc là , j'en sais rien, ça se trouve il y a pas de machine learning ça se trouve.
+
+C'est juste du traitement de signal bien fait. Mais voilà, mais sinon non, J'avoue que tous les nouveaux trucs sur Photoshop de de context aware , ce qui est compliqué, c'est qu'il y a beaucoup de trucs entre, par exemple du traitement de signal du pur traitement image. et de machines ou parfois la frontière est assez mince.
+
+C'est-à-dire que par exemple l'outil l'assot sur il utilise des noyaux de convolution pour détecter les contours et ces mêmes noyaux de convolution on les retrouve dans des algo de machine learning après 
+
+je pense que la différence, c'est que il y a pas de data set j'ai testé des trucs sur inter net, mais c'était toujours des outils qui étaient toujours plus de l'ordre du . Un peu ludique quoi. C'était pas vraiment , c'est pourquoi il y avait ce truc qui a beaucoup tourné sur Twitter.
+
+Où tapes le titre de thèse et ça, ça génère un poster qui correspond avec un deep neural network. Dans l'absolu, on pourrait considérer que c'est un outil dans le sens où bat il y a un input, on fait quelque chose, se produit quelque chose, quoi.
+
+Mais , il y a une telle distance entre enfin ses limites, comme demander à un pote s'il peut vous faire un dessin quoi, C'est à peu près le meme level of agency j'ai pas eu d'expérience incroyable. . J'ai entendu parler de choses assez cool par rapport à ça, notamment avec substances designer tout le travail avec les textures, j'ai entendu parler de ça sur designer. Il y a cette possibilité de de de par exemple, on prend une texture pierre et une texture eau et on la mélange si on décide de les mélanger.
+
+, ça, ça le mélange, mais sur le sur un niveau sémantique enfin c'est-à-dire que ça va créer une texture de rivière avec des galets. Je trouve que c'est intéressant le machine learning, c'est d'interpréter des instructions sémantique .
+
+**Alexia:** Est-ce que tu aurais un exemple de de d'interprétation sémantique 
+
+**Martin:** par exemple, si je moi c'est un truc dont je me rends compte.
+
+Du coup en l'occurrence il y a pas de machine mais mais dans les logiciels musicaux il y a souvent des c'est-à-dire un synthétiseur numérique il a beaucoup de variables dans le très bas niveau. pour il y en a trop et donc du coup en général c'est des les choses sont fournis avec des macros c'est-à-dire un bouton on va tourner qui va contrôler plusieurs autres et en général ce bouton lui donne le le ça arrive assez souvent que ce paramètre.
+
+Le concepteur du logiciel lui attribue un nom qui correspond à paramètres au niveau par exemple, on peut dire qu'un sont il est il est gras ou bien sont ils et que fondamentalement c'est pas des c'est c'est pas des paramètres bas niveau c'est pas des paramètres de fréquence ne fasse quoique ce soit, c'est vraiment des c c'est un paramètre.
+
+On va dire qui est qui est sémantique, quasiment c'est-à-dire que c'est un c'est un sens qu'on lui attribue en combinant des paramètres bas à niveau et ce sens il y a quelqu'un qui a décidé que cette combinaison de paramètres, mais si ça se trouve, si j'avais moi créer ce système, j'aurais mis des mots totalement différents dessus. Du 
+
+**Alexia:** coup, ce que tu dis enfin, je pense. Ça rejoint ici pas mal les enjeux qu'on retrouve en ce moment dans le et les outils qui sont à disposition. , tout change à partir du moment où les designers sont capables de créer leur base de données, .
+
+Et du coup, cette question paramètres des choses trouvent, limitant aussi dans le champ du machine learning 
+
+**Martin:** J'ai un peu envie de mettre les machines dans deux catégories dans ceux où il y a un parti pris sémantique assez fort. Tu vois vraiment vraiment basé sur des outils de language processing 
+
+Alors que si tu as d'autres outils de genre par exemple je peux un truc que je trouve vraiment très cool. C'est tout ce qui est tous les trucs de motion capture tout ce qui est de détection de postures et caetera. et là ça me gêne beaucoup moins. 
+
+Je m'étais amusé avec des trucs sur comment s'appelle El enfin, avec on peut faire des trucs utiliser le mouvement des mains, elle m'appelle quelque chose, ça c'est intéressant . Je trouve qu'il y a une énorme différence entre on quand on fait du natural language processing on a toujours ce biais où on peut toujours te tromper.
+
+Sur le corpus d'apprentissage, on peut toujours si on a pris un corpus d'apprentissage, qu'on pensait être exhaustif. Mais il n'est pas du tout, on introduit des biais et c'est hyper difficile d'être exhaustif sur l'entraînement des systèmes d'apprentissage, de langage, alors que j'ai l'impression que sur de la reconnaissance de postures par exemple des choses plus basique on peut on peut le faire peut être avec moins de biais mais je sais pas
+
+**Alexia:** mais du coup pour pour pallier à ce à ce manque.
+
+, comme tu le disais dans le dans les biais semantiques que toi tu es dans tes recherches, t'as vu des choses que je trouvais intéressant qui pouvaient apporter des solutions sans qu'elles soient forcément. Cent pour cent complète 
+
+**Martin:** il y a des trucs d'apprentissage interactif, c'est-à-dire que l'utilisateur peut proposer ses propres vocabulaire. Pour moi, il y a plusieurs problèmes. Le premier, c'est que mettre des mots sur ce qu'on fait. C'est un job à part entière , dans le sens où , enfin, il y a beaucoup de personnes qui sont très bien capable de faire les choses. Et quand on leur demande d'expliquer de façon précise et rigoureuse, parce qu'en fait, quand on veut donner des instructions, un système machine, si on veut que le système soit un petit peu à la hauteur de nos attentes.
+
+Il faut que le système un minimum de performance et plus on est flou, plus le système sera flou j'avais lu un papier intéressant par rapport à ça c'était un un je crois que c'est avec un et un système de papier assez récent où on peut enfin attribué des des scripteurs adjective.
+
+à une configuration de données dans un système génératifs. Donc en gros on a par exemple ils avaient fait ça avec un générateur de typographie para métrique. légende avec prototype au c'est leur cas d'usage. Il avait fait un truc avec un générateur de texture donc à chaque fois c'est des choses.
+
+Il y a par exemple le prototype O on peut ajuster avec des curseurs plein de choses et ce que c'est qu'est ce que c'est des élites? Et pour chaque configuration peu on peut attribuer un adjectif. Et , une fois qu'on a suffisamment attribuer l'adjectif à à plusieurs configurations, on peut se passer complètement des curseurs et tout générés en proposant des adjectifs et puis il y avait aussi un papier qui faisait un truc où on pouvait avoir des sortes de qui générait des macros paramètres à partir des paramètres adjectivaux qu'on avait donné. la difficulté, c'est que quand on fait ça, ce qui est super dur, c'est de trouver des des adjectifs qui se qui se superpose pas c'est-à-dire que si moi je veux générer une typographie qui soit je sais pas vintage enfin si par exemple dans les adjectifs, j'ai est-ce que à quel point cette typographie vintage ou moderne et dans mes objectifs à quel point elle est je sais pas délicat où Lourdes si ça trouve ces deux paramètres, ce ne sont pas complètement décorer les c'est-à-dire que qu'as-tu enfin dans l'esthétique qui capturent dans l'esthétique que chacun de ces paramètres capturé.
+
+Il peut y avoir des recoupements . En général quand on va entraîner un système machine. Ce qu'on essaye de faire quand même, c'est quand même de genre de Enfin moi je reviens toujours à ça parce que c'est ce qu'on essaye de minimiser. Le nombre de enfin le de disons de limiter l'espace d'exploration parce que sinon on se retrouve avec deux cents paramètres. Donc si on veut correctement on va dire limiter cet espace. Il faut qu'on réussisse à trouver des dimensions qui sont un peu à à peu près indépendant. Et , c'est super dur à faire.
+
+C'est le premier problème. Poser des mots sur ce qu'on fait, c'est beaucoup plus compliqué que les concepteurs de ces logiciels peuvent imaginer. La deuxième chose que j'ai découvert dans un dans un bouquin sociologie, de Eva Illouz j'ai découvert des recherches très intéressantes sur le à quel point le fait de formaliser verbalement ses intentions, ça entraîne une paralysie décisionnelle et une apathie émotionnelle c'est-à-dire que , elle explique sa pour les pour les applications de enfin pour tout ce qui est un système de rencontres par Internet où les gens sont toujours invités à mettre des mots de plus en plus précis sur ce qu'il recherche et qu'en fait il y a eu des études en psychologie sociale qui ont montré que plus on définit préalablement ce qu'on veut.
+
+Plus, la magie disparaît . Et ça, c'est un truc qui m'a pas mal parlé. Je fais pas mal de dessins et de peinture abstraite. Je l'a fait précisément parce que je n'ai pas raisonner verbalement.
+
+Et si on est dans une logique de pur de design à proprement parler, où on s'imagine que que le l'artiste ou le praticien au designer il y a un an? Moi effectivement, ça a du sens. Enfin pour moi, à partir du moment où on a un forcément on va vouloir verbaliser quelque chose. On va vouloir mettre des mots.
+
+Des objectifs, se donner des façons d'évaluer un peu proprement, parce que on va avoir un client d'ailleurs qui va dire moi j'aimerais bien que ce soit. Je sais pas que ce soit plus aérien et du coup on va se poser la question aux quais c'est-à-dire et effectivement, dans une problématique de de vraiment de design au sens où il y a un et un et un et une attente extérieure.
+
+je pense qu'on ne peut pas y couper. Mais pour moi, il y a toujours une tous les designers que j'ai rencontré. C'était également tous les artistes c'est-à-dire qu'ils avaient également une pratique qui enrichit ses pratiques de designer mais qui n'est pas une pratique contraint par le fait qu'il y a un brief et qu'il fallait poser des mots sur ce qu'on fait 
+
+**Alexia:** Poser des mots sur sa pratique, c'est en effet pas forcément toujours évident mais est-ce que du coup ce travail sémantique et ce qui peut être fait selon toi quand même par des designers en collaboration avec je sais pas d'autres spécialistes ou est-ce qu'au contraire c'est pas un peu et qui peuvent être en charge de ça.
+
+parce qu'en même temps de trouver, je me dis qu'il y a aussi des opportunités de détournements, non? 
+
+**Martin:** Je trouve que le justement le machine learning comme trop envisagée comme un outil au service du design au sens anticipé des intentions, quoi. Historiquement tous les premiers travaux de connaissance d'images, le but c'est d'anticiper une intention de proposer éventuellement de débarrasser un humain de la charge, de d'effectuer certaines tâches du coup, de d'être capable précisément de savoir ce qu'il aurait fait s'il avait dû faire la tâche lui même 
+
+moi qui me préoccupe vachement, c'est si on appelle solver de contraintes geometriques
+
+c'est déjà fait des trucs sur Non mais tu vois ce truc sur l'émission de de CO un peu moi c'est un truc que je trouve ça dingue Donc il y a pas, tu peux prendre je sais pas deux lignes et tu peux dire je veux que ces deux lignes, elle soit toujours perpendiculaire et du coup, dès que tu bouges et une dès qu'il va changer l'angle d'une, ça va corriger l'angle de l'autre, ça sent toujours perpendiculaire. , tu peux faire un un des schémas entiers comme ça, des dessins entier en disant Voilà, je veux que tu sois toujours perpendiculaire à Celle-là, que le point milieu de cette ligne soit toujours
+
+sur la périphérie de tel autre cercle et que tel au cercle soit toujours tangent à au côté de rectangles . ça ce truc-là pour pouvoir s'en tenir aux contraintes que l'utilisateur était donné il y a, il y a un algorithme qui tourne un peu en temps réel un algorithme de résolution de contraintes qui est capable d'interpréter , comment est ce que les autres éléments du dessin ou de doivent être modifiés en réaction à la modification d'un autre élément?
+
+Et donc par exemple, il calcule que si j'ai déclaré que le sens de mon cercle fixe et que , je veux faire une ligne tangent à mon cercle. quand je bouge la ligne il va calculer automatiquement de combien est ce qu'il doit augmenter le diametre du cercle mais quand on a des des dessins avec géométrique avec beaucoup de contraintes on est on ne peut pas calculer de façon déterministe comment la géométrie doit être mis à jour donc il y a du utilisé pour ça mais c'est qui est vraiment cette machine n'est pas du tout mis en oeuvre afin c'est c'est une, c'est qu'il y a une technique de descente, de gradient c'est-à-dire.
+
+Il y a pas de date à cette fête, mais il y a ce truc de descendre de gradient. On essaye d'optimiser, de minimiser une erreur 
+
+**Alexia:** Pour toi, les outils du machine learning du dans le design, trop taxés pour faire des prédictions et là, on sera plus pour aider à respecter des contraintes.
+
+
+
+**Martin:** En gros, pour moi le machine learning enfin ma définition c'est que il y a, c'est un peu la conjonction d'une part un mécanisme d'optimisation minimisation d'erreur de la prédiction par rapport à des statistiques que l'on a sur le dataset ce qui fait la différence entre différents systèmes, c'est par rapport à quoi on minimise l'erreur et le le serveur de contraintes mis l'erreur par rapport aux contraintes géométriques et les contraintes géométriques sont intégralement définie par l'utilisateur.
+
+, si on veut, on peut oui d'une certaine façon de considérer que les contraintes géométriques définie par les utilisateurs, c'est un data set un truc que je trouve génial mais qui est vraiment j'ai vraiment beaucoup de travaux. Trop, trop bien avec, c'est les algorithmes génétiques pareil en algorithmes génétiques, une minimisation de d'erreurs c'est-à-dire que on fait évoluer une une sorte, une population de solutions entre guillemets et on et on donne des règles de combinaisons de solutions entre elles.
+
+et à chaque iteration on applique une fonction on va dire qu'il va éliminer les solutions les moins bon et favoriser la reproduction des solutions qu'on a considéré les meilleurs. Donc du coup il y a toujours une une évaluation de à quel point c'est bien par rapport à la consigne donc?
+
+
+
+**Alexia:** 
+
+Parce que du coup, dans les j'ai moi je connais vraiment pas du tout. Ça serait plus a quand même besoin de créer un On a quand même besoin de de l'entrée mais cet algorithme 
+
+**Martin:** non, non, justement, , c'est ça fonctionne très différemment. S'est inspiré vraiment par les mécanismes de l'évolution darwinienne. Il faut toujours commencer avec ce qu'on appelle une population initiale, mais elle peut être assez restreinte admettons tu fais un truc de design graphique et alors là, la difficulté, il y a quand même une difficulté. C'est une notion d'encodage, ça marche très bien pour tout ce qui est design parametrique. tu as vraiment une sorte de code qui génère un résultat visuel 
+
+par exemple, je sais que c'est très utilisé en trois D E. Avec rhino par exemple, il y a des gens pour le faire. Par exemple tu définis un paramétrage de ton design. Donc en gros vraiment revient au truc des curseurs que je disais tout à l'heure. 
+
+Ça, c'est la première chose qui me permettra ensuite à des règles de de combinaisons. quand tu poses la question de tu vois comme dans l'ADN humain, l'ADN, il peut se deux brins d'ADN qui peuvent se combiner pour en faire un nouveau. Donc tu doit définir ses règles de ce qu'on appelle de cross over le par exemple, tu peux dire si j'ai deux solutions donc ma solution numéro un et là dis paramètres avec des valeurs donné ma solution numéro deux Hamadi paramètres avec des valeurs donner c'est le croisement des deux, ça va être une solution ou les cinq premiers paramètres viennent de de la configuration numéro un et les cinq suivants viennent de la confirmation numéro deux, donc à chaque donc c'est un petit peu le mécanisme de reproduction.
+
+En gros, ce qui pour l'utilisateur, c'est la façon dont ça se présente. Je fais des algorithmes génétiques interactif, c'est vraiment tu vas avoir un un système qui propose des solutions. Toi, tu va sélectionner celles qui paraissent bien.
+
+Et là en général, il convient ça avec du machine learning pour un petit peut détecter à partir de de pour un peu comprendre tes préférences. OK, je t'aime bien ce genre de trucs. Du coup j'élimine à peu près tous ceux qui correspondent pas trop et je te propose une nouvelle génération du Enfin, du coup c'est très intéressant parce que ça permet de, de d'explorer très largement artistiquement c'est pas artistiquement on est.
+
+On est tellement éloigné de la direction. On est encore plus éloigné de l'acte de création qu'on les . c'est que dans ce truc-là on manipule même plus des curseurs quoi c'est vraiment on est vraiment en mode moi ça me plaît ou ça plaît pas 
+
+**Alexia:** Ça serait plus question de créer au départ du paramétrage. avec l envie quand même quand même donner un cadre, puis d'avoir un rôle, un peu de curateur curatrice. 
+
+**Martin:** C'est intéressant ce que tu dis sur le rôle de curateur, parce que les algorithmes génétiques, on peut les ranger dans la catégorie des techniques d'intelligence artificielle, que ce soit les algorithmes ou les ou les ou les génétiques.
+
+Avec la grue génétique dans un rôle de avec le tu vas être dans un rôle de on va dire de de d'un instructeur un peu coincé. , tu donnes le bris, fait la le le trouve un peu tout seul et je trouve que 
+
+Je trouve qu'il y a tellement d'autres choses à améliorer dans les outils numériques de création artistique avant de commencer à se préoccuper de sa tu vois?
+
+Parce que enfin et moi le truc des des sauveurs de contraintes moi ça. Moi, ça me rend dingue. Par exemple que je sais pas, je suis sûr illustrateur, je trace une ligne et je suis et j'ai envie que je trace une ligne. J'ai envie que , peu importe la façon dont je modifie ce qui se passe d'un côté de la ligne soit symétriques, de l'autre des trucs comme ça ou enfin, tous les trois mois, les contraintes, ça fait des années que ça existe.
+
+Sur les logiciels de 3D de CAO, il y a pas ca sur les logiciels de design graphique et et , et je vois chez Adobe, ils font, ils font des tas de papiers de recherche sur le et j'ai envie de leur dire Attendez les gars qu'on pourrait déjà avoir un truc que je pourrais déjà définir. Par exemple la tendance, quoi dire.
+
+J'ai envie que ma vie soit tangent à mon cercle. Un truc aussi basique que ça, je peux pas le faire. Chez Adobe, ils ont de graves problèmes ce qui résonne vraiment en termes de Ils essayent de se projeter. de quoi on besoin les gens? 
+
+Moi j'ai l'impression qu'ils sont des scénarios dans leur tête en mode les utilisateurs ont besoin de ça, on leur donne un bouton qui fait ça, ils ont besoin de ça leur donne un bouton qui fait ça je trouve, ça occulte complètement le fait que moi, c'est un truc dont je me suis rendu compte en interviewant des artistes. Il y a quand même chez les artistes un travail de création qui je n'ai pas mis en avant . Mais , on s'en rend compte quand on dans les expos, parfois quand on regarde les les vidéos d'ateliers d'artistes ou pas.
+
+, je pense à des mecs comme Bernard qui prend ses brosses et il fait des brosses qui font un mètre de long en les mettant bout à bout ça typiquement le genre de truc sur Photoshop. S'il veut prendre cinq brosses et les mettre bout à bout et dire ma première brasse de la trempe dans telle couleur et ma deuxième moitié attendant telle couleur, je peux pas parce que le mec qui a fait Photoshop, qui ne s'est jamais dit enfin pour lui, ça fait pas partie des scénarios qu'il anticipait 
+
+on veut anticiper les intentions, mais c'est un petit peu, C'est un peu naïf parce que on sera enfin, On a toujours un train de retard par rapport aux intentions des artistes. Les intentions des artistes précède la technologie, quoi! Et enfin quand, quand on s'intéresse à la communauté du créatif où là on commence à être un peu avec des gens, des artistes justement, qui qui sont assez fort en code, ils ont, ils ont des longueurs d'avance. Pas possible sur les logiciels grand public 
+
+**Alexia:** D'ailleurs, la plupart des designers et artistes qu'on a interviewé dans le cadre de ce projet, ceux et celles qui travaillent vraiment, qui voulait créer des des nouveaux scenarios avec du machine learning imaginés en ils vont chercher, les vont plutôt vers des solutions qui leur sont complètement personnalisé , est ce que pour toi tu penses que c'est important que les designers graphiques comprennent et apprennent voile, machine en pour toi c'est vraiment quelque chose qui doit être traitée par les ingénieurs des gens qui sont la programmation et qui se l'approprient d'une manière un peu plus différentes comme les artistes comme dit Thomas par exemple qui qui travaillent entre les deux d'ailleurs
+
+**Martin:** Le truc c'est que enfin oui, quand je dis y'a apprend déjà comprendre enfin comprendre les grands mécanismes sur lesquelles s'est basée fondamentalement machine c'est l'optimisation Ce qui se passe à chaque fois que les algorithmes de propagation est minimisée.
+
+L'erreur entre le résultat qui est généré par l'algorithme considère être comme une consigne, une norme ou un truc auquel se conformer c'est pas si intelligent que ça coinçait
+
+pour moi y'a deux parties il y a la partie enfin très souvent dans les publics les trucs sont déjà les algorithmes de reconnaissance d'images c'est toujours le même c'est un gros algorithme qui a déjà été entraînés sur un corpus d'images dont les concepteurs savent que personne à un corpus d'images aussi, fourni.
+
+Les machines ça marche très bien. , sur des trucs complexes quand on a des énormes, enfin je ne sais plus quoi mais les derniers modèles de traitement de langage naturel qui sont vraiment bien la quantité de ressources qu'il a fallu pour entraîner le modèle des trucs mais c'est des super calculateurs entier pendant pendant des jours quoi donc
+
+Ce qui ce qui est intéressant pour un artiste avant d'apprendre le machine learning , c'est enfin pour avoir beaucoup de sens d'apprendre sans apprendre à coder , et je pense que c'est beaucoup plus utile et d'ailleurs , enfin, c'est un truc qui n'est pas nouveau parce qu'il y avait il y avait Enfin, c'est pas dans les années soixante, il y avait les expositions, la cybernétique, serendipity avec tous les algorithmes et tout bon , il ne connaît pas forcément sur ordinateur, ils avaient un langage. , on va dire formel préfiguraient qui préfigurait un petit peu ce qu'on pourrait faire.
+
+Moi je trouve que le numérique ouvre vraiment des nouveaux trucs, c'est parce qu'il permet de mettre en oeuvre des vraiment des langages formels quoi donc , de de Voilà le travail de George Steiner sur les grammaires de forme que j'adore, ça, vraiment.
+
+ça, c'est un truc qu'on ne peut pas. Enfin encore que lui, il a fait. , il y en a beaucoup fait à la main, quoi. Et ça, vraiment ce travail sur les, sur la grammaire de forme, il est intéressant. Il donne vraiment une place intéressante à l'ordinateur dans un travail de design graphique. Et là, , je vais être critique des machines, c'est que les gens qui font machine ne ont pas l'impression qu'ils n'ont pas conscience que les artistes qui créent leur langage . et le langage. Par exemple Mondrian il y a pas de grammaire dans l'Orient au sens linguistique enfin le sens de la linguistique formelle mais mais il y a un langage 
+
+pour moi, le langage n'est pas forcément avec des mots justes pour ça que j'aime bien. Le travail de groupe informel, c'est le. Il y a un langage qui est une structure, , il y a des règles. On va dire un peu, des règles non verbale de composition et de construction de nouveaux objets graphiques. J'ai l'impression que c'est pas pas pris en compte quoi on est on est on est toujours dans l'anticipation d'intentions et pas dans le dans la voilà matérialisation d'un langage je pense.
+
+
+
+Un dernier truc, c'est cette question des mots , enfin, du du je trouve que enfin c'est c'est pas si tu vois Bernard Stiegler ses travaux un peu oui où il dit que le donc les le l'apprentissage machines avec des avec des enfin avec des corpus centraliser ça dépossède le les humains de leurs facultés à créer leur propre langage et moi l'exemple que j'adore.
+
+c'est enfin que j'adore qui est un peu terrifiant, mais c'est c'est-à-dire que Netflix, Spotify. Moi je me souviens enfin moi j'ai j'ai commencé à écouter à l'époque des choses et , on est vraiment dans les communautés interne, etc. Il y avait des forums sur comment est ce que les gens expliquait comment il s'y prenait , pour classer leur musique?
+
+Et donc il y a tout ce truc de voilà. Moi je. Il y a vraiment des gens parfois qui détournent qui au lieu de mettre le titre de la chanson, ils vont se mettre une sorte de petit de la chanson avec un mot clé par exemple pour pouvoir les retrouver facilement dans un dans un truc de jean ou alors des des gens vraiment qui vont avoir leur système de classification des genres et du coup du coup c'est en faisant ça les gens deviennent experts sauf que aujourd'hui, les gens qui commence à regarder des films avec Netflix, Netflix enfin, moi ce que je détestais Netflix, tu tu veux, tu peux accéder à la liste des films, Je sais pas, tu peux pas.
+
+, n'est fixé un mode. On regarde ton comportement, on essaye de comprendre ce que tu aimes. comme ça, t'as plus à poser la question de ce qui me plaît et , et du coup , on anticipe les désirs. Et , alors que c'est l'inverse de la création artistique authentique, c'est la création, c'est voilà, la première créativité, c'est c'est c'est, on va mettre des mots.
+
+ou des actions. On va dire enfin des mots pas forcément verbaux, mais ça peut être des actions . Mais , qui sont des actions avec une certaine logique et une certaine grammaire. Et j'ai l'impression qu'il n'y a pas suffisamment conscience de conscience de ça dans dans beaucoup de gens qui sont dans la machine. Vraiment on anticipe les besoins.

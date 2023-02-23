@@ -1,0 +1,9 @@
+Input:
+
+I am the co-founder and the CEO runway runway is software that uses artificial intelligence and machine learning to help filmmakers artists, designers and creators created content and video with the help of machine learning. 
+
+----
+
+Output:
+
+We use the power of AI and ML to help users create better content faster and in an automated manner. We help users get better quality, faster production, as well as easier and faster editing. With the help of our platform, users can create content faster, easier, and with improved accuracy, saving time and money. We offer a range of services, from pre-production to post-production, offering tools that help users create better content, faster. We provide content creation tools such as video editing, computer-generated imagery, motion graphics, audio manipulation, and several other advanced editing tools. Our goal is to provide creators with the tools and resources to create the best content possible. Overall, our mission is to make creating compelling content easy and accessible, creating more opportunities for creators to be creative. We believe that with the right tools and resources, anyone, no matter the skillset, can create something amazing.

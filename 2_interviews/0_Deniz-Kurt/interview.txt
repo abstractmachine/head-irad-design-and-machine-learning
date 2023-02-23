@@ -1,0 +1,159 @@
+Title: Deniz Kurt
+
+----
+
+Date: 2022-03-22
+
+----
+
+Audio: head-irad-dml-interview-deniz-kurt.m4a
+
+----
+
+Interviewee:
+
+[Deniz Kurt](https://www.denizkurt.design)
+
+----
+
+Interviewer:
+
+[Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+
+----
+
+Text:
+
+The interview was conducted via Zoom.
+
+----
+
+Transcript:
+
+**Alexia:** Okay. Hi. Could you maybe like briefly share with us, what are your main interests? Like what do you do. 
+
+**Deniz:** I do lots of things, actually. I consider myself as a creative technologist. I am a media artist, so I do generative arts AI arts.
+
+I work with machine learning a lot for myself, but also like collaborating with other people computer scientists sometimes to come up with some algorithms and I do audio visual installations also using machine learning and different applications of it.
+
+And I also work as a programmer. I'm a front-end developer, a mostly a creative developer, and I'm a UX UI designer. So I'm little bit in between all this fields about arts and design and technology. And my background is research. Actually I did my first master's degree in media and cultural studies and then one year of exchanging digital media. And my second master's degree in creative industries. So my research was about artificial intelligence and it's artistic applications, basically creativity in it. So yeah, more or less my story. 
+
+**Alexia:** Why I thought it could be so great to interview you because I wanted to have us to your point of view as a UX designer, you know, not programming side of it around machine learning, but maybe as, as as a start, could you share with us What type of tools using machine learning, you know, are you using in your creative process? What are the limits for the good things about it? 
+
+**Deniz:** For my personal. I use Art Breeder a lot runway ML and Playform dot IO. Those are my three to go tools for machine learning and I use them in different projects also, depending on how big is the project. And in terms of methodologies, I also use like regression analysis or classification in my art projects. In terms of UX design. What I really like in machine learning is that of course making predictions about a user experience and sort of maybe helping or thinking about human centered AI Making or again, helping an ethical, non biasied AI AI systems, and because it's all based on data.
+
+So it's definitely a part of a UX as well. For instance, with the chatbots. Maybe also nice dimension. IBM's Watson is also one of our go tools and in my corporate life as well in order to make authentic conversations or not in a top-down hierarchical point of view with the user, but also creating a bottom up view like Not predicting the needs of users for themselves, but sort of also understanding what they want, what they need, what they want to look at, how they want to think about also with the dilemma of Privacy and making a useful cloud based.
+
+Could you 
+
+**Alexia:** maybe share with us, like one of the project where you used Runway or Art Breeder or whichever you prefer, like, could you tell us, like, what was your process? And maybe tell us more about the outcome. . 
+
+**Deniz:** For sure. Maybe I can give actually a solid example first, for instance, I'm right now making an exhibition of its looks at work university which I gave some seminars before about computational creativity and artistic creativity of AI.
+
+And right now we've been working on exhibition for a year actually. And it's a part of the expo called . And for that exhibition, I'm making this audio visual installation and we are working together via computer scientists on this project as well. Because we are using style GaN three and we are dealing with a lot of data and Also to be more specific.
+
+For instance, when I first started this project, I started with both runway Art Breeder and Playform dot io . There was some challenges that I found and there was the good sides of each program. For instance, for me personally, I wanted to create my own datasets because it's, it's a relatively big project.
+
+So I wanted to create like more than 50 datasets with around 10,000 or like 500 images in it. But I found both runway art and play form a little bit. Limited to create your own dataset. So that's why we went to writing an algorithm to create the data sets, but more than that eliminate the outliers because this is usually something we do manually and it takes a lot of time. And also. A lot of GPU as file to work with a style gan. So that's why we needed the computer labs, universities resources for that. So we kind of had to come up with our own solution by writing. I mostly use art breeder. I also liked in art breeder for small projects it put a small project. You can also create your own datasets with Yeah, a more budget friendly and run VML in play form, both works with credits and also with subscriptions. And sometimes I found out that even then your datasets is kind of limited, other than that, if I want to make a project for Using certain style sets or certain guidelines for instance the style transfer, methodology, those kinds of stuff. I like first Play form and then runway. So you mean that you, you use both, 
+
+**Alexia:** At different moments of your project?
+
+**Deniz:** Definitely. Yes. And could you 
+
+**Alexia:** like maybe give us an example of like, what, like what was the outcome when you 
+
+**Deniz:** use those two? Well In platform dot IO. I, I used style transfer and also image to image . And I already find the outcome also not as much sophisticated. .
+
+But I, what I wanted to see that the. Algorithm would create a, like more of a unique form, little bit different articulations of the guide image. But I noticed that it was very dependent. But I think this is also something related that the data and the data sets that they are using because they have ready data sets.
+
+And I mostly worked with them. But what I expect is that by uploading data sets or using different data sets, especially in art breeder, actually, we are also training the program ourselves. So the more people use and the more projects are done with those actually I think their system will be more sophisticated.
+
+**Alexia:** When you start thinking about a project creative project, do you still usually go with those tools for idea generation or is it more like the outcome that you look for that generated by Machine learning tool 
+
+**Deniz:** it's actually a very good question. And usually I do both because sometimes the ready that datasets gives you an idea about how to breed different stuff.
+
+Like for instance the, one of my latest project. I wanted to create an endemic of alien worlds. And I used flower images and I collected the data myself sometimes some pictures from being searched that I, I used the first version of our algorithm to the data and for some of them, I used the images actually for most of them, the pictures that I took myself in the nature, in a forest, like of the flowers.
+
+And then I put a black background on. Using Figma, because for UX, UI design and graphic design. Figma is my go-to tool. And I also use it for creating images, like guideline images, myself. And then for the second dataset I use the images of lava lamps. So I wanted that fluids imagery to create something more mystical, something more out of this world basically.
+
+And the results were really good. I used art breeder for this. And what I did was I started with two different data sets. And then breed it, them and then I use this turret datasets of breeding images again which to create more images. So. Once I did was actually creating letting the algorithm create a data set for me, and then using that data sets as a guideline as well.
+
+So the more I breeded, it it's started to look different from the flower pictures that I took and also different from the lava lamp pictures that I took as well. And then at the end, I was able to reach the result, the outcome that I wanted. 
+
+**Alexia:** What you mentioned about being able to creating your own dataset came up in most of the interviews, you know, like designers, the ones who were interested by machine learning they start with the available tools, but then they feel pretty limited because they are not able to create their own dataset. What do you think. Is hard for someone who had never done, like, let's say someone had never done a dataset who has to learn how to create their own data set. Like what do you think right now are the limitation for designers to do that themselves? 
+
+**Deniz:** Also very good question. I think for me the hardest point was when I create the data sets It was a little bit dependent on the algorithm like for instance, both Runway ML and Art Breeder are using style gan too.
+
+I think But when you create your own datasets, like I said, there will always be a lot of other, either lots of outliers. If you exports datasets, or if you create it from scratch it will take a long, long time. So I think the best Use case scenario for that is using archives.
+
+And I think for this very reason the most used application is style transfer, for instance creating my Face or my, a picture of me that I take in style of Van gogh. So this is really common because it's easy and you can reach to those datasets because there are already algorithms that are trained with the style of van gogh style of Dali 
+
+that's why it's the most common thing, but when you want to do something Different. It's always a little bit tricky because you, don't want to spend days or weeks to create datasets and then work with them. Which is usually a very hard for our computers as well. And maybe that's why we need these programs like runway or playform because they create those animations and style and for us.
+
+**Alexia:** Yeah. And then did my questions kind of follow up on the previous one? Like what do you think right now are the new skills that graphic designers should learn in this automatic era 
+
+**Cristobal:** it's also a related question actually, because as designers, we always lately because I I'm a little bit in between I sometimes.
+
+I'm not sure if I'm a designer who can code or a programmer who can design, but I see myself as a designer who can code. And what I code is more than HTML and CSS. When I start coding was with Python. So in that sense, I was little bit lucky or maybe created my own luck because I was interested in machine learning but I think it's important for designers to at least look into IBM's tools, for instance, like alts also Sort of machine learning methodologies because like classification, regression. I mentioned these are these are the supervised learning methodologies. So it's about working with the labeled data sets, but sometimes you can also work with the unsupervised Learning methodology and to train an algorithm, to find its own clusters and making their own associations with unlabeled data sets and which is something that I'm also more interested for future actually to create a more creative algorithms also in design and And if you go for instance, way beyond that you have reinforcement learning, which is even without the datasets.
+
+So these two first two methodologies are the ones that I encountered most common. They are used a lot in our daily use of social media, like in for instance, in Instagram to create suggestions to you in terms of UX or creating a bubble of your tastes or making suggestions for you But also maybe an example for that is, is a design system that I recently discovered is called mechanic.
+
+It's actually a machine learning system To train the algorithm to make a UX UI design. So also maybe something to mention. But this is something that is discussed a lot within the designers. Like when we talk about this stuff, like also with GP T3 and.
+
+Is our algorithms taking over us. I'm little bit on the other side of this because I really am trying to getting little bit away from this. Let's say anthropocentric point of view of art and design. Also it's super controversial in art and people in, in field of art philosophy sometimes, like this is something we were discussing a lot with other academics, but they don't like it that much like taking the art-making and creative process from humans with emotions and putting into an emotionless entity and making it a decision-making mecanism
+
+but I think what's, what's important to see here is that it's not a decision-making mechanism making decisions for us. It's basically collecting the data of our decisions and making a bulk of it. And by looking at those systems Labeled or unlabeled data. We can see our own decision-making mechanism as a society.
+
+And so if, if I go back to your question it can also give us some tips about different cultures, how they use internet, how they use a design or how they grasp their everyday social media. So I think for designers The best usage of machine learning is learning these methodologies or how to integrate them into their websites the chatbots that they're using.
+
+And even for making a more. Eco-friendly a more human centered UX and web designs as well. 
+
+**Alexia:** What, what are the the type of application in the field of machine learning right now, though, you be really curious to try, like things that you think are underused or that you wish will exist. 
+
+**Deniz:** I know that I will be thinking more about this question actually after this conversation. What we mostly see is like also in IBM's Watson or in IBM's design machine learning systems is with using historical data using the user data. Or predicting something for them about them.
+
+But what I'm very curious to use is actually using machine learning As a design methodology as well. So for instance, a machine learning algorithm that tells me when I'm designing a page I'm just brainstorming by the way. Like a platform tells me Hey, what's your target audience for this website?
+
+And let's say I'm making a website for gen generation Z and also maybe millennials such as myself. So people aged between let's say 18 and 35. And so what's, this website is about it's it's about music let's say . What about using these colors? Like what about using this color palettes or what do you want your tone of voice? Should be, I want something playful or I want something integrating. I want something. About ecology or I want something about you know, and LGBTQ, something like that. So This will be really interesting to see what's an algorithm suggest to me about the layout of a page about where I'm going to put a certain CTA button or what kind of language.
+
+That I should use because the copywriting is also a part of it. So sometimes let's say I'm making a content and I'm just like Grammarly. For instance, like combination of all these things or telling to me, Hey, maybe you can use this font yeah, this kind of texts or this kind of tone of voice, or maybe you can change it a little bit.
+
+And that might be interesting because I would knew as a designer then This is giving me all sorts of different diverse peoples ideas, , about internet. And when I think about like how it can be done and it can be done maybe also like small surveys about UX or UX research or collecting the UX research data and integrating. This data into an algorithm to make human centered predictions. Again, also, of course, I'm putting emphasis on that because it's also controversial subjects because it needs to be inclusive as well. It needs to be the UX research of the users of web design in North America and Western Europe and also web users in Ghana or Latin America.
+
+**Alexia:** Something I wanted to ask you about as final question, I guess, is. Don't you think that right now we are going into this homogenity of visual aesthetic, because I was listening to you talking about algorithms that will suggest things. And I think in a way it's really interesting to imagine that it could come with us throughout the entire design process. And this could be kind of like a brainstorming partner that you use suggestion, you can react to it, maybe tweak it, but then the first thing that comes to my mind, well, what about originality? Cause right now I do feel like we are reaching the point of seeing too much of this Gan aesthetic 
+
+**Deniz:** Exactly. Totally agree with you. That's why I always try to put emphasis on that because that's the, a little two face coin of the data.
+
+So we are using data to democratize a certain system, but while we are trying to democratize it maybe. We are making it biased by using a certain data set from certain people which are more simply reachable to us, like closer to us. So this is something that we think a lot as well with, with other machine learning artists or researchers and thinkers and It's actually the solution is simple and difficult.
+
+Simple solution would be of course, collecting data from everyone or making it more diverse than making it more inclusive. And. There are actually some algorithms even working on that, making unbiased algorithms. And this is becoming a whole branch of machine learning actually.
+
+And It's also a, again, a little bit controversial because the more data you use the more GPU's use, the more harmful you become for the planet. So sometimes it feels like. Like a vicious circle for us. Like we are trying to do something good, but then we need to be super careful not to harm another perspective.
+
+And that's why. While working on ethical bias while working trying to collect different data and trying to move away from certain aesthetics. Like your example was really relevant. I think this GaN aesthetic, because I was also feeling as an artist, like all my stuff, starting to look like each other and I don't like it.
+
+So that's why I was trying to like breed the data sets within each other and try to create something different. But also we are doing interesting labs about for instance, natural intelligence was one of them and I was there last week and we were discussing how we can integrate solar To our design, to our UX design, to our web design, to our mission learning algorithms as well.
+
+So I think I agree with you. It is really homogenic right now, and we are trying to make it more diverse, but it's also important. I think to people be aware of Research like reading about it. And not only specialize on one thing, but also trying to learn about like if you're a media artist or like a machine learning, computer scientists, for instance I think from my opinion, you should learn about Creative applications you should learn about cognitive abilities of human, like as creating or neural networks.
+
+Because when you understand the human brain, the neural networks, it helps us to understand the machines and vice versa or understanding society existence of other people. What they want what they want to see in their websites. And also it's another question actually. For instance, if we make such machine learning algorithm for design, for instance, that makes such a chosen predictions.
+
+How can we know that everyone is represented? Like should be really that unified or should be diverse for different group of people and in different countries and in different locations of the world. And 
+
+**Alexia:** I, as wondering like then aren't we expecting too much of this tools and maybe machine learning tools are much more relevant and useful when they're really like. Tiny and targeted tasks that they could do. 
+
+**Deniz:** . It's actually a great thinking. Because the thing is that yeah, like when you have a bigger questions and when you try to do bigger stuff, sometimes it leads you to be more homogenic or more, or let's say unified because Then you are trying to make something holistic, but then something holistic can also mean and something unified and sometimes, and excluded for some.
+
+Small groups or some small tasks or some smaller representations. So I think it's really relevant. And I really liked this idea actually like addressing maybe to smaller issues with smaller algorithms and Maybe also coming up, it's a smaller methodologies. I'm making this comment because like all the years that I've been working on artificial intelligence, when I tell it to people, it's a.
+
+The first questions that they asked me is that, are they going to take over us or yeah. Are, are they going to be smart as we are? And what I, what do I think about singularity? Is this going to happen? Are they really creative? Because I was working specifically on artistic creativity and not problem solving, but I think It doesn't have to be that holistic.
+
+So it doesn't have to be that black or white like this or that. It doesn't have to be that if we have a machine learning arts, our art is eerily. No, it's just like, it creates just different sub branches underneath each other. And then I think different sub-genres maybe different opinions and also really makes us think about our co-creation.
+
+As you might've seen. And sometimes it's little bit scary, I'm saying scary in a sense that sometimes you don't like the results because sometimes you make a chat chatbot and it turns out to be super racist. Because it's on the internet. Or people train it that way. But I think yeah, it's, it's, everything is part of being human.
+
+So we will find our own way for it. 
+
+**Alexia:** Thank you so much, Denise. Thank you so much as well.
+
+It was really a mind opening, a discussion and conversation. Thank you. It was great.

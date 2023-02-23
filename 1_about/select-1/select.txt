@@ -1,0 +1,7 @@
+Input:
+We are currently building this experimental tool to explore the subjects explored in the research project.
+
+----
+
+Output:
+The tool will allow users to explore and navigate between all the research themes, browse through examples and access related resources and papers. We plan to create an intuitive interface that will allow users to search and browse through research materials quickly and easily. The tool will be designed to be scalable, so that new topics and resources can be added as the research progresses. We also plan to integrate with existing online resources, such as databases, so that users can have access to the latest research in their areas of interest. Finally, the tool will also include a discussion board, so users can discuss their research with others and potentially get feedback from other researchers.

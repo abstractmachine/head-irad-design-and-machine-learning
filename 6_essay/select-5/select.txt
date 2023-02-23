@@ -1,0 +1,7 @@
+Input:
+À la fin des années 1980, les recherches fédérées par l’informaticien Yann Le Cun vont rouvrir l’axe des réseaux de neurones, qui va se révéler plus efficace que l’approche symbolique.
+
+----
+
+Output:
+A la différence de l’intelligence artificielle, les réseaux de neurones utilisent une approche plutôt que symbolique. L'intelligence artificielle s'appuie sur l'utilisation d'algorithmes pour résoudre des problèmes qui ne sont pas résolus par des méthodes classiques. Les réseaux de neurones, en revanche, tirent leur puissance de leur capacité à apprendre à partir de données pour reconnaître des patrons et prendre des décisions automatiques. Les réseaux de neurones sont capables de prévoir des types de comportement et de trends sans avoir à être explicitement programmés.
