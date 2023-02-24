@@ -1,0 +1,7 @@
+Input:
+Cette attention portée au tissage entre humains et systèmes techniques nous amène à formuler un cinquième axe de travail avec les réseaux de neurones pouvant intéresser les designers. Il consiste à ne plus envisager les IA comme des machines de création (détachées symboliquement des contingences matérielles) mais comme des étapes de production.
+
+----
+
+Output:
+Le travail du designer sera alors d’en comprendre les processus et d’apporter une contribution en terme d’agencement, d’interaction, d’utilisabilité ou encore d’écosystèmes pour qu’elle puisse être plus compréhensible et s’intégrer de manière plus harmonieuse au milieu humain et techniques. Le designer pensera ainsi les systèmes intelligents comme une interface avec l’humain, afin qu’il soit plus à l’aise de travailler avec.

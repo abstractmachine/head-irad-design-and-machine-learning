@@ -1,0 +1,7 @@
+Input:
+l’automatisation d’un champ ne va pas forcément de pair avec celle d’un autre, et des frictions entre des programmes spécialisés que l’on rassemble mettent en exergue la difficulté voire l’impossibilité de concevoir une intelligence abstraite et globale.
+
+----
+
+Output:
+L'automatisation du champ peut s'accompagner d'une automatisation parallèle d'un autre champ, mais cela peut aussi signifier qu'il existe une complexité, une interaction et une spécialisation entre les deux domaines de l'automatisation. Dans un tel cas, des frictions pourraient survenir entre logiciels spécifiques pour ces deux domaines, que l'on cherche à intégrer et à automatiser. Cela souligne donc la difficulté, voire parfois l'impossibilité, de concevoir une intelligence abstraite et globale cohérente et efficace dans ces conditions.

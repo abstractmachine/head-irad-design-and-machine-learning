@@ -1,0 +1,7 @@
+Input:
+Le deep learning (et le machine learning) se présente la plupart du temps sous une allure dématérialisée, faisant fi du lourd écosystème tant technique (data centers, extraction de métaux rares, etc.) qu’humain nécessaire à son fonctionnement.
+
+----
+
+Output:
+Pourtant, le deep learning n’est pas une solution unique et isolée. Derrière chaque modèle se cachent des composants technologies existantes, des données souvent stockées dans des centres de données, et des centaines d’heures de formation qui sont charpentis par une pratique de l’algorithmique. Ainsi, le deep learning se trouve de plus en plus soutenu par une architecture hardware et software qui se nourrissent l’un l’autre. Le deep learning, en utilisant des réseaux neuraux artificiels, est une subdiscipline du machine learning qui se sert des technologies et des données pour apprendre et comprendre.

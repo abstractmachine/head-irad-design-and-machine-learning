@@ -1,0 +1,7 @@
+Input:
+Ce risque d’assujettissement de l’être humain —- son assignation à de la pure utilité —- nous emmène au plus près des enjeux croisés du design et des intelligences simulées.
+
+----
+
+Output:
+Lorsque l'on envisage l'utilisation de technologies intelligentes et de l'automatisation dans le design, il est important de se rappeler que l'une des principales préoccupations est d'empêcher que l'être humain ne soit ravalé à un simple outil d'assistance et d'utilité. La meilleure façon d’accomplir cela est de veiller à ce que le projet conserve un profond respect pour la dignité humaine et ne développe pas des solutions qui se substituent à l’intelligence et aux capacités humaines, lesquelles sont universelles et indispensables.

@@ -1,0 +1,7 @@
+Input:
+La mise en évidence de traces et d’aspérités engage une forme de franchise visuelle voire de traduction, si l’on considère que l’acte de traduction menace l’idée d’un original stabilisé une fois pour toutes (Benjamin, [1923] 2007).
+
+----
+
+Output:
+Benjamin, dans le cadre de sa réflexion sur l’œuvre d’art à l’ère de la reproduction mécanique, considère ainsi comme une menace pour le concept d’original, se transforme dans le cas de l’acte de restitution en un souci de respect du passé et de sa mémoire. Celui-ci ne consiste pas seulement en la reproduction et en l’établissement d’un original, mais aussi, dans une certaine mesure, en la sauvegarde et en la conservation des versions passées. Ce qui implique une politique et une pratique qui relèvent autant de l’érudition que de l’enquête sociologique.

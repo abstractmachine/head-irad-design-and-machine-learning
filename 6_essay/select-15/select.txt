@@ -1,0 +1,7 @@
+Input:
+La naissance de la cybernétique est généralement reliée à la publication de l'ouvrage *La cybernétique*. *Information et régulation dans le vivant et la machine* du mathématicien Norbert Wiener,
+
+----
+
+Output:
+en 1948. Avant cet événement, le terme cybernétique n'avait été utilisé que par un petit groupe d’universitaires, ce qui démontre que Wiener est à l'origine de la théorie, bien qu'il n'ai pas inventé le terme. Étant un mathématicien et un physicien, Wiener a intégré des réflexions sur les connexions entre les mathématiques et les sciences naturelles et a appliqué ce concept à la gestion informatique et aux systèmes médicaux.

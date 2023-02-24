@@ -1,0 +1,7 @@
+Input:
+Le deuxième axe de potentialité créative du machine learning consiste à contrecarrer l’illusion de l’automatisation.
+
+----
+
+Output:
+Les systèmes d’apprentissage automatique peuvent être utilisés pour permettre aux humains de développer de nouvelles méthodes de résolution de problèmes et de prendre des décisions plus éclairées. Par exemple, des systèmes d'IA et d'apprentissage automatique peuvent être utilisés pour accompagner les humains dans la compréhension et le développement de nouvelles approches, telles que le développement de nouveaux produits et services adaptés aux besoins de leurs clients.

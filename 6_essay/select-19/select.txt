@@ -1,0 +1,7 @@
+Input:
+Pour mieux comprendre les fondements du fantasme de la mise au monde d’une idée débarrassée des vicissitudes matérielles (des aléas de l’exécution), il est instructif de remonter à l’apparition des appareils d’enregistrement au XIX^e^ siècle. Voyant dans la photographie alors naissante de quoi concurrencer les arts installés comme la peinture, le poète Charles Baudelaire dénonce avec virulence la prétention de la mécanique à faire art
+
+----
+
+Output:
+en déclarant : “L’image mécanique n’est pas une œuvre d’art”. Au début du XX^e^ siècle, la quête de moyens plus abstraits et plus intuitifs d’explorer et de matérialiser la créativité devint populaire. Au hasard des technologies, le phonographe et le cinématographe établirent un pont entre l’art et l’ingénierie ; Les industriels sont ainsi devenus des précurseurs de l’ère numérique, donnant naissance à une nouvelle vision du processus créatif.

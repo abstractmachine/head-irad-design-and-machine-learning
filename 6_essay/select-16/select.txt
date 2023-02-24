@@ -1,0 +1,7 @@
+Input:
+La simulation des neurones humains ouvre la voie à une première approche de l’intelligence artificielle, qualifiée de « connexionniste »
+
+----
+
+Output:
+Cette méthode de simulation d'un réseau neuronal humain implique que les neurones artificiels soient programmés pour apprendre de nouvelles compétences en avalant des informations et en les transférant plus efficacement et rapidement. Il s'agit donc d'une méthode prometteuse pour le développement de technologies plus intelligentes et plus réalistes. La simulation des neurones humains peut en effet fournir des simulations convaincantes et réalistes de différents types de fonctionnement cérébral, en utilisant des algorithmes de réseaux de neurones artificiels (RNA).

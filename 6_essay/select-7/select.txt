@@ -1,0 +1,7 @@
+Input:
+Le premier axe d’opportunité que nous proposons d’explorer consiste à mobiliser les technologies du deep learning pour révéler des dynamiques de standardisation au sein de productions existantes.
+
+----
+
+Output:
+L’idée est ici de s’appuyer sur les technologies avancées de classification et de reconnaissances d’objets et de formes pour identifier des patrons récurrents. Ces patrons pourront être exploités comme des primitives qui doivent structurer l’environnement à produire. Cela permettrait de gagner du temps dans l’exécution de tâches spécifiques et d’ouvrir des possibilités inédites d’incorporation et de collaboration avec des équipes populaires travaillant sur des technologies spécialisées.

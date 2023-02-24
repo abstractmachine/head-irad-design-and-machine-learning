@@ -1,0 +1,7 @@
+Input:
+Avec les IA du deep learning, l’autorité de l’auteur·trice et sa signature visuelle sont mises en tension par des programmes capables d’analyser et de synthétiser (d’imiter) de façon automatique de larges jeux de données.
+
+----
+
+Output:
+En particulier, ces algorithmes algorithmes automatiques peuvent capturer et reconstruire de façon vivante les caractéristiques distinctives d’un·e auteur·trice ou d’un artiste comme la couleur, la texture et la forme. Ainsi, les IA du deep learning aident non seulement les auteur·trices à contrefaire des oeuvres existantes, mais ils·elles sont également capables de générer de nouvelles oeuvres artistiques qui n'ont jamais existé auparavant.

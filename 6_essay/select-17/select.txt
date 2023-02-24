@@ -1,0 +1,7 @@
+Input:
+Dans la logique des prompts, ce qui compte n’est plus le temps (le labeur) nécessaire à la réalisation (ce dernier étant confié à des machines), mais la recette magique permettant d’obtenir le résultat, comme le montre les exemples d’une startup faisant payer le texte précédant la génération d’une série d’images produites par DALL·E
+
+----
+
+Output:
+(de Google), à partir d’une recette formulée sous la forme d'un prompt c’est-à-dire d'un court texte descriptif d’une image. Dans ce genre de situation, tout au long de l'implémentation technique, le travail se focalise principalement sur l’obtention d’une mégic formule qui donne les résultats escomptés. Ainsi, l’utilisateur n’est plus obligé de procéder à des tests multiples pour obtenir des résultats satisfaisants, mais peut directement obtenir l’image souhaitée à partir de la formule magique.

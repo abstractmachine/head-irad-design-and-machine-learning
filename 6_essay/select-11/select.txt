@@ -1,0 +1,7 @@
+Input:
+Dérivé du machine learning, le deep learning désigne une méthode où la machine a pour objectif d’« apprendre par elle-même » —- contrairement à la programmation « traditionnelle » de la logique symbolique où elle se contente d’exécuter des règles prédéterminées par des humains.
+
+----
+
+Output:
+Le deep learning est une forme d'intelligence artificielle issus du machine learning et se présente sous la forme d'un réseau de neurones artificiels capables de prendre des décisions complexes dans divers domaines : automatisation des processus, reconnaissance d'images, traitement automatisé et compréhension du langage naturel, etc. La machine s’apprend à effectuer des tâches en analysant des données sous plusieurs couches de neurones, générant ainsi des résultats en vue de prédire des actions et compréhensifier des concepts. De cette manière, il est plus facile aux ordinateurs de traiter des données vastes et complexes et mieux comprendre des relations entre les différents éléments.
