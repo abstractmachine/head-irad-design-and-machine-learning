@@ -1,0 +1,7 @@
+Input:
+We have conducted a series of Interviews with various designers and engineers to better understand the current state of the art and the problems associated with integrating artificial intelligence into a graphic design workflow.
+
+----
+
+Output:
+1. What challenges do you find when trying to integrate artificial intelligence into a graphic design workflow? One significant challenge when integrating artificial intelligence into a graphic design workflow is the ability to understand exactly how the AI is being used. Designers need to have an understanding of the AI’s capabilities and its limitations in order to properly utilize it. Additionally, the ability to tailor AI to a specific workflow or project is often limited, which can limit its effectiveness. Furthermore, AI can produce unpredictable results, so it is crucial for designers to have an understanding of the AI’s capabilities in order to avoid any potential negative outcome. Lastly, the lack of standardization across various AI platforms can be a challenge as different applications may produce varying levels of results. 2. What do you think are the benefits of incorporating artificial intelligence into a graphic design workflow? There are several benefits to incorporating AI into a graphic design workflow.

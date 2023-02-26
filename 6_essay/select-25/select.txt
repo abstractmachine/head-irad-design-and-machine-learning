@@ -1,0 +1,7 @@
+Input:
+La création au risque du machine learning
+
+----
+
+Output:
+. Le machine learning est une forme d’intelligence artificielle qui consiste à apprendre en se basant sur des données. Ces données peuvent être issues des utilisateurs ou collectées en ligne. Les algorithmes de machine learning sont créés à partir de ces données, et ils sont capables de prendre des décisions ou de résoudre des problèmes sans intervention humaine. Il peut ainsi être utilisé pour créer des produits, des services ou des solutions innovantes. Toutefois, le machine learning entraîne aussi des risques.

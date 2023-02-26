@@ -1,0 +1,7 @@
+Input:
+Ainsi, s’appuyant sur la cybernétique, les théories cognitivistes vont reprendre le paradigme de l’input/output, non plus pour dire que le psychisme est une boîte noire, mais pour étudier la structure du système responsable des différences entre les entrées et les sorties.
+
+----
+
+Output:
+La cybernétique et les théories cognitivistes restent ainsi très resistentes aux idées d'un psychisme qui serait complètement incompréhensible, postériorisant toujours un certain type de structure, même si les détails de leur caractérisation sont très différents. Elles placent ainsi leurs recherches sur le fonctionnement des Processus Cognitifs en plaçant leurs opérations dans un modèle à champs mouvants composé d’organisations aléatoires et stables.

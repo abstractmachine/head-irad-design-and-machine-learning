@@ -1,0 +1,7 @@
+Input:
+La prise de distance avec l’intelligibilité d’un système technique au bénéfice de son efficacité (l’effet « boîte noire ») fait écho au champ de la cybernétique, dont les principes ont déterminé de nombreux systèmes contemporains de calcul, d’interfaces, et d’interaction mis en œuvre par des ingénieur·euses et des designers.
+
+----
+
+Output:
+Le concept de la « boîte noire », à la fois dans le domaine technique et en design, mérite une analyse plus poussée pour mieux comprendre sa contribution à l'innovation technologique, à la créativité et à la dynamique des systèmes informationnels. La prise de distance avec la compréhension rend les systèmes plus performants et plus accessibles pour les utilisateurs. Les principaux avantages à la mise en œuvre d'un effet « boîte noire » sont la simplification et la rationalisation ainsi que l’enrichissement d’information et la mise à disposition sur des données.

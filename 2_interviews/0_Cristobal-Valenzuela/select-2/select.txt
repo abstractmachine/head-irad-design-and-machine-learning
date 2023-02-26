@@ -1,0 +1,9 @@
+Input:
+
+Designing 3d before require you to some sort of simulation of the physical world.
+
+----
+
+Output:
+
+This could include everything from the size, shape, and appearance of the object, to the materials used to construct it, and the physics of movement. It would also involve designing for visual elements such as lighting, textures, and colors. Depending on the specific project, this process could require software such as CAD, 3D Max, and SketchUp to assist in the design process.

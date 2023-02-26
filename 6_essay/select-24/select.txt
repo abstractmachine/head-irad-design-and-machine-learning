@@ -1,0 +1,7 @@
+Input:
+les chercheurs en design Nicolas Nova et Joël Vacheron
+
+----
+
+Output:
+ont lancé une démarche de recherche-action pour accompagner les organisations face à la transformation numérique. Cette démarche se base sur un processus innovant composé d'étapes : analyse du contexte, présentation et mise en œuvre des technologies adaptées, identification des usages et des moyens humain et matériel en adéquation avec l'environnement de l'organisation, analyse des impacts et accompagnement du changement. L'objectif est de permettre aux organisations de tirer pleinement parti des technologies numériques, d'explorer de nouvelles opportunités et de s'adapter aux évolutions technologiques. Le processus est basé sur une approche collaborative et itérative, et se concentre sur l'expérience utilisateur.

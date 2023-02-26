@@ -1,0 +1,7 @@
+Input:
+En associant la notion d’intelligence à la sélection et à l’intuition —- et non pas au traitement d’informations —-, Vannevar Bush entrevoit des questions qui seront prolongées par le mathématicien Alan Turing.
+
+----
+
+Output:
+Vannevar Bush, un inventeur américain et le père du projet du World-Wide-Web, a reconnu l'importance de l'intelligence dans la sélection et l'intuition lorsqu'il a écrit l'article "As We May Think" en 1945. Dans cet article, Bush a suggéré que la technologie pourrait être utilisée pour être "plus intelligent et plus rapide dans la résolution des problèmes et la résolution des questions". Cela a conduit Bush à étudier les moyens par lesquels les humains peuvent utiliser la technologie pour se concentrer sur certaines tâches plus importantes et aborder des questions « à un niveau supérieur ».
