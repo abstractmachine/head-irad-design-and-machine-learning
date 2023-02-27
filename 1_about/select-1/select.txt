@@ -1,5 +1,5 @@
 Input:
-We are currently building this experimental tool to explore the subjects explored in the research project.
+This experimental tool illustrates subjects discussed in the research project.
 
 ----
 
