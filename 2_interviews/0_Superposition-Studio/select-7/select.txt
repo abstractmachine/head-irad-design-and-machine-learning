@@ -1,0 +1,7 @@
+Input:
+if you really want to have control over the exact parameters and functioning of your algorithm of your model a lot of mathematical knowledge is needed all of a sudden and a lot of statistical knowledge that is far from your average high school level, which is mostly enough for scripting, but it’s definitely not enough for writing machine learning models.
+
+----
+
+Output:
+To develop a model from scratch you will need to have knowledge of linear algebra, probability theory, calculus, optimization techniques, and other related topics.

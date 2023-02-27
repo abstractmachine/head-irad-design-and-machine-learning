@@ -1,0 +1,6 @@
+Input:
+Our most used, machine learning tool is actually the copilot that writes your code with you.
+----
+
+Output:
+This AI-powered tool guides developers through the coding process and helps them write code more quickly and accurately. It can recommend the right syntax, show potential errors, suggest better alternatives and help eliminate bugs, all while writing code with you. It has become a highly efficient way to develop applications, since it can detect potential issues and advise the developer before they’re integrated in the code.

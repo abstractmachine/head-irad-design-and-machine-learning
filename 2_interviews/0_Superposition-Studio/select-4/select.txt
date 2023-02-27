@@ -1,0 +1,6 @@
+Input:
+with machine learning, it’s not like that at all. So I think it’s basically introduces a whole new paradigm to do designing namely. That you’re basically trying to set you’re setting rules, you’re setting boundaries
+----
+
+Output:
+, you’re setting up a structure that can be learned and improved and updated by machine learning algorithms. So instead of trying to create a specific solution that works for our problem, we just giving the machine the problem itself and then giving him the capacity to find a possible solution by changing thing iteratively and improvising and creating new model that he think can work the best for the problem. As a result the the process will be much faster and the result will be much more powerful.

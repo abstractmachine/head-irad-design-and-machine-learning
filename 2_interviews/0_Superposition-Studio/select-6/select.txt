@@ -1,0 +1,7 @@
+Input:
+I think it’s also an interface problem. How do we interface with machine learning algorithms? And if we find sort of a translation from a purely mathematical parameters into something more human parameters, like maybe something like complexity and it just changes the visual complexity of your house these more aesthetic and more human parameters.
+
+----
+
+Output:
+Then we can make a more effective interface with the machine learning algorithm, rather than having to deal with data that you can’t quite interpret. I think about this problem quite a lot, and I think that the most effective way to interface with machine learning algorithms is to come up with an intuitive and visual way of looking at the data. A lot of the data sets that machine learning algorithms typically use are very large, and can be difficult to understand in isolation. A visual representation of the data can help to make it easier to understand and interpret, allowing people to identify patterns and trends in a way that would otherwise be impossible. Additionally, if you can create a visual representation of the data set that reflects the complexity of the data, it can help to make machine learning algorithms more interpretable and easier to use.

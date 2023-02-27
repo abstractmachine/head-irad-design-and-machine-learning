@@ -1,0 +1,6 @@
+Input:
+As soon as it’s kind of hidden away behind this interface you know, any of these online tools or something, people just kind of use it and sort of bang something out and get results. There’s no incentive to really actually innovate.
+----
+
+Output:
+I agree that it’s easy to use such tools to get results without innovating, but it also has the potential to make innovation much easier as well. It allows people to quickly prototype ideas and test them in a short amount of time. This can help to foster a process of rapid experimentation, which allows people to quickly iterate on ideas, generate new insights, and ultimately arrive at better solutions than they could have if they had only used the tools to bang something out and get results.

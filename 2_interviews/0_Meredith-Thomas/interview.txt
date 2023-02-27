@@ -36,7 +36,7 @@ Transcript:
 
 **Alexia:** Hi, thank you so much for taking the time this morning to talk about our research projects. And I think as a introduction question, it will be great. If you could tell us about your practice and what are your main interests first. And then we could diving into the most specific question.
 
-**Meredith:** , it is a little hard, cause I'm a sort of a unconvetionnal case. My undergraduate background is in biomedical engineering. And I sort of moved through a master's in science communication. And some other sort of sidetracks and international development to where I am now.
+**Meredith:** It is a little hard, cause I'm a sort of a unconvetionnal case. My undergraduate background is in biomedical engineering. And I sort of moved through a master's in science communication. And some other sort of sidetracks and international development to where I am now.
 
 But I just think, I think always I've had this interest in sort of combining creative and technical disciplines. Even while I was as a graduate engineer, I was running art societies and trying to gout science collaborations off the ground and I think universities also wearing counselors machine learning, artificial intelligence.
 
@@ -56,7 +56,7 @@ I think there's a right at the other end of the spectrum, more conceptual artist
 
 And yeah. And we'll often just come to you and be , I want AI of this piece kind of thing. But I'm also seeing opens up it's , as soon as you're using artificial intelligence that carries all these sort of signifiers with it to an audience, which means you can start to talk about kind of non human agency and really poetic way is it just needs this.
 
-, I think it always does need this kind of authentic attempt and the sensor, if it's to actually implement something. Yeah. And then in the middle, there's kind of this, this, I think this really interesting space, which is, I think the space that I'm more interested in, personally, which is , just thinking how machine learning can change the way we fundamentally do creative work.
+I think it always does need this kind of authentic attempt and the sensor, if it's to actually implement something. Yeah. And then (select:2)in the middle, I think this really interesting space, which is, I think the space that I'm more interested in, personally, which is just thinking about how machine learning can change the way we fundamentally do creative work(deselect:).
 
 And sometimes that's just because it has some kind of affordance, the generative capabilities of artificial intelligence are going to just open up a new potentials and the way people do creative practice
 
@@ -98,21 +98,17 @@ And that's just kind of a problem, I think with creative coding in general, righ
 
 These neural networks are structured. Because otherwise it's just a confusion surprise and confusion engine. Really wants to encourage us as creative to , Very strongly with the with the actual, how the technology works, because I think that's where the fruitful discoveries are going to come from at the moment.
 
-As soon as it's kind of hidden away behind this interface you know, any of these online tools or something, people just kind of use it and sort of bang something out and get results. There's no incentive to really actually innovate. , I would say the exception to this is there's definitely a role for people.
+(select:1)As soon as it's kind of hidden away behind this interface you know, any of these online tools or something, people just kind of use it and sort of bang something out and get results. There's no incentive to really actually innovate(deselect:). I would say the exception to this is there's definitely a role for people.
 
 Just kind of intuitively navigating through latent spaces. And , this is where all this GaN art comes from, I guess, as people who, who had just very good generative artists who had just handed a system and try and extract something from it. But I think that's a real limitation to.
 
 Well, that will get you. And then maybe further in the future we have conversational interfaces with these things and you have much richer ways of navigating latent spaces and models. And then possibly at that point, maybe they could be handed over, but in the short term for me, I think , realistically people need to be quite engaged.
 
-The only other, the only other point I was going to make is , does it, there's another big problem. I think with some tools runway, which is that they still charge, you know, it's not really disincentive experimentation, for years and years, I couldn't afford my and GPU.
-
-And I was the spending half of the money. I you know, Paperspace remotes or remote machines. And you feel really guilty, you know, every time. Spin it up your you know, you're costing yourself money, which you probably do think of as a young artist. And I could really disincentivize experimentation and I've had to just invest in my own hardware, as a super high priorityjust to enable me to have
-
-I have the freedom to play. So I think that's also a bit of an issue with some of these tools. 
+The only other, the only other point I was going to make is, there's another big problem. I think with some tools runway, which is that they still charge, you know, it's not really disincentive experimentation, (select:3)for years and years, I couldn't afford my and GPU. And I was the spending half of the money on remote machines. And you feel really guilty, you know, every time. Spin it up and you're costing yourself money(deselect:), which you probably do think of as a young artist. And it could really disincentivize experimentation and (select:4)I've had to just invest in my own hardware, as a super high priority, just to enable me to have the freedom to play. So I think that's also a bit of an issue with some of these tools.(deselect:)
 
 **Alexia:** Do you do you usually use machine learning as an end in itself, or sometime you going to use it in another stage of your process? 
 
-**Meredith:** For me, the attraction is always going to be in , creating something which shows evidence of intelligence. That's where I want the surprise to come from video against. I could use it just needs to show that in the results or, or through the process of explanation, but Yeah, I think for me, it is very much about that. And also just the showing off of it.
+**Meredith:** (select:5)For me, the attraction is always going to be in creating something which shows evidence of intelligence(deselect:). That's where I want the surprise to come from video against. I could use it just needs to show that in the results or, or through the process of explanation, but Yeah, I think for me, it is very much about that. And also just the showing off of it.
 
 **Alexia:** Could you tell me more about what do you mean by showing evidence of intelligence? 
 

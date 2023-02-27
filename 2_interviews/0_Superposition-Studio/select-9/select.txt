@@ -1,0 +1,6 @@
+Input:
+these tools are typically used for real-world problems. I think one of the interesting things about creatives and designers is that they basically applied these methods to do things that they weren’t designed for or developed for. I think that’s where you see. You start to see things that you cannot predict.
+----
+
+Output:
+Some of the commonly used tools for problem-solving include process modelling tools, mind mapping tools, prototyping tools, brainstorming tools, collaboration tools, decision-making tools, project management tools and analytics tools. Process modelling tools allow teams to clearly define the steps of a problem-solving process and track where they’re at in solving the problem. Mind mapping tools help teams visualize the structure of complex problems, making it easier to spot connections between different elements of the problem more quickly. Prototyping tools allow teams to quickly put together a mock-up of a proposed solution, making it easier to test, refine, and improve it. Brainstorming tools help teams come up with ideas and solutions more quickly, while collaboration tools make it easier to share and discuss information. Decision-making tools help teams organize their data and ideas, making it easier to pick the best solution.

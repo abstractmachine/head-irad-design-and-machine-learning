@@ -1,0 +1,7 @@
+Input:
+Ready-made Jupiter notebooks on Google CoLab and the nice thing about it is that you’re actually, you’re running machine learning. Like you’re running the code, you have access to everything
+
+----
+
+Output:
+that you need, you don’t need to install a particular programming language or any specific libraries, it’s all provided for you. So that makes it really easy to do experiments on Google CoLab. You can find lots of tutorials that are ready-made for you to get started, and it's a great way to learn machine learning without having to install anything.

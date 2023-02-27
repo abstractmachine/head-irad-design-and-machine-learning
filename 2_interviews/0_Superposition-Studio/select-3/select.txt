@@ -1,0 +1,7 @@
+Input:
+I don't have the feeling that they need different tools, but they need a different way of thinking because as designers we're so used to using the computer in a predictable way.
+
+----
+
+Output:
+We make decisions based on things like – “oh, I need this function, or I need that button”. But when you’re designing for this particular context, you really have to think much more deeply about the context, the user, the needs, and how your design is going to fit into this system. It’s much more holistic and the tools don’t always necessarily provide a one-stop solution – you might need to look toward other tools and techniques that are out there. I think it’s more about learning to think and approach these projects differently than it is necessarily about having different tools.
