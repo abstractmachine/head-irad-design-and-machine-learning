@@ -4,4 +4,4 @@ La prise de distance avec l’intelligibilité d’un système technique au bén
 ----
 
 Output:
-Le concept de la « boîte noire », à la fois dans le domaine technique et en design, mérite une analyse plus poussée pour mieux comprendre sa contribution à l'innovation technologique, à la créativité et à la dynamique des systèmes informationnels. La prise de distance avec la compréhension rend les systèmes plus performants et plus accessibles pour les utilisateurs. Les principaux avantages à la mise en œuvre d'un effet « boîte noire » sont la simplification et la rationalisation ainsi que l’enrichissement d’information et la mise à disposition sur des données.
+Développé notamment par Norbert Wiener dans les années 1940, l'approche cybernétique s’intéresse particulièrement à la manière dont l’échange d’informations entre deux systèmes – l’homme et la machine – peut avoir des conséquences et se traduire en une action ou une réaction prédéterminée. Elle tente également de comprendre le lien entre l'intelligence humaine et artificielle et ses implications sur la conduite des systèmes technologiques.

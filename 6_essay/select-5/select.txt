@@ -1,7 +1,7 @@
 Input:
-À la fin des années 1980, les recherches fédérées par l’informaticien Yann Le Cun vont rouvrir l’axe des réseaux de neurones, qui va se révéler plus efficace que l’approche symbolique.
+À la fin des années 1980, les recherches fédérées par l’informaticien Yann Le Cun vont rouvrir l’axe des réseaux de neurones, qui va se révéler plus efficace que l’approche symbolique. Appliquée par exemple à la reconnaissance automatique des codes postaux manuscrits fournis par la poste américaine
 
 ----
 
 Output:
-A la différence de l’intelligence artificielle, les réseaux de neurones utilisent une approche plutôt que symbolique. L'intelligence artificielle s'appuie sur l'utilisation d'algorithmes pour résoudre des problèmes qui ne sont pas résolus par des méthodes classiques. Les réseaux de neurones, en revanche, tirent leur puissance de leur capacité à apprendre à partir de données pour reconnaître des patrons et prendre des décisions automatiques. Les réseaux de neurones sont capables de prévoir des types de comportement et de trends sans avoir à être explicitement programmés.
+. Le Cun commence par développer un réseau à convolution, le Convolutional Network ( CONVNET ), qui permet de détecter des caractéristiques dans des images et de les regrouper dans des cartes de présence. Le réseau est appliqué avec succès à la reconnaissance des caractères manuscrits. Les efforts de Yann Le Cun et ses collègues vont conduire à la création du Réseau Neuronal Profond ( Deep Neural Network ou DNN ), avec la liberté de sélectionner le type et la structure de leurs réseaux de neurones artificiels personnalisés.

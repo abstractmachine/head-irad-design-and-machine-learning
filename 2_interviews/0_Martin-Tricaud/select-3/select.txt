@@ -1,0 +1,7 @@
+Input:
+
+Voilà, je veux que tu sois toujours perpendiculaire à celle-là, que le point milieu de cette ligne soit toujours sur la périphérie de tel autre cercle et que tel au cercle soit toujours tangent à au côté de rectangles.
+----
+
+Output:
+Pour cela, placé le point milieu de la ligne perpendiculaire à la ligne de référence sur la périphérie du cercle, faites-y coincider un des côtés du rectangle à tangenter et placez-la perpendiculairement à la ligne de référence également. Après cela, faites coïncider le côté opposé du rectangle avec le cercle et ajustez le positionnement du bord du rectangle pour que l'on constate une tangence avec le cercle.

@@ -1,0 +1,7 @@
+Input:
+il calcule que si j’ai déclaré que le sens de mon cercle fixe et que je veux faire une ligne tangent à mon cercle. quand je bouge la ligne il va calculer automatiquement de combien est ce qu’il doit augmenter le diametre du cercle
+
+----
+
+Output:
+et il va faire une ligne tangente au cercle. Il est malheureusement impossible de réaliser ce type de calcul. Les mouvements d'un cercle et le calcul correspondant des points de tangence sont des problèmes mathématiques trop complexes pour être représentés par un programme informatique.

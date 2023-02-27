@@ -4,4 +4,4 @@ La simulation des neurones humains ouvre la voie à une première approche de l�
 ----
 
 Output:
-Cette méthode de simulation d'un réseau neuronal humain implique que les neurones artificiels soient programmés pour apprendre de nouvelles compétences en avalant des informations et en les transférant plus efficacement et rapidement. Il s'agit donc d'une méthode prometteuse pour le développement de technologies plus intelligentes et plus réalistes. La simulation des neurones humains peut en effet fournir des simulations convaincantes et réalistes de différents types de fonctionnement cérébral, en utilisant des algorithmes de réseaux de neurones artificiels (RNA).
+par rapport à l’approche symbolique dont elle est complémentaire. La simulation des neurones réplique certains aspects des neurones humains en réseau, notamment les connexions entre neurones et le type de signalation qu'ils génèrent. Ces réseaux de neurones peuvent être utilisés pour générer des comportements “intelligents”.

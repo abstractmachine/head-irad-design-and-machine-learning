@@ -1,0 +1,9 @@
+Input:
+
+il y a une telle distance entre enfin ses limites, comme demander à un pote s’il peut vous faire un dessin
+
+----
+
+Output:
+
+peut sembler très subjectif. Cependant, tout dépend de la nature de votre relation avec votre ami et de ce que vous demandez à votre ami de faire. Une demande raisonnable implique d’attendre des résultats et un investissement suffisants, tandis qu’une demande qui dépasse ces limites peut invalider cette amitié. Il est important de réfléchir aux conséquences que votre demande aura sur votre ami, car vous ne voulez pas leur faire du mal inutilement.

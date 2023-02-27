@@ -1,0 +1,9 @@
+Input:
+
+Poser des mots sur ce qu’on fait, c’est beaucoup plus compliqué que les concepteurs de ces logiciels peuvent imaginer. La deuxième chose que j’ai découvert dans un dans un bouquin sociologie, de Eva Illouz j’ai découvert des recherches très intéressantes sur le à quel point le fait de formaliser verbalement ses intentions, ça entraîne une paralysie décisionnelle et une apathie émotionnelle c’est-à-dire que , elle explique sa pour les pour les applications de enfin pour tout ce qui est un système de rencontres par Internet où les gens sont toujours invités à mettre des mots de plus en plus précis sur ce qu’il recherche et qu’en fait il y a eu des études en psychologie sociale qui ont montré que plus on définit préalablement ce qu’on veut.
+
+----
+
+Output:
+
+Plus le mental cherche à respecter ces définitions et donc moins le corps et la notion de plaisir peuvent intervenir.

@@ -1,0 +1,9 @@
+Input:
+
+challenge that we have to, hopefully we can solve to be transparent about how a certain decision was made, or at least be able to tell what data went in and what, what results came out. So you can like almost as if you have a. If you buy so product in the supermarket, you also see what’s inside how it was maybe produced that, that doesn’t become too much like yeah, two big gap. If the gap becomes too big, I think that’s a bit frightening.
+
+----
+
+Output:
+
+So it’s important to not just, let’s say, generate numbers out of nowhere and make decisions on them, but to make the process behind that.Transparent.
