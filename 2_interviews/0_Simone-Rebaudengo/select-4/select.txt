@@ -1,0 +1,7 @@
+Input:
+everyone tells you, okay, you must have a clean data set everything needs to be the same white background and everything. That's the way to get perfect or, good outputs. But I think what is interesting for me is not the good outputs, but it's kind of the exploring what else. So basically even the data set as a medium to express, what you might want to design
+
+----
+
+Output:
+for the machine. I think that's a really interesting and valid approach to take when creating data sets for machine learning. It allows us to explore different variations and create datasets that can lead to more creative and innovative results. By combining different data sets and experimenting with different combinations, we can create a more dynamic and interesting artificial intelligence system. This type of exploration can also help us uncover possibilities that would be difficult to discover with a standard data set. Additionally, by experimenting with different combinations, we can create datasets that are more representative of the real world, which could lead to better results.

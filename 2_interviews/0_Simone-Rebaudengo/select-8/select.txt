@@ -1,0 +1,7 @@
+Input:
+So it's an AI, let's say neural network to craftsmen end-to-end process. Or basically at different stages we use different machine learning tools, both to generate ideas, make decisions. And then all the way, from 2d to 3d all the way to, working with actual human craftsman. So we are interested in that dichotomy
+
+----
+
+Output:
+between science and art, what machines can do and what humans can do. So a lot of our research revolves around that.

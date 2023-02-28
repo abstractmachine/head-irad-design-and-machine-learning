@@ -1,0 +1,7 @@
+Input:
+the dataset creation part is really like a craft in and of itself. It's not really scientific. It's not really a process. You need to have a sort of sensitivity to know what you can get out of it.
+
+----
+
+Output:
+You also have to work with multiple sources to create a comprehensive dataset and make sure all of the individual data points are accurate, meaningful and able to be used in different algorithms to generate meaningful insights. You also need to consider the different use cases the dataset will be used for and ensure you’re collecting data that can be used appropriately. Finally, you need to go through the necessary steps to clean, curate, and verify the data so it’s ready to be used in analyses and machine learning applications.

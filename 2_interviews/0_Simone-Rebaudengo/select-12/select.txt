@@ -1,0 +1,7 @@
+Input:
+Berg was, had these amazing articles about, be as smart as a puppy and all this talking about the metaphors of intelligence.
+
+----
+
+Output:
+Berg's writing explored how we can use metaphors to better understand the concept of intelligence. She often used the metaphor of pup intelligence, which refers to the way puppies soak up information and use it to learn quickly and adapt to their environments. Berg also discussed how humans can pick up on certain cues and use them to their advantage. For example, she argued that a young child who is familiar with the concept of cause and effect can avoid an accident by pausing to consider the consequences of an action before they take it. Berg also highlighted the importance of curiosity and finding creative solutions to problems. She suggested that being open to learning and exploring new ideas was a key part of building intelligence.

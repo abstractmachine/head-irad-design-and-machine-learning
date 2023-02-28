@@ -1,0 +1,7 @@
+Input:
+I think there is still a necessity of allowing a bit of putting your hands in the machine. You need to understand a bit how it works. You cannot make a wooden chair if you don't know how wood behaves, so you cannot make a nail-based output if you don't understand a bit what it is
+
+----
+
+Output:
+and how it works. That being said, it is possible to use tools and frameworks such as TensorFlow to get started with Machine Learning and AI in a very short amount of time. This allows developers to get a feel of working with ML in practice and adopt techniques and tools at a much quicker rate. So, although having some level of understanding is important to make effective usage of ML, practical development activities can occur much faster with the help of available tools and frameworks.

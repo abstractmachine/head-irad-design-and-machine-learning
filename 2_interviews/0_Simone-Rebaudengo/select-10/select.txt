@@ -1,0 +1,7 @@
+Input:
+you can have a conversation with Pluto as a planet, and suddenly you have a bot basically impersonating and having a point of view of a planet.
+
+----
+
+Output:
+That sounds quite interesting! What do you think a conversation with Pluto as a planet would be like? I think a conversation with Pluto as a planet could be quite interesting. For example, you could ask it questions about its current worldview and its place in the solar system. You could talk about how things have changed since it was reclassified as a dwarf planet (and even ask questions like, how do you feel about being reclassified as a dwarf planet?). You could also talk about its climate and its future; perhaps even discuss some ideas for possible missions to Pluto and its moons. Of course, you can also ask general queries about what it's like being a planet in the distant reaches of the solar system.

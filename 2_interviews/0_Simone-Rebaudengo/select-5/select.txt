@@ -1,0 +1,7 @@
+Input:
+can you make an intelligence that is, for instance, not as intelligent as as a human?
+
+----
+
+Output:
+Yes, it is possible to create an artificial intelligence (AI) that is not as intelligent as a human. This type of AI is known as a narrow AI, which is designed to focus on one particular task or area of expertise. These narrow AIs can outpace humans at certain tasks but lack the broader range of reasoning and problem-solving skills we associate with general human intelligence. Examples of narrow AI can commonly found in modern applications such as online shopping recommendations, facial recognition, and even self-driving cars.

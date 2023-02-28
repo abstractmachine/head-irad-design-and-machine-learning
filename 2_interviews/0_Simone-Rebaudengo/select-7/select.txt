@@ -1,0 +1,7 @@
+Input:
+especially when you look at artificial intelligence — a lot of the visions are about simplifying streamlining automating, those are all the verbs that you hear.
+
+----
+
+Output:
+It’s about making things more efficient, getting more done with less human input, etc. But when you focus on that exclusively, you don’t have to pay close attention to the impact on people’s lives. That’s why it’s so important to also look at the human factor in AI. How will it affect people’s quality of life? Will it create new opportunities or just streamline the existing jobs? How will it impact people’s culture and values? All of these questions have to be asked in the conversation. And this is something that technologists, researchers, and business leaders should all bear in mind.

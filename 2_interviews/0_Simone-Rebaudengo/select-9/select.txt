@@ -1,0 +1,7 @@
+Input:
+We are trying to use it as a way to talk about the different way of looking for instance of machine learning tools as collaborator in your studio rather than only as a tool or as a, let’s say automating tool.
+
+----
+
+Output:
+The idea here is to think about how to collaborate with those machine learning algorithms and how it can help decision making. It could be a tool for generating ideas, for researching topics and for solving problems, as well as a tool for aiding with the actual production of materials and media. With the help of machine learning, you can keep advancing and improving your project as new input data is added, so that you can create a smarter and more efficient process with both human and machine collaborative efforts.

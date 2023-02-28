@@ -1,0 +1,7 @@
+Input:
+sometimes when I do things that are supposed to be really wrong like, I actually sometimes I don't use really well cleaned data set on purpose. So where the images are not all in the same direction, because then you can start to get weird transitions between things
+
+----
+
+Output:
+, which can be quite interesting to look at. And this is often something that I do on purpose, because it shows a different side of the same dataset. In general, this is not recommended. Datasets should generally be as clean as possible, both to make the data easier to work with and to increase the accuracy of the results. If you want to introduce variation or start to explore other datasets with the same data, it's best to use a different dataset altogether.

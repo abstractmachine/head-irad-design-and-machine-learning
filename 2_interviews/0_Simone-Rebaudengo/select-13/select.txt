@@ -1,0 +1,6 @@
+Input:
+Okay. It's a voice assistant.
+----
+
+Output:
+Voice assistants are computer programs that you can use to get answers to questions, control your smart home devices, and more. They use natural language processing and artificial intelligence to understand your commands, learn from the conversations you have, and will often provide directions or other helpful information. Popular voice assistants include Siri (on Apple devices), Google Assistant (on Google devices), and Alexa (on Amazon devices).

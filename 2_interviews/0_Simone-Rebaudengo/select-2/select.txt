@@ -1,0 +1,7 @@
+Input:
+Is it a assisting tool? Is it a new Photoshop or is it a coworker? Is it an Intern? Is it just a weird guy that got a weird thing that has its own point of view?
+
+----
+
+Output:
+No, it is not a assisting tool, Photoshop, coworker, Intern, or a weird guy with a weird thing. It is a type of artificial intelligence technology that provides a platform to power machines to make smart decisions, based on data analysis and past experiences. It can also learn from experiences and produce more accurate guesses about the environment.

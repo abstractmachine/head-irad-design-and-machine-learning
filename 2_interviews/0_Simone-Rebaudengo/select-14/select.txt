@@ -1,0 +1,7 @@
+Input:
+are we interested in things that are a hundred percent recognized as such or 80%? And what is the cutting line? 50% or less then it’s not an object.
+
+----
+
+Output:
+The cutting line is subjective and depends on the user. Generally, any object that is recognized as being extended as something more than 50% will be considered an object.
