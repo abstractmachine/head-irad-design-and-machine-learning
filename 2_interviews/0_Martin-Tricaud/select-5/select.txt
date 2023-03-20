@@ -1,0 +1,6 @@
+Input:
+dans les logiciels musicaux il y a souvent des c’est-à-dire un synthétiseur numérique il a beaucoup de variables dans le très bas niveau
+----
+
+Output:
+Les variables peuvent inclure le type de sonorité, le type d’enveloppe, la durée de chaque note, la puissance et fréquence des notes, l'effet s’appliquant aux sons et la puissance et niveau des processus tels que la distorsion, l’égaliseur et la réverbération. Une fois toutes ces variables définies, le synthétiseur produit des sons reproduisant avec précision le type de son et le timbre prédéterminés. Les composants de de synthétiseur les plus basiques sont des oscillateurs, des filtres et des enveloppes. Les oscillateurs sont des ondes qui à haute fréquence produisent des textures uniques.

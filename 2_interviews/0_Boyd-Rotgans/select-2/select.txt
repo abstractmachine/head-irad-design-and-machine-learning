@@ -1,0 +1,9 @@
+Input:
+
+we as a studio we are relatively small. We have a core team of four people but quite diverse. We have graphic designers. We have computer scientist,
+----
+
+Output:
+
+engineer, and a marketer. This allows us to cover a lot of different aspects in terms of technology, design, and marketing. We also have a network of freelancers that we can draw upon as needed to expand and support the rest of our team when necessary. Our focus is on creating beautiful custom websites and helping our clients succeed in an ever-changing digital world.
+

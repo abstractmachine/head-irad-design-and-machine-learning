@@ -1,0 +1,8 @@
+Input:
+
+when you create your own datasets, like I said, there will always be a lot of outliers.
+----
+
+Output:
+
+To handle these outliers, you will need to apply data transformations or statistical methods like standardization, normalization, and binning, to better structure your data. You should also make sure to document your data cleaning process so that you can refer back to it if needed.

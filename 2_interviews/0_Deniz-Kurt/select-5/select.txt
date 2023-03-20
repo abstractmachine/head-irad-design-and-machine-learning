@@ -1,0 +1,6 @@
+Input:
+I think what's important to see here is that it's not a decision-making mechanism making decisions for us. It's basically collecting the data of our decisions and making a bulk of it. And by looking at those systems’ labeled or unlabeled data. We can see our own decision-making mechanism as a society.
+----
+
+Output:
+We can decide if we want to go down a certain path or not. We can see the results of our decisions and then make informed decisions about our future actions. In this way, the algorithm can be used to help us make the best decisions we can.

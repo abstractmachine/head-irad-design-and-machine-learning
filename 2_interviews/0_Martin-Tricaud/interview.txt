@@ -56,7 +56,7 @@ Mais (select:2)il y a une telle distance entre enfin ses limites, comme demander
 
 **Martin:** par exemple, si je moi c'est un truc dont je me rends compte.
 
-Du coup en l'occurrence il y a pas de machine mais mais dans les logiciels musicaux il y a souvent des c'est-à-dire un synthétiseur numérique il a beaucoup de variables dans le très bas niveau. pour il y en a trop et donc du coup en général c'est des les choses sont fournis avec des macros c'est-à-dire un bouton on va tourner qui va contrôler plusieurs autres et en général ce bouton lui donne le le ça arrive assez souvent que ce paramètre.
+Du coup en l'occurrence il y a pas de machine mais mais (select:5)dans les logiciels musicaux il y a souvent des c'est-à-dire un synthétiseur numérique il a beaucoup de variables dans le très bas niveau(deselect:). pour il y en a trop et donc du coup en général c'est des les choses sont fournis avec des macros c'est-à-dire un bouton on va tourner qui va contrôler plusieurs autres et en général ce bouton lui donne le le ça arrive assez souvent que ce paramètre.
 
 Le concepteur du logiciel lui attribue un nom qui correspond à paramètres au niveau par exemple, on peut dire qu'un sont il est il est gras ou bien sont ils et que fondamentalement c'est pas des c'est c'est pas des paramètres bas niveau c'est pas des paramètres de fréquence ne fasse quoique ce soit, c'est vraiment des c c'est un paramètre.
 

@@ -1,0 +1,7 @@
+Input:
+the more data you use, the more GPUs you use, the more harmful you become for the planet. So sometimes it feels like a vicious circle for us
+
+----
+
+Output:
+, as data scientists, because of the intense computational need that might appear every now and then. That being said, there are ways to reduce the impact on the environment, such as investing into renewable energy, noise pollution control and creating sustainable consumer habits. Moreover, it is also possible to search for new ways to make data-driven analysis more efficient, to reduce the need of energy consumption. One example of this is the use of AI-powered supercomputers and distributed computing systems, which use less energy and accelerate the analysis processes, making them faster and more efficient. Additionally, academically and industrially there is constant research for new programming models and algorithms which further reduce energy consumption and promote energy efficiency. In parallel, other measures include using energy-efficient hardware to run the same computations in a more efficient way, as well as the development of green energy-powered servers.

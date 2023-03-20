@@ -1,0 +1,9 @@
+Input:
+
+Quand on réalise un projet, on n’est pas dans une logique de reproduction magique de l’objet quand on produit, mais plutôt qu’on co-crée avec la machine.
+
+----
+
+Output:
+
+Une logique de co-création implique en effet un dialogue entre les matériaux et les outils disponibles pour créer le produit, ainsi qu'un dialogue avec les personnes impliquées. Le producteur travaille avec la machine pour créer le produit qu'il souhaite en tenant compte des limites et des contraintes des matériaux et des outils disponibles et des idées de ces personnes impliquées ou qui l’entourent. La machine devient alors un outil qui permet d'accomplir le travail, mais qui n'est pas nécessairement maître de ce qu'il se produit.

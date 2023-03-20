@@ -1,0 +1,8 @@
+Input:
+
+designers will have that more of that role of curating and designing, deciding work to go, but also what to fit these algorithms, depending what you fit, you’ll get different answers. And so you’re also curating your own algorithms. What you put into the system to train will influence what you get out. Right. And so you’re an editor at the beginning and your editor at the end.
+
+----
+
+Output:
+Erin and Jody discuss machine learning as a tool, a new source in the creative toolkit, and an area of new skills to stand out in, regardless of your profession. Jody So the overall message I’m hearing from you is that we all need to be thinking about how to use machine learning and our work because it’s not going away? Erin Exactly it’s not going away. And it’s for everyone, whether it’s software engineers or people in the arts that also need to get in there and start to understand it. So it’s not like this is an additional job description. It’s not just for Google or Amazon. It’s for everyone. And the more people that understand and can use machine learning, the better.

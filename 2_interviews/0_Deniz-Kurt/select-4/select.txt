@@ -1,0 +1,9 @@
+Input:
+
+if you create it from scratch it will take a long, long time. So I think the best use-case scenario for that is using archives.
+
+----
+
+Output:
+
+In terms of the best use-case for using archives, I would say it depends on your specific goals and needs. For example, if you are looking to quickly create a unique website with a custom design and features, archives are a great option. They can provide a platform that already has code, images and content ready to go, which can save you significant time and effort. On the other hand, if you are looking to create a website that is unique and will take a long time to create from scratch, then archives will not be the best option. In this case, it may be better to create everything yourself or to hire a professional team.

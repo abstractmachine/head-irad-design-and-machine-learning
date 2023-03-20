@@ -1,0 +1,8 @@
+Input:
+
+What I really like in machine learning is that of making predictions about a user experience
+----
+
+Output:
+
+or an event's outcome is immensely helpful for understanding the complexity of a problem or an overall experience. Once the model is built and you get accurate predictions, it's exciting to see results that you weren't able to predict before. Machine learning enables you to uncover hidden insights, discover unknown relationships and solve complex tasks. Additionally, with the rise of incredibly powerful computers, ML has become easier to apply in almost every field, leading to greater insights and more predictive power.
